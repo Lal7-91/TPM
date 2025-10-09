@@ -16,6 +16,7 @@ docopt==0.6.2
 faiss-cpu==1.7.4
 frozenlist==1.4.0
 gitdb==4.0.10
+google-search-results==2.4.2
 GitPython==3.1.37
 h11==0.14.0
 idna==3.4
