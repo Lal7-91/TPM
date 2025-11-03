@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ChoI7r2jtYXl5eeDARoNL2cvMTF2d19rOW03YhAB",
+    "name": "OVAZ",
+    "price": 530,
+    "stars": null,
+    "rating": 4.9,
+    "reviews": 490,
+    "location_rating": 2.7,
+    "coordinates": {
+      "latitude": 24.792358099999998,
+      "longitude": 46.820056699999995
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Kitchen"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoIzMH_r5TehtfsARoNL2cvMTF0NzNicHhtZBAB",
+    "name": "فشركة سند للاستقدام ندق مارفوليوس",
+    "price": 251,
+    "stars": 3,
+    "rating": 4.8,
+    "reviews": 490,
+    "location_rating": 3.5,
+    "coordinates": {
+      "latitude": 24.6840397,
+      "longitude": 46.726020299999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Hot tub",
+      "Air conditioning"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkIuvay0v_gpYM6Gg0vZy8xMWs1MGQ4Yno3EAE",
+    "name": "Seven Gardens Hotel",
+    "price": 429,
+    "stars": 4,
+    "rating": 4.7,
+    "reviews": 916,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 24.8318454,
+      "longitude": 46.6926614
+    },
+    "amenities": [],
+    "link": "http://www.sevengardens.com.sa/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI6e3rnPHKrtOyARoNL2cvMTF5NGxzN2tmXxAB",
+    "name": "Nova M Hotel Riyadh, Edge by Rotana",
+    "price": 537,
+    "stars": 4,
+    "rating": 4.7,
+    "reviews": 871,
+    "location_rating": 3.3,
+    "coordinates": {
+      "latitude": 24.7199749,
+      "longitude": 46.6722131
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub"
+    ],
+    "link": "https://www.rotana.com/edge/kingdomofsaudiarabia/riyadh/novamhotel",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI3rKXtuSelv5_Gg0vZy8xMXduX2Q4ajhkEAE",
+    "name": "كنين للشقق المخدومة",
+    "price": 322,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 358,
+    "location_rating": 2.9,
+    "coordinates": {
+      "latitude": 24.5599535,
+      "longitude": 46.5567141
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Kitchen",
+      "Full-service laundry"
+    ],
+    "link": "http://www.kanin-sa.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI-uWH5OSt272lARoNL2cvMTF3Zl9iZ3B5eRAB",
+    "name": "بيستانا للشقق الفندقيه 4",
+    "price": 372,
+    "stars": null,
+    "rating": 4.8,
+    "reviews": 171,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 24.800424099999997,
+      "longitude": 46.625689699999995
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Kitchen in some rooms",
+      "Full-service laundry"
+    ],
+    "link": "https://pestana.sa/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIqYG04JTh8-A0Gg0vZy8xMXZ5NTh5MDJrEAE",
+    "name": "افال للشقق المخدومة المونسيه",
+    "price": 323,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 283,
+    "location_rating": 2.9,
+    "coordinates": {
+      "latitude": 24.836791299999998,
+      "longitude": 46.7645451
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Bar"
+    ],
+    "link": "https://37530.bookmystay.io/?utm_source=gmb&utm_campaign=website_buttton",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIrsDVlNTHj8UTGg0vZy8xMXdwbG55NGJjEAE",
+    "name": "شقق نيام للشقق المخدومة اقتصادي",
+    "price": 350,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 248,
+    "location_rating": 3.6,
+    "coordinates": {
+      "latitude": 24.8275735,
+      "longitude": 46.7843733
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Parking",
+      "Room service",
+      "Kitchen in some rooms",
+      "Full-service laundry"
+    ],
+    "link": "https://naim.baab.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIwJbt87ulqdclGg0vZy8xMWNqZzN2NnhqEAE",
+    "name": "Wasan Suites اجنحة وسن",
+    "price": 247,
+    "stars": 2,
+    "rating": 4.6,
+    "reviews": 679,
+    "location_rating": 4.3,
+    "coordinates": {
+      "latitude": 24.613844,
+      "longitude": 46.7561961
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE",
+    "name": "افال للشقق المخدومة-اليرموك",
+    "price": 350,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 247,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 24.812746999999998,
+      "longitude": 46.804632399999996
+    },
+    "amenities": [
+      "Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Room service",
+      "Kitchen in some rooms"
+    ],
+    "link": "https://www.afalsuites.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIz9KC4q_K9dngARoNL2cvMTF0NDhrX2o2dxAB",
+    "name": "SMAYAH RESIDENCE",
+    "price": 432,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 584,
+    "location_rating": 4.0,
+    "coordinates": {
+      "latitude": 24.762462799999998,
+      "longitude": 46.7256631
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning"
+    ],
+    "link": "http://booking.smayah.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIr67l0aDy8P32ARoNL2cvMTFoZDZ6MHA2YhAB",
+    "name": "Mercure Riyadh Al Anoud",
+    "price": 516,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 420,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 24.6643512,
+      "longitude": 46.701358299999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning"
+    ],
+    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B4G5&merchantid=seo-maps-SA-B4G5&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIttO-rc2Mt4I6Gg0vZy8xMWtxNHgwemRsEAE",
+    "name": "Four Points by Sheraton King Abdulaziz Road",
+    "price": 571,
+    "stars": 4,
+    "rating": 4.7,
+    "reviews": 176,
+    "location_rating": 3.3,
+    "coordinates": {
+      "latitude": 24.7024062,
+      "longitude": 46.718105
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center"
+    ],
+    "link": "https://www.marriott.com/en-us/hotels/ruhfk-four-points-king-abdulaziz-road/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIzNby6KXg_qqXARoNL2cvMTFsMjl3OHM1bBAB",
+    "name": "فندق هوم ليا للشقق الفندقية",
+    "price": 320,
+    "stars": null,
+    "rating": 4.6,
+    "reviews": 335,
+    "location_rating": 2.5,
+    "coordinates": {
+      "latitude": 24.583183899999998,
+      "longitude": 46.8041613
+    },
+    "amenities": [],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkI68LMgcCuhNlwGg0vZy8xMWw1amtfcTVwEAE",
+    "name": "Dorra Suites أجنحة درة",
+    "price": 518,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 162,
+    "location_rating": 4.1,
+    "coordinates": {
+      "latitude": 24.8178612,
+      "longitude": 46.784506799999996
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Kitchen",
+      "Full-service laundry"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoI2I7K17293dHMARoNL2cvMTFzM3k1Nm55cBAB",
+    "name": "Shorfa Hotel",
+    "price": 470,
+    "stars": null,
+    "rating": 4.6,
+    "reviews": 292,
+    "location_rating": 3.6,
+    "coordinates": {
+      "latitude": 24.7918924,
+      "longitude": 46.644206399999995
+    },
+    "amenities": [],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoI4M3v1dD7gMayARoNL2cvMTF3aHNoejl3bRAB",
+    "name": "فندق ريان الجنادرية للشقق المخدومة",
+    "price": 250,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 161,
+    "location_rating": 2.7,
+    "coordinates": {
+      "latitude": 24.809324699999998,
+      "longitude": 46.8737321
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Room service",
+      "Kitchen"
+    ],
+    "link": "https://sadaa.com.sa/hotels/rayan-al-janadria-hotel/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI3s3G_-vspbecARoNL2cvMTFxOTdrNGR4ehAB",
+    "name": "Hayat Alriyadh Hotel",
+    "price": 326,
+    "stars": 4,
+    "rating": 4.5,
+    "reviews": 1339,
+    "location_rating": 4.1,
+    "coordinates": {
+      "latitude": 24.652271499999998,
+      "longitude": 46.708106199999996
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pool",
+      "Hot tub"
+    ],
+    "link": "https://www.hayatwasham.com/",
+    "sponsored": null
+  }
+]
