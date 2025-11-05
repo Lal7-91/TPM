@@ -1,21 +1,21 @@
 {
   "search_metadata": {
-    "id": "6908ea60a1de127a25f02d56",
+    "id": "690b7b272328e16b35f682c1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/bac99485a557d480/6908ea60a1de127a25f02d56.json",
-    "created_at": "2025-11-03T17:46:08.503Z",
-    "processed_at": "2025-11-03T17:46:08.504Z",
-    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=us&rt=c&soc-app=162&soc-platform=1&soc-device=1",
-    "raw_html_file": "https://serpapi.com/searches/bac99485a557d480/6908ea60a1de127a25f02d56.html",
-    "prettify_html_file": "https://serpapi.com/searches/bac99485a557d480/6908ea60a1de127a25f02d56.prettify",
+    "json_endpoint": "https://serpapi.com/searches/61b172da84f7066e/690b7b272328e16b35f682c1.json",
+    "created_at": "2025-11-05T16:28:23.307Z",
+    "processed_at": "2025-11-05T16:28:23.309Z",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=SA&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/61b172da84f7066e/690b7b272328e16b35f682c1.html",
+    "prettify_html_file": "https://serpapi.com/searches/61b172da84f7066e/690b7b272328e16b35f682c1.prettify",
     "total_time_taken": {
-      "float": 1.6745879650115967
+      "float": 1.545086145401001
     }
   },
   "search_parameters": {
     "engine": "google_hotels",
     "q": "Riyadh hotels",
-    "gl": "us",
+    "gl": "SA",
     "hl": "en",
     "currency": "SAR",
     "check_in_date": "2025-11-13",
@@ -26,7 +26,7 @@
     "max_price": "500"
   },
   "search_information": {
-    "total_results": 458
+    "total_results": 474
   },
   "brands": [
     {
@@ -271,7 +271,7 @@
       "type": "hotel",
       "name": "OVAZ",
       "property_token": "ChoI7r2jtYXl5eeDARoNL2cvMTF2d19rOW03YhAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI7r2jtYXl5eeDARoNL2cvMTF2d19rOW03YhAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoI7r2jtYXl5eeDARoNL2cvMTF2d19rOW03YhAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.792358099999998,
         "longitude": 46.820056699999995
@@ -322,8 +322,8 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipNKMZ5Bf-c43mEg8mlqQNyGCaZDr1iYUG5PEKLS=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOdIG3UOvnyKQYiqUs-WRnmqBVQy93aOT_t7o1E=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOdIG3UOvnyKQYiqUs-WRnmqBVQy93aOT_t7o1E=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPtfzAN-R45TDS1C_ubCo9MlXbLpMzdnU1M6ahW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPtfzAN-R45TDS1C_ubCo9MlXbLpMzdnU1M6ahW=s10000"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP8WKxhuQ3b3ctnq61vWQXWi2ekbv0c8vCIjchu=s287-w287-h192-n-k-no-v1",
@@ -338,24 +338,24 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipNQHdybP-qIrNv1NDDT8Opy2KhEkJGcS95_2wIn=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPtfzAN-R45TDS1C_ubCo9MlXbLpMzdnU1M6ahW=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPtfzAN-R45TDS1C_ubCo9MlXbLpMzdnU1M6ahW=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOlfe33ytxllgCZtp6KeXswLZGSz8hhHtMl1m6a=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOlfe33ytxllgCZtp6KeXswLZGSz8hhHtMl1m6a=s10000"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPo4NuWhZ1jy8h00uwgXH4JVC0mzES5c6h6fi_C=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPo4NuWhZ1jy8h00uwgXH4JVC0mzES5c6h6fi_C=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOlfe33ytxllgCZtp6KeXswLZGSz8hhHtMl1m6a=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOlfe33ytxllgCZtp6KeXswLZGSz8hhHtMl1m6a=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOkrRJoh27rrtVND2QIDfTVJO7W7nrsE8lc79v_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOkrRJoh27rrtVND2QIDfTVJO7W7nrsE8lc79v_=s10000"
         }
       ],
       "overall_rating": 4.9,
-      "reviews": 490,
+      "reviews": 493,
       "ratings": [
         {
           "stars": 5,
-          "count": 473
+          "count": 476
         },
         {
           "stars": 4,
@@ -439,7 +439,7 @@
       "type": "hotel",
       "name": "\u0641\u0634\u0631\u0643\u0629 \u0633\u0646\u062f \u0644\u0644\u0627\u0633\u062a\u0642\u062f\u0627\u0645 \u0646\u062f\u0642 \u0645\u0627\u0631\u0641\u0648\u0644\u064a\u0648\u0633",
       "property_token": "ChoIzMH_r5TehtfsARoNL2cvMTF0NzNicHhtZBAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoIzMH_r5TehtfsARoNL2cvMTF0NzNicHhtZBAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoIzMH_r5TehtfsARoNL2cvMTF0NzNicHhtZBAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.6840397,
         "longitude": 46.726020299999995
@@ -447,16 +447,16 @@
       "check_in_time": "3:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0251",
-        "extracted_lowest": 251,
-        "before_taxes_fees": "SAR\u00a0210",
-        "extracted_before_taxes_fees": 210
+        "lowest": "SAR\u00a0267",
+        "extracted_lowest": 267,
+        "before_taxes_fees": "SAR\u00a0226",
+        "extracted_before_taxes_fees": 226
       },
       "total_rate": {
-        "lowest": "SAR\u00a0251",
-        "extracted_lowest": 251,
-        "before_taxes_fees": "SAR\u00a0210",
-        "extracted_before_taxes_fees": 210
+        "lowest": "SAR\u00a0267",
+        "extracted_lowest": 267,
+        "before_taxes_fees": "SAR\u00a0226",
+        "extracted_before_taxes_fees": 226
       },
       "nearby_places": [
         {
@@ -512,7 +512,7 @@
           "original_image": "https://photos.hotelbeds.com/giata/original/94/945505/945505a_hb_r_002.jpg"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwMHfYRTXbjnXyWTLMoSdhNwPgMRQpAgS-ml2m2_OsVOMffZHlwHRHrdK4xuXvYuCbP32dg7sLcr0rYUTip1IV8k00fFJRbWTlcilqZTTjhSys5aLUu7K502MLIRcKi-2FW30=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxvpEpn6bA2V2DfRMSoLvsesq31jQt-nBD_IdhQKrm2eoFOztuosie4BNIxrmtGFWhPHKH-YtV3lLDeZKxNPTOPJFL6Zhgr9l6BguM9u6fz4HXIWww98kMatUlYpZ_QiDYfArk=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID1ytvZIQ=s10000"
         },
         {
@@ -524,28 +524,28 @@
           "original_image": "https://images.trvl-media.com/lodging/84000000/83720000/83715200/83715174/c227de37_z.jpg"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx1WkomtZOYf2q-ECa6ymdTrxsz-jsq-2y5FJhsRbp14uSu896tBqpR_4i2e76-rrPnO0-_qlDsqmboEsztgKbUFfIUhsjBd2EUd9uvpsZIbt7yqOLNYLFTQBeD6BqWjPojL-zt=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDu3q7Abg=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyVTMwxhwyjR_1HURs3GJJH_Gosvtewt6SQUkr4aw6KikoNMV-xMLbqubK3c8J8nTPqfWiSsP3WiVKPikbu3INnSKH4dlDpuHAw96q1J6VYkBiVTTc8Kb0jfAhI94nZEoKpcS4pxg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICTvt-q-wE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxnsXmiM3ywDaWOBtrkPLDMl_A44v3OthnwBB1w8z7GZ6njlO4wzIA71Y3sDpxcdXJWGzeIo8F56akywKmZEvkBXFTl5KFqaPdQzg9UZGckpgqFwk8TH9Eo-V39lFXr9fCuhYA=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID3kPyFJw=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxyqJIXHPudEM--mz3_0PXT_OnFP1mx16MG0RLRJ1aVNLpwgNUE7938iP_oh1FFjBUYFsHwdCUhdOnMA_2VEAUl57xfsIG3RRgX028FGIVwblzJ1Dq0ZJqExA_p9eqUAMKbrC8K4g=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx5rNLFz6Fr1kliq4Pclc9jc3jIcQS036yQ5YycPxRAP5YI_sVCyLlDM48llNIJVH6SQlg3SuJ246se3jmNKIVz1J2lO_2Tp9tp90U1nLU6ZyrT08gFyN5T-vXULy0qAvUO75gnow=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID1ytuvugE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwpyyr8ef3T02gAREquFcy4jPenQ0JJiCxFEIAXmih_l3889shv9MaPPuxtDOlqJ3Y4HyzdcutXIgwnRWbNjL81eztrsBNAfmH4n4U13LzWz3amUll4D1IugB4L6OP01WcLbpqSyg=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICTvt-q-wE=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw8xMl8iC_eqNSCyspynqQhcuVqAAswvXUiYH5RkYLNKP7G6GRZlZ1kABmhJVim3xzgqk7GIZWGfQs2IxAZfOIdhakWBKmKJN3OIoNUYD2K_nLY2H3XJfvlzHHI1bqSxwoiQ1xsQg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDu3s6PsAE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxcXumYDjn4kZl2_-8kT5c9iV7JkGlxXfbOn9xoy1gCcZRNCDfy7gI0XD6uFyYBjnO6pN5409oL2fdzH_c1IGywfGhva9WLIlyJRdf2kNwzQq5lhd91hFstyCzhBAx2r4B_yvCl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDu3s7xCw=s10000"
         }
       ],
       "overall_rating": 4.8,
-      "reviews": 490,
+      "reviews": 491,
       "ratings": [
         {
           "stars": 5,
-          "count": 434
+          "count": 435
         },
         {
           "stars": 4,
@@ -585,8 +585,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 136,
-          "positive": 131,
+          "total_mentioned": 137,
+          "positive": 132,
           "negative": 4,
           "neutral": 1
         },
@@ -636,23 +636,23 @@
       "name": "Seven Gardens Hotel",
       "link": "http://www.sevengardens.com.sa/",
       "property_token": "ChkIuvay0v_gpYM6Gg0vZy8xMWs1MGQ4Yno3EAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIuvay0v_gpYM6Gg0vZy8xMWs1MGQ4Yno3EAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIuvay0v_gpYM6Gg0vZy8xMWs1MGQ4Yno3EAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.8318454,
         "longitude": 46.6926614
       },
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0429",
-        "extracted_lowest": 429,
-        "before_taxes_fees": "SAR\u00a0365",
-        "extracted_before_taxes_fees": 365
+        "lowest": "SAR\u00a0435",
+        "extracted_lowest": 435,
+        "before_taxes_fees": "SAR\u00a0370",
+        "extracted_before_taxes_fees": 370
       },
       "total_rate": {
-        "lowest": "SAR\u00a0429",
-        "extracted_lowest": 429,
-        "before_taxes_fees": "SAR\u00a0365",
-        "extracted_before_taxes_fees": 365
+        "lowest": "SAR\u00a0435",
+        "extracted_lowest": 435,
+        "before_taxes_fees": "SAR\u00a0370",
+        "extracted_before_taxes_fees": 370
       },
       "nearby_places": [
         {
@@ -699,40 +699,40 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDqYTcKphMyH77W6Z3y7UF8TzfWWEYQ6aPyebC=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwVAKkqRRDoXchQUUgtysLr2aBtt6SQ_b3rQAeRgNZYGFviD2lD5-HKJn3A-SAlTzKtFICc3zGlU6vJSZFu62GTrSKeRDS_N7rVwYHGIi59NHgPB59bwmENFipWcJkxHtwSnH4R2w=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDp4JzAlQE=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyLo5HOvtL6u5qbLGdCpYDLiiUoaSDENMXNiTq4goJEO_Cx-10t0OZO5XuqKOGKG6YkucbYuaag0cZSTHn5eH3ObsrSPDVtO-fNWhDlmtWbPZ3VrM2t9p4oM4cd3xgY3pzKUF_mIA=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwsLjoXjA8buCN-cLTyE-pot2UQL9tLhYIV1soW3adBloqhjdL7rTD65g4qLmUPsLiEX_OBYY2f2oLzku7WTgS4nfAweq2Q5zBIK3Xh_gTu_fMiCkI0r6K3sAhXdDeiN0hu0Jq6Jw=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDTi-SN3wE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/proxy/BnKYhO7FCQ7lqVXqyLp8KDdxYoav0yPfX-10fB3pxB59umHT51ckoSFiMbbIbswFIrntdb0_qEPlCWUFF_SdGMWoXMaA1UYPCIwI059olFQShGApFo_RCaidNiZ7h1vm8lfOf55v9JgbOClLFCT0BpKjotCf6QI=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://images.trvl-media.com/lodging/93000000/92360000/92357200/92357123/2dbdfcd1_z.jpg"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSSL01TixAsQmypP1w03rodymzP8tIDiLXCO6rB9T_q7AZHWyUcxzrsZSJ-fZs8A3WBhlr6ydSaSZPxUK_NiIoddvTwoDSkVvuTPsdsQmh3uBEBNlJyRWh9tmvMIlXNeSDEyqrVw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICP7J2jowE=s10000"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/proxy/6gJzHq9Wn5Xj6kIlRZZ8LDOMMaDJAkupJ_Zl0iReMk5kdVznCkeGhP0dYgqnt9KQKMMThIRgADH2L9t1CUoNkFx4fD4gPD4Usf1otDjUAjOyGwYXrphGRG_eZgXEl26q2eRJ1jcy9LTtq2sXavDoFhMopIoEdME=s287-w287-h192-n-k-no-v1",
           "original_image": "https://cdn.worldota.net/t/1024x768/content/32/8e/328e82386819ce6bb6dece33a341f036ce27cbd0.JPEG"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxSOENtGovMW3PHn28NkRscqyoUsX6mmFJhp8pD8cg1BExKW0bk323Q5xV8KdOTOSnvZX2vPRIoARp0YqQ7Nq1Yfj8-jOz66pZ4YaCmyoqakZtZsOCYYEWdRePBQpPGtHGvO9Inbg=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwgFM_n6sqFyXdE4uGlCcvM7yeRU31x0rTC_kqqNTbu4xRru2B9yImsfBnIt1PcxgcuJYY-tdb36yQ44Gyt6K-CvflU3cYf91dbgtK79P2z32TkpMoNaoqfjmPodPIMgommBzmVCw=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDpkYO0nQE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbWin1eveYL1g-Dm2cIC75-nRCLT-fZSZ9dluUttYH8Qt_BYE-MTJyaOVcX4VXxyAfulKrgbAG_T6D3Jki_aX5lnDJcJJRwMvvGdF5sgXdCOtnBHfkh1YkPBI0r2027IOO521zzQ=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDpu-K81AE=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwr_MjFUUpan_qkBGFH8EMVISfxqeNg0EA5DgDEr5zHYbX3RcWoBrVjnbpJEz0lbc5-mQIbw4UEE_5FyrCFmLETQWVjmYIeTq4QuXdKmsOiST48rDhlSNJsZeAC4Ue7f-FdZj8S=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID5vLXIZQ=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSztK31jr0ToH6c8eQU_gYyRXxYo8UlGwJKyqJmcEeD42ZJJLe2aBeCJnUVwMRgS3oEhrxiMVEjpsSNs8sIGIvGEAyxTfDnfjwVEN6pJn6EjV4WpCkijm8GL9ePqB6vASWD0QfIn=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICnuJu2Gw=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz17yVeyLR1OiQfpigoWi5JwNou9JwYg_4aIKhuI7AviNHHeV38A2AOJu6i0JB_H_R5_XcLMBgnSrC_atVJTRkQTOXj1joIW-Lh2OTKkFU8EBibSm8a9sZDZnR8-YKpjHQ4SCOUYA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDxlpW8wwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyk3fXP0B3AvIS5DKYzWtNo5uv-eR6jzQy5LZHXi_8VDObVgXjIWHYnCAw_JAjr2_Xk0RrAWvrQaTYFmeI1CILhTSRxLCN-qeHh2lUnazIKXiuapG5J5Nb5VIIjK9ZGG4EbBDj5JQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICP7J2j4wE=s10000"
         }
       ],
       "overall_rating": 4.7,
-      "reviews": 916,
+      "reviews": 919,
       "ratings": [
         {
           "stars": 5,
-          "count": 766
+          "count": 769
         },
         {
           "stars": 4,
@@ -772,8 +772,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 288,
-          "positive": 263,
+          "total_mentioned": 287,
+          "positive": 262,
           "negative": 16,
           "neutral": 9
         },
@@ -796,8 +796,8 @@
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 144,
-          "positive": 128,
+          "total_mentioned": 143,
+          "positive": 127,
           "negative": 6,
           "neutral": 10
         }
@@ -808,7 +808,7 @@
       "name": "Nova M Hotel Riyadh, Edge by Rotana",
       "link": "https://www.rotana.com/edge/kingdomofsaudiarabia/riyadh/novamhotel",
       "property_token": "ChoI6e3rnPHKrtOyARoNL2cvMTF5NGxzN2tmXxAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI6e3rnPHKrtOyARoNL2cvMTF5NGxzN2tmXxAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoI6e3rnPHKrtOyARoNL2cvMTF5NGxzN2tmXxAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.7199749,
         "longitude": 46.6722131
@@ -816,16 +816,16 @@
       "check_in_time": "2:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0537",
-        "extracted_lowest": 537,
-        "before_taxes_fees": "SAR\u00a0445",
-        "extracted_before_taxes_fees": 445
+        "lowest": "SAR\u00a0459",
+        "extracted_lowest": 459,
+        "before_taxes_fees": "SAR\u00a0380",
+        "extracted_before_taxes_fees": 380
       },
       "total_rate": {
-        "lowest": "SAR\u00a0537",
-        "extracted_lowest": 537,
-        "before_taxes_fees": "SAR\u00a0445",
-        "extracted_before_taxes_fees": 445
+        "lowest": "SAR\u00a0459",
+        "extracted_lowest": 459,
+        "before_taxes_fees": "SAR\u00a0380",
+        "extracted_before_taxes_fees": 380
       },
       "nearby_places": [
         {
@@ -881,7 +881,11 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipMwYoHzZyK6V1cA4PKGeLRHeE0y4HRMRdoPtubZ=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_Ig8hFOPT0V98dIuLSIJTwLEYyJ_TmGEQBpdEH73-CmG8nhkZYGfXmF_w136yZ-DkFTWgZdt8sZbezhuKe6KmEf1VaKHO3MySdpcf0mdMrTOou3xmO-PyNPCTEqEq-uSUBFdGYL6jqrT6=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPs9M9h1A3O9jk3fg3UXnbw-_2M6efHfGJ2EAvJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPs9M9h1A3O9jk3fg3UXnbw-_2M6efHfGJ2EAvJ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz-297wgyTP9SR9wvyc4l6GXPJTC6SaQXpkJ-NBjblOiykoqIcdambg_WfqH6sRyJ1Qe21-6DcyO7_JL5aah3gRIZl8tglkicHbBopFB0M3ELFm4w7CcdxZw2NpAEKvLZjTRksXP_fW5KV8=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIABIhAYcd03WtI2Dlyt2nOPhXX9=s10000"
         },
         {
@@ -889,32 +893,28 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFfAjybhfVtB-F9Wuv8o90F0bsVQzuRswq2SL-=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO_qU2bQYFWlgJ91qRy-xfIpm_oK7ORb7XnzKQi=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_qU2bQYFWlgJ91qRy-xfIpm_oK7ORb7XnzKQi=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPI0_Ht8EA9y4w6cnCf-AO3-h5nlprK1-gQHLuj=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPI0_Ht8EA9y4w6cnCf-AO3-h5nlprK1-gQHLuj=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOZroD0SlSlU67fI_T5g6VVYyrkFpmGZdqg5YiF=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZroD0SlSlU67fI_T5g6VVYyrkFpmGZdqg5YiF=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPs9M9h1A3O9jk3fg3UXnbw-_2M6efHfGJ2EAvJ=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPs9M9h1A3O9jk3fg3UXnbw-_2M6efHfGJ2EAvJ=s10000"
-        },
-        {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOnCu5jUgeY4KOKFej-j_k_t5kMXtgfrXeJW-Mm=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipOnCu5jUgeY4KOKFej-j_k_t5kMXtgfrXeJW-Mm=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPr3-NndgfaP9-6BMJP0jzzdh_q446HwgzOc1vp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPr3-NndgfaP9-6BMJP0jzzdh_q446HwgzOc1vp=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPE4PvZYQKXLgIrZ8QqQD4ecTElEYErML9NxLHP=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPE4PvZYQKXLgIrZ8QqQD4ecTElEYErML9NxLHP=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN-Axwl2-XQVKzTTMHmrVbduDr6zgCtdK5GUEHJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN-Axwl2-XQVKzTTMHmrVbduDr6zgCtdK5GUEHJ=s10000"
         }
       ],
       "overall_rating": 4.7,
-      "reviews": 871,
+      "reviews": 878,
       "ratings": [
         {
           "stars": 5,
-          "count": 737
+          "count": 744
         },
         {
           "stars": 4,
@@ -946,8 +946,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 404,
-          "positive": 384,
+          "total_mentioned": 408,
+          "positive": 388,
           "negative": 16,
           "neutral": 4
         },
@@ -970,8 +970,8 @@
         {
           "name": "Fitness",
           "description": "Fitness",
-          "total_mentioned": 27,
-          "positive": 20,
+          "total_mentioned": 28,
+          "positive": 21,
           "negative": 6,
           "neutral": 1
         },
@@ -1004,167 +1004,200 @@
     },
     {
       "type": "hotel",
-      "name": "\u0643\u0646\u064a\u0646 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629",
-      "link": "http://www.kanin-sa.com/",
-      "property_token": "ChkI3rKXtuSelv5_Gg0vZy8xMXduX2Q4ajhkEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkI3rKXtuSelv5_Gg0vZy8xMXduX2Q4ajhkEAE&q=Riyadh+hotels&sort_by=8",
+      "name": "JOUDYAN Olaya Riyadh By ELAF",
+      "description": "Sophisticated hotel offering refined rooms & 2 restaurants, plus a pool, a spa & a gym.",
+      "link": "https://www.joudyanhotels.com/olaya",
+      "property_token": "ChoIja_zjJmrlK2GARoNL2cvMTFwemhmOXhtYxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoIja_zjJmrlK2GARoNL2cvMTFwemhmOXhtYxAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
-        "latitude": 24.5599535,
-        "longitude": 46.5567141
+        "latitude": 24.699384600000002,
+        "longitude": 46.682753399999996
       },
-      "check_out_time": "11:00\u202fAM",
+      "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0322",
-        "extracted_lowest": 322,
-        "before_taxes_fees": "SAR\u00a0292",
-        "extracted_before_taxes_fees": 292
+        "lowest": "SAR\u00a0598",
+        "extracted_lowest": 598,
+        "before_taxes_fees": "SAR\u00a0495",
+        "extracted_before_taxes_fees": 495
       },
       "total_rate": {
-        "lowest": "SAR\u00a0322",
-        "extracted_lowest": 322,
-        "before_taxes_fees": "SAR\u00a0292",
-        "extracted_before_taxes_fees": 292
+        "lowest": "SAR\u00a0598",
+        "extracted_lowest": 598,
+        "before_taxes_fees": "SAR\u00a0495",
+        "extracted_before_taxes_fees": 495
       },
       "nearby_places": [
+        {
+          "name": "Kingdom Center Sky Bridge",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "Olaya 216",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        },
         {
           "name": "King Khalid International Airport",
           "transportations": [
             {
               "type": "Taxi",
-              "duration": "49 min"
+              "duration": "32 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "58 min"
             }
           ]
         },
         {
-          "name": "Breasted lake house",
+          "name": "Lusin Restaurant",
           "transportations": [
             {
               "type": "Walking",
-              "duration": "6 min"
+              "duration": "2 min"
             }
           ]
         }
       ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP7os4RqU7PSK7CCROIa7juoAtbXsmMG90d2aQ2=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP7os4RqU7PSK7CCROIa7juoAtbXsmMG90d2aQ2=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOrdlfaftSP5Kgl9BqtRxk5IxbmCJ5d3XlqJOgg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrdlfaftSP5Kgl9BqtRxk5IxbmCJ5d3XlqJOgg=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOD_yqTLN67lvzzQjbjLiGjnmk4aVdR7YT1PkMM=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOD_yqTLN67lvzzQjbjLiGjnmk4aVdR7YT1PkMM=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOuwO4DCVPIO2hXryNUmu5XOu5kUukRJ-CV8Z_A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOuwO4DCVPIO2hXryNUmu5XOu5kUukRJ-CV8Z_A=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOXujsRLxBiyQjKkz0PjQV3Rbv0am-LfC7-RYp4=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOXujsRLxBiyQjKkz0PjQV3Rbv0am-LfC7-RYp4=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNkAnwExXj__95Ufe9D3Q0BWF3RBOCFXFd2XowT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNkAnwExXj__95Ufe9D3Q0BWF3RBOCFXFd2XowT=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPTOE1FLJLCrjrYrKiwiD3CXnTsCfo4dRMYAu1l=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTOE1FLJLCrjrYrKiwiD3CXnTsCfo4dRMYAu1l=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxKtznZwgLUNw7plDQuqSnkwgQ_MRTv04pzSKRL8QpGk9db7URSbJo7Ms2YOXKjOtPM417RsD7I9m6jkP_p6hSbeX14gDGqBaSwUHqdzl_IuIE1zQPvDvmz_-g9IlGb3M8O73I_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICZqb2NGQ=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPbEb2aNJni0k1iH3_rEeIGrd_N6gBXVqLzFrax=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPbEb2aNJni0k1iH3_rEeIGrd_N6gBXVqLzFrax=s10000"
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/BAlONWwJ0ueoM93Ab0LTu2Mod5_8Al11squQwIQtCR__HX0oXhlIFn9Xc_qc0-t-mjnOUB1mqmINgIMwULs-leU6QjHmqrIBVYrn_ICIrJGWCZgHsl5aqxHqZodPjVC3q0Ar1mq_8ujdYHtlZ_hWrJUMwfEJhYc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAMJLbQcFABGeiZXeZwFWE-43HFlkawM"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOIgFrZ0EIv-yDdzTN3OEw0gy0r2F1aT6Iqi6F9=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOIgFrZ0EIv-yDdzTN3OEw0gy0r2F1aT6Iqi6F9=s10000"
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/kmK2tS4WcUHMUakuIIYb2lbJE1BlK_D080HV2WBnkriRBifFMcH_2Sa33Qoi4dCi0ebxIZC-DRylhzZk3pHn8NIe4_9NZ7l3py72kzMAuEweeCjav853Sk6KUkfB9xjNAPoo1yYDP4AGwNVrkuMhROyAgEOLgw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/98/989581/989581a_hb_l_006.jpg?20240901221631?20250430074354"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO1ju1DvvP5W2bGw2Ujx24RKeoOOigfx-XplrU5=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1ju1DvvP5W2bGw2Ujx24RKeoOOigfx-XplrU5=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOeweAhwQToHMhwuihQaGkpXsqoi2mv1PHkCXMW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOeweAhwQToHMhwuihQaGkpXsqoi2mv1PHkCXMW=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNk8YN54LXrQG4m073DhtjI_H-1UZ2rjh5vVsUW=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNk8YN54LXrQG4m073DhtjI_H-1UZ2rjh5vVsUW=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP4QwF75jtqUsseVrvPmzMrI5Taz6SlZPWFA5PT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP4QwF75jtqUsseVrvPmzMrI5Taz6SlZPWFA5PT=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP3ZLmGGEZm-BF8nj9lb5GSGwzWYefNPCjHRFQW=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP3ZLmGGEZm-BF8nj9lb5GSGwzWYefNPCjHRFQW=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPXtoZloNOmU3P9GEWNSXSe40nT4tjBZB0yowgu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPXtoZloNOmU3P9GEWNSXSe40nT4tjBZB0yowgu=s10000"
         }
       ],
-      "overall_rating": 4.7,
-      "reviews": 358,
+      "overall_rating": 4.6,
+      "reviews": 3675,
       "ratings": [
         {
           "stars": 5,
-          "count": 323
+          "count": 3039
         },
         {
           "stars": 4,
-          "count": 12
+          "count": 301
         },
         {
           "stars": 3,
-          "count": 3
+          "count": 106
         },
         {
           "stars": 2,
-          "count": 2
+          "count": 40
         },
         {
           "stars": 1,
-          "count": 18
+          "count": 189
         }
       ],
-      "location_rating": 2.9,
+      "location_rating": 4.5,
       "reviews_breakdown": [
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 188,
+          "positive": 166,
+          "negative": 17,
+          "neutral": 5
+        },
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 120,
-          "positive": 111,
-          "negative": 5,
+          "total_mentioned": 1016,
+          "positive": 894,
+          "negative": 85,
+          "neutral": 37
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 134,
+          "positive": 117,
+          "negative": 12,
+          "neutral": 5
+        },
+        {
+          "name": "Business",
+          "description": "Business",
+          "total_mentioned": 56,
+          "positive": 46,
+          "negative": 6,
           "neutral": 4
-        },
-        {
-          "name": "Cleanliness",
-          "description": "Cleanliness",
-          "total_mentioned": 88,
-          "positive": 82,
-          "negative": 3,
-          "neutral": 3
-        },
-        {
-          "name": "Atmosphere",
-          "description": "Atmosphere",
-          "total_mentioned": 28,
-          "positive": 27,
-          "negative": 0,
-          "neutral": 1
-        },
-        {
-          "name": "Property",
-          "description": "Property",
-          "total_mentioned": 62,
-          "positive": 55,
-          "negative": 3,
-          "neutral": 4
-        },
-        {
-          "name": "Room",
-          "description": "Room amenities",
-          "total_mentioned": 14,
-          "positive": 13,
-          "negative": 1,
-          "neutral": 0
         },
         {
           "name": "Location",
           "description": "Location",
-          "total_mentioned": 10,
-          "positive": 10,
-          "negative": 0,
-          "neutral": 0
+          "total_mentioned": 256,
+          "positive": 223,
+          "negative": 11,
+          "neutral": 22
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 523,
+          "positive": 470,
+          "negative": 37,
+          "neutral": 16
         }
       ],
       "amenities": [
+        "Breakfast ($)",
         "Free Wi-Fi",
-        "Parking",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
         "Air conditioning",
-        "Kitchen",
+        "Fitness center",
+        "Spa",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
         "Full-service laundry",
-        "Accessible"
+        "Accessible",
+        "Business center"
       ]
     },
     {
@@ -1172,21 +1205,21 @@
       "name": "\u0628\u064a\u0633\u062a\u0627\u0646\u0627 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0641\u0646\u062f\u0642\u064a\u0647 4",
       "link": "https://pestana.sa/",
       "property_token": "ChoI-uWH5OSt272lARoNL2cvMTF3Zl9iZ3B5eRAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI-uWH5OSt272lARoNL2cvMTF3Zl9iZ3B5eRAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoI-uWH5OSt272lARoNL2cvMTF3Zl9iZ3B5eRAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.800424099999997,
         "longitude": 46.625689699999995
       },
       "check_out_time": "11:00\u202fAM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0372",
-        "extracted_lowest": 372,
+        "lowest": "SAR\u00a0373",
+        "extracted_lowest": 373,
         "before_taxes_fees": "SAR\u00a0315",
         "extracted_before_taxes_fees": 315
       },
       "total_rate": {
-        "lowest": "SAR\u00a0372",
-        "extracted_lowest": 372,
+        "lowest": "SAR\u00a0373",
+        "extracted_lowest": 373,
         "before_taxes_fees": "SAR\u00a0315",
         "extracted_before_taxes_fees": 315
       },
@@ -1262,11 +1295,11 @@
         }
       ],
       "overall_rating": 4.8,
-      "reviews": 171,
+      "reviews": 174,
       "ratings": [
         {
           "stars": 5,
-          "count": 152
+          "count": 155
         },
         {
           "stars": 4,
@@ -1290,8 +1323,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 43,
-          "positive": 42,
+          "total_mentioned": 44,
+          "positive": 43,
           "negative": 0,
           "neutral": 1
         },
@@ -1349,7 +1382,7 @@
       "name": "\u0627\u0641\u0627\u0644 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629 \u0627\u0644\u0645\u0648\u0646\u0633\u064a\u0647",
       "link": "https://37530.bookmystay.io/?utm_source=gmb&utm_campaign=website_buttton",
       "property_token": "ChkIqYG04JTh8-A0Gg0vZy8xMXZ5NTh5MDJrEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIqYG04JTh8-A0Gg0vZy8xMXZ5NTh5MDJrEAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIqYG04JTh8-A0Gg0vZy8xMXZ5NTh5MDJrEAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.836791299999998,
         "longitude": 46.7645451
@@ -1403,12 +1436,8 @@
       ],
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzTk1yaDfQUt93NdyuVf9IhdMpWV4q2MNvVdvszHe6qdJNjVJYhfET5bvZ93dhZRIFdKv8r7xWkrlFxZKb3o5G7a_DiybawjOsgkRpnkfRgC6WuVlHREEMEcnfWu7XsteNqSOAR=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyciN0CbrCvYNt-Evg7x0IyRzGYEDzprBHlcxjne4CIvx85jeub_ky5rQWaFCcV8eXCcV2y7iTayNgit6cHlfBvjsOrK68hKN1bPtQIvtdJQz34oiODdaEHuW1QCNwuV5kvDy8j=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDL2vanRA=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOrHuru8bdyP9snTuT4sE6zrXU1ldq4U795X6b4=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrHuru8bdyP9snTuT4sE6zrXU1ldq4U795X6b4=s10000"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNSyavYAzbQetWQS8PA_-fyWpsT9AjZeYi8sQ4l=s287-w287-h192-n-k-no-v1",
@@ -1437,14 +1466,18 @@
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMrDyYn9sdAUJNoktdG6nAlLHBOegDunCn2XUOj=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrDyYn9sdAUJNoktdG6nAlLHBOegDunCn2XUOj=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOrHuru8bdyP9snTuT4sE6zrXU1ldq4U795X6b4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrHuru8bdyP9snTuT4sE6zrXU1ldq4U795X6b4=s10000"
         }
       ],
       "overall_rating": 4.7,
-      "reviews": 283,
+      "reviews": 285,
       "ratings": [
         {
           "stars": 5,
-          "count": 242
+          "count": 243
         },
         {
           "stars": 4,
@@ -1460,7 +1493,7 @@
         },
         {
           "stars": 1,
-          "count": 10
+          "count": 11
         }
       ],
       "location_rating": 2.9,
@@ -1468,8 +1501,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 85,
-          "positive": 81,
+          "total_mentioned": 86,
+          "positive": 82,
           "negative": 2,
           "neutral": 2
         },
@@ -1484,9 +1517,9 @@
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 60,
-          "positive": 56,
-          "negative": 2,
+          "total_mentioned": 62,
+          "positive": 57,
+          "negative": 3,
           "neutral": 2
         },
         {
@@ -1508,8 +1541,8 @@
         {
           "name": "Location",
           "description": "Location",
-          "total_mentioned": 10,
-          "positive": 8,
+          "total_mentioned": 11,
+          "positive": 9,
           "negative": 1,
           "neutral": 1
         }
@@ -1530,10 +1563,181 @@
     },
     {
       "type": "hotel",
+      "name": "\u0627\u0641\u0627\u0644 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629-\u0627\u0644\u064a\u0631\u0645\u0648\u0643",
+      "link": "https://www.afalsuites.com/",
+      "property_token": "ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE&q=Riyadh+hotels&sort_by=8",
+      "gps_coordinates": {
+        "latitude": 24.812746999999998,
+        "longitude": 46.804632399999996
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "2:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0350",
+        "extracted_lowest": 350,
+        "before_taxes_fees": "SAR\u00a0297",
+        "extracted_before_taxes_fees": 297
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0350",
+        "extracted_lowest": 350,
+        "before_taxes_fees": "SAR\u00a0297",
+        "extracted_before_taxes_fees": 297
+      },
+      "nearby_places": [
+        {
+          "name": "King Khalid International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "24 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 19 min"
+            }
+          ]
+        },
+        {
+          "name": "\u0643\u0631\u0645 \u0627\u0644\u0631\u064a\u0641 \u0627\u0644\u064a\u0631\u0645\u0648\u0643",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOd7q32EEo9QJ0LXQh4W39-GQnt_5tAKNu2q9sk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOd7q32EEo9QJ0LXQh4W39-GQnt_5tAKNu2q9sk=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMzIu57PwwwpRD6RY17-vBlbayKCsj5ZpEpQ1zu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMzIu57PwwwpRD6RY17-vBlbayKCsj5ZpEpQ1zu=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP_OE3ymt-4wGNUaoXvwO3VtG65f2S8KP2F5E3m=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP_OE3ymt-4wGNUaoXvwO3VtG65f2S8KP2F5E3m=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO1S63p1qPeedBK5U-DFHDoaer1V5Xk4OmfeSNB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1S63p1qPeedBK5U-DFHDoaer1V5Xk4OmfeSNB=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/l4112CLx5yFznPCBqMpjc-H5mbE2YPfD-t2iNKwO-sRvhS1KS4FVqp0bgd5LxURtclHL7BuuUqQoqCLEG4VjRI6O2k3-fm3tlsAW6jE8lJ_j6qRfl1au0xhG8VsaXdszAUMVvVErhNXtstnYL8vVEz-WRDhCJvw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/113000000/112260000/112250200/112250194/ac6fd0df_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMeKG3UZm6Oaqxu-0fqFzTi4_KVwjUUqxayn7nz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMeKG3UZm6Oaqxu-0fqFzTi4_KVwjUUqxayn7nz=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPK23y9K1QeaYdsu0z2Xt0oW_2x6_-_8-cM6ACf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPK23y9K1QeaYdsu0z2Xt0oW_2x6_-_8-cM6ACf=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOWaRTVE6-pI1A9cjUBZjqKuayuv4RuhZ6n-NPd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOWaRTVE6-pI1A9cjUBZjqKuayuv4RuhZ6n-NPd=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPgTfg_xgLxUDDgPLyvBLk08NeNYDzyt-TbycI4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPgTfg_xgLxUDDgPLyvBLk08NeNYDzyt-TbycI4=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 247,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 215
+        },
+        {
+          "stars": 4,
+          "count": 10
+        },
+        {
+          "stars": 3,
+          "count": 5
+        },
+        {
+          "stars": 2,
+          "count": 5
+        },
+        {
+          "stars": 1,
+          "count": 12
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 107,
+          "positive": 103,
+          "negative": 3,
+          "neutral": 1
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 86,
+          "positive": 80,
+          "negative": 5,
+          "neutral": 1
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 31,
+          "positive": 31,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 72,
+          "positive": 68,
+          "negative": 3,
+          "neutral": 1
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 15,
+          "positive": 15,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 12,
+          "positive": 11,
+          "negative": 1,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Room service",
+        "Kitchen in some rooms",
+        "Full-service laundry",
+        "Accessible"
+      ]
+    },
+    {
+      "type": "hotel",
       "name": "\u0634\u0642\u0642 \u0646\u064a\u0627\u0645 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629 \u0627\u0642\u062a\u0635\u0627\u062f\u064a",
       "link": "https://naim.baab.com/",
       "property_token": "ChkIrsDVlNTHj8UTGg0vZy8xMXdwbG55NGJjEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIrsDVlNTHj8UTGg0vZy8xMXdwbG55NGJjEAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIrsDVlNTHj8UTGg0vZy8xMXdwbG55NGJjEAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.8275735,
         "longitude": 46.7843733
@@ -1589,10 +1793,6 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrJmjmm2TVZrAEsqo7SQo4e_f-G5rMlQpZX8P9=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNE3fW-MkVDLhCeHdhVh9q3ZzZMA4HJqXzaFFuh=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNE3fW-MkVDLhCeHdhVh9q3ZzZMA4HJqXzaFFuh=s10000"
-        },
-        {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOaa-ZDOtIzRd5PCzC1d8nV0fWjB-Wlrpyw9pN9=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipOaa-ZDOtIzRd5PCzC1d8nV0fWjB-Wlrpyw9pN9=s10000"
         },
@@ -1607,6 +1807,10 @@
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNQCYjMcbKndxRWWHpDvS4_0Pm1qbcz1YXKp9mj=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipNQCYjMcbKndxRWWHpDvS4_0Pm1qbcz1YXKp9mj=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/6muh5QJXAWP2wa-Fme97TsSy96sdmWm_4P6ix2X_oNtYeN9oq3n77TV_W3cZ3To1MsRHGh-ViYJK__5hYEutGk7gCaIB0RayXRwmrRxR1TaKJOzaXG8W56spYqIW9B6dxqAhw1NkiCtBhY7H2u67-jdJwZUtzg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/117000000/116790000/116783500/116783447/fb974915_z.jpg"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOepPbjRL_adjoW3kkwKzaZ7S2xUnbhw9cXMuB7=s287-w287-h192-n-k-no-v1",
@@ -1709,7 +1913,7 @@
       "name": "Wasan Suites \u0627\u062c\u0646\u062d\u0629 \u0648\u0633\u0646",
       "description": "Warm quarters, some with kitchens, in an unpretentious hotel offering Wi-Fi & parking.",
       "property_token": "ChkIwJbt87ulqdclGg0vZy8xMWNqZzN2NnhqEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIwJbt87ulqdclGg0vZy8xMWNqZzN2NnhqEAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIwJbt87ulqdclGg0vZy8xMWNqZzN2NnhqEAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.613844,
         "longitude": 46.7561961
@@ -1770,7 +1974,7 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipNDnhvok4zSwotpQ79Lt3JWkGBHlIpvDVqyTUEJ=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz5T2XQRv1LDO6KArLldkA2BLXQX4-cWGMFwmPn9-Kp6aUEs7tRVmKJoQHKDsykkxfiOZaZw5WUn3mhu-FtbPBF3VBM-DMKDHi_VA3KFMoNEp84j0QujPAOHYqW3j6Q5IWtAx9W=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz2lRa2_AbfDPUqGkNiqB0GS7pNLxICFXcatKqKhQI0GOAAtvXHvNGKvmDrh9ESzAsdjSV1HruijvTo9aMh9I3JniiLT8wtWJfuTbLXasOvX4pBs7ZF2ValHcckcCzImr-TJQaz=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDdzs_ZZw=s10000"
         },
         {
@@ -1782,8 +1986,8 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPZ3X5De5NTxKWz9qN0Q5PGVapWCD7-lr8hLKT_=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPjBMVFlY3NVmOZcDjUXE_CL0N5b_Lp_Yt-7mEV=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPjBMVFlY3NVmOZcDjUXE_CL0N5b_Lp_Yt-7mEV=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO5VlP0HnYTDXVUiHf04nqQwoxwSY3fIkN7WFJQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO5VlP0HnYTDXVUiHf04nqQwoxwSY3fIkN7WFJQ=s10000"
         },
         {
           "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMr_4akvCi5sNICufHTfmwAzrgl-J60On5ztGGt=s287-w287-h192-n-k-no-v1",
@@ -1803,11 +2007,11 @@
         }
       ],
       "overall_rating": 4.6,
-      "reviews": 679,
+      "reviews": 681,
       "ratings": [
         {
           "stars": 5,
-          "count": 565
+          "count": 566
         },
         {
           "stars": 4,
@@ -1823,11 +2027,19 @@
         },
         {
           "stars": 1,
-          "count": 38
+          "count": 39
         }
       ],
       "location_rating": 4.3,
       "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 129,
+          "positive": 124,
+          "negative": 3,
+          "neutral": 2
+        },
         {
           "name": "Service",
           "description": "Service",
@@ -1835,14 +2047,6 @@
           "positive": 128,
           "negative": 8,
           "neutral": 3
-        },
-        {
-          "name": "Cleanliness",
-          "description": "Cleanliness",
-          "total_mentioned": 128,
-          "positive": 123,
-          "negative": 3,
-          "neutral": 2
         },
         {
           "name": "Property",
@@ -1892,198 +2096,26 @@
     },
     {
       "type": "hotel",
-      "name": "\u0627\u0641\u0627\u0644 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629-\u0627\u0644\u064a\u0631\u0645\u0648\u0643",
-      "link": "https://www.afalsuites.com/",
-      "property_token": "ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE&q=Riyadh+hotels&sort_by=8",
-      "gps_coordinates": {
-        "latitude": 24.812746999999998,
-        "longitude": 46.804632399999996
-      },
-      "check_in_time": "3:00\u202fPM",
-      "check_out_time": "2:00\u202fPM",
-      "rate_per_night": {
-        "lowest": "SAR\u00a0350",
-        "extracted_lowest": 350,
-        "before_taxes_fees": "SAR\u00a0297",
-        "extracted_before_taxes_fees": 297
-      },
-      "total_rate": {
-        "lowest": "SAR\u00a0350",
-        "extracted_lowest": 350,
-        "before_taxes_fees": "SAR\u00a0297",
-        "extracted_before_taxes_fees": 297
-      },
-      "nearby_places": [
-        {
-          "name": "King Khalid International Airport",
-          "transportations": [
-            {
-              "type": "Taxi",
-              "duration": "24 min"
-            },
-            {
-              "type": "Public transport",
-              "duration": "1 hr 19 min"
-            }
-          ]
-        },
-        {
-          "name": "\u0643\u0631\u0645 \u0627\u0644\u0631\u064a\u0641 \u0627\u0644\u064a\u0631\u0645\u0648\u0643",
-          "transportations": [
-            {
-              "type": "Walking",
-              "duration": "10 min"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOd7q32EEo9QJ0LXQh4W39-GQnt_5tAKNu2q9sk=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOd7q32EEo9QJ0LXQh4W39-GQnt_5tAKNu2q9sk=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMzIu57PwwwpRD6RY17-vBlbayKCsj5ZpEpQ1zu=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMzIu57PwwwpRD6RY17-vBlbayKCsj5ZpEpQ1zu=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP_OE3ymt-4wGNUaoXvwO3VtG65f2S8KP2F5E3m=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP_OE3ymt-4wGNUaoXvwO3VtG65f2S8KP2F5E3m=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO1S63p1qPeedBK5U-DFHDoaer1V5Xk4OmfeSNB=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1S63p1qPeedBK5U-DFHDoaer1V5Xk4OmfeSNB=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/proxy/0gVxayi371brRyh40a8hesRI6-V2WG6bMDhBniJ4yZ_PkhKW4089RS1fgnY4wSrtLVycnvv-th0KstyrtS89NqaB4_J_c4CcjCMo1iQlHOYivtHAEvplRMOTW3_1MEBJq9vCshZXszBLwDS0BkHMKkd2YplHPoA=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://images.trvl-media.com/lodging/113000000/112260000/112250200/112250194/26217306_z.jpg"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMeKG3UZm6Oaqxu-0fqFzTi4_KVwjUUqxayn7nz=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMeKG3UZm6Oaqxu-0fqFzTi4_KVwjUUqxayn7nz=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPK23y9K1QeaYdsu0z2Xt0oW_2x6_-_8-cM6ACf=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPK23y9K1QeaYdsu0z2Xt0oW_2x6_-_8-cM6ACf=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOWaRTVE6-pI1A9cjUBZjqKuayuv4RuhZ6n-NPd=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOWaRTVE6-pI1A9cjUBZjqKuayuv4RuhZ6n-NPd=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPgTfg_xgLxUDDgPLyvBLk08NeNYDzyt-TbycI4=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPgTfg_xgLxUDDgPLyvBLk08NeNYDzyt-TbycI4=s10000"
-        }
-      ],
-      "overall_rating": 4.7,
-      "reviews": 247,
-      "ratings": [
-        {
-          "stars": 5,
-          "count": 215
-        },
-        {
-          "stars": 4,
-          "count": 10
-        },
-        {
-          "stars": 3,
-          "count": 5
-        },
-        {
-          "stars": 2,
-          "count": 5
-        },
-        {
-          "stars": 1,
-          "count": 12
-        }
-      ],
-      "location_rating": 3.8,
-      "reviews_breakdown": [
-        {
-          "name": "Service",
-          "description": "Service",
-          "total_mentioned": 104,
-          "positive": 101,
-          "negative": 3,
-          "neutral": 0
-        },
-        {
-          "name": "Cleanliness",
-          "description": "Cleanliness",
-          "total_mentioned": 83,
-          "positive": 78,
-          "negative": 5,
-          "neutral": 0
-        },
-        {
-          "name": "Atmosphere",
-          "description": "Atmosphere",
-          "total_mentioned": 30,
-          "positive": 30,
-          "negative": 0,
-          "neutral": 0
-        },
-        {
-          "name": "Property",
-          "description": "Property",
-          "total_mentioned": 71,
-          "positive": 67,
-          "negative": 3,
-          "neutral": 1
-        },
-        {
-          "name": "Location",
-          "description": "Location",
-          "total_mentioned": 14,
-          "positive": 14,
-          "negative": 0,
-          "neutral": 0
-        },
-        {
-          "name": "Room",
-          "description": "Room amenities",
-          "total_mentioned": 12,
-          "positive": 11,
-          "negative": 1,
-          "neutral": 0
-        }
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Parking",
-        "Air conditioning",
-        "Room service",
-        "Kitchen in some rooms",
-        "Full-service laundry",
-        "Accessible"
-      ]
-    },
-    {
-      "type": "hotel",
       "name": "SMAYAH RESIDENCE",
       "link": "http://booking.smayah.com/",
       "property_token": "ChoIz9KC4q_K9dngARoNL2cvMTF0NDhrX2o2dxAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoIz9KC4q_K9dngARoNL2cvMTF0NDhrX2o2dxAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoIz9KC4q_K9dngARoNL2cvMTF0NDhrX2o2dxAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.762462799999998,
         "longitude": 46.7256631
       },
-      "check_in_time": "3:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0432",
-        "extracted_lowest": 432,
-        "before_taxes_fees": "SAR\u00a0365",
-        "extracted_before_taxes_fees": 365
+        "lowest": "SAR\u00a0428",
+        "extracted_lowest": 428,
+        "before_taxes_fees": "SAR\u00a0362",
+        "extracted_before_taxes_fees": 362
       },
       "total_rate": {
-        "lowest": "SAR\u00a0432",
-        "extracted_lowest": 432,
-        "before_taxes_fees": "SAR\u00a0365",
-        "extracted_before_taxes_fees": 365
+        "lowest": "SAR\u00a0428",
+        "extracted_lowest": 428,
+        "before_taxes_fees": "SAR\u00a0362",
+        "extracted_before_taxes_fees": 362
       },
       "nearby_places": [
         {
@@ -2204,24 +2236,24 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 149,
-          "positive": 139,
+          "total_mentioned": 150,
+          "positive": 140,
           "negative": 5,
           "neutral": 5
         },
         {
           "name": "Atmosphere",
           "description": "Atmosphere",
-          "total_mentioned": 42,
-          "positive": 41,
+          "total_mentioned": 43,
+          "positive": 42,
           "negative": 0,
           "neutral": 1
         },
         {
           "name": "Location",
           "description": "Location",
-          "total_mentioned": 48,
-          "positive": 41,
+          "total_mentioned": 49,
+          "positive": 42,
           "negative": 1,
           "neutral": 6
         },
@@ -2236,8 +2268,8 @@
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 89,
-          "positive": 82,
+          "total_mentioned": 90,
+          "positive": 83,
           "negative": 3,
           "neutral": 4
         }
@@ -2260,10 +2292,166 @@
     },
     {
       "type": "hotel",
+      "name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0631\u0641\u064a\u0639 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629",
+      "link": "https://www.booking.com/Share-PE4Qn5",
+      "property_token": "ChkIx5T9lpWV0ZRvGg0vZy8xMXhreG1jc2szEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIx5T9lpWV0ZRvGg0vZy8xMXhreG1jc2szEAE&q=Riyadh+hotels&sort_by=8",
+      "gps_coordinates": {
+        "latitude": 24.619464999999998,
+        "longitude": 46.543985
+      },
+      "check_in_time": "4:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0202",
+        "extracted_lowest": 202,
+        "before_taxes_fees": "SAR\u00a0183",
+        "extracted_before_taxes_fees": 183
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0202",
+        "extracted_lowest": 202,
+        "before_taxes_fees": "SAR\u00a0183",
+        "extracted_before_taxes_fees": 183
+      },
+      "nearby_places": [
+        {
+          "name": "Al Shafa 406",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        },
+        {
+          "name": "King Khalid International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 29 min"
+            }
+          ]
+        },
+        {
+          "name": "haneeth w asal",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOZ7v29GNPdxwl-TNnuw8V6xBQMd2EcU8d2CxjL=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZ7v29GNPdxwl-TNnuw8V6xBQMd2EcU8d2CxjL=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN-t0jcJsY9VCO7-MXnKkkNji6K2h0FSew4xu5t=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN-t0jcJsY9VCO7-MXnKkkNji6K2h0FSew4xu5t=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNstnBmot8KE95l7cvxnvnL5MjOsoJ6kgbVyUSm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNstnBmot8KE95l7cvxnvnL5MjOsoJ6kgbVyUSm=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPAIs-R6i-_1jZUpBSAK-3E-5TqQj5qHrwsa_Lp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPAIs-R6i-_1jZUpBSAK-3E-5TqQj5qHrwsa_Lp=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNyMBz73TIE10wf5exXyQnoRMYhztKIRE4WojTt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNyMBz73TIE10wf5exXyQnoRMYhztKIRE4WojTt=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOWPk95CS0MWIx_crBHME4ED-oSVIzA6MTMkLfh=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOWPk95CS0MWIx_crBHME4ED-oSVIzA6MTMkLfh=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOl7tflMH7Xtbs8MffgjV9JdYA62usQ0FwJaFlN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOl7tflMH7Xtbs8MffgjV9JdYA62usQ0FwJaFlN=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP12xfyU4GdRCgvFpDsKqNDgrdra7kgiuGvDOEn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP12xfyU4GdRCgvFpDsKqNDgrdra7kgiuGvDOEn=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNpAcLMtOVT98OfPR5pWcJA3AoxxyfgYx0Mz97c=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpAcLMtOVT98OfPR5pWcJA3AoxxyfgYx0Mz97c=s10000"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 105,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 98
+        },
+        {
+          "stars": 4,
+          "count": 2
+        },
+        {
+          "stars": 3,
+          "count": 2
+        },
+        {
+          "stars": 2,
+          "count": 1
+        },
+        {
+          "stars": 1,
+          "count": 2
+        }
+      ],
+      "location_rating": 2.2,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 17,
+          "positive": 16,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 13,
+          "positive": 12,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 12,
+          "positive": 11,
+          "negative": 1,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Room service",
+        "Kitchen",
+        "Full-service laundry",
+        "Accessible"
+      ]
+    },
+    {
+      "type": "hotel",
       "name": "Mercure Riyadh Al Anoud",
       "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B4G5&merchantid=seo-maps-SA-B4G5&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
       "property_token": "ChoIr67l0aDy8P32ARoNL2cvMTFoZDZ6MHA2YhAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoIr67l0aDy8P32ARoNL2cvMTFoZDZ6MHA2YhAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoIr67l0aDy8P32ARoNL2cvMTFoZDZ6MHA2YhAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.6643512,
         "longitude": 46.701358299999995
@@ -2328,7 +2516,7 @@
       "extracted_hotel_class": 4,
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwEkZH04HrzNcYDfYRUet65nfm5FSsPPZWeFLCiZofEoL9QAaVK1hS49BLBGj53tmfzwNHBvlKKl80wh3MUj2JWLEZXzCZbWdfcF0YCjYLQrwTb9-4Yjshzuak2i7XxbbqiOJSZHIpmK-w=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8NrUcBBUK7vJQqaowpx09OvFxicFsyHNf3WfWRmp8fXQWpsyXmC5-vZ9ZyZjdNJDMtB96quC7oqu-jXOO24kTfRunRcCOA8afUPqdbcLtMLuhKtSYbN-zIbigDVabJz5X5Oq3IcpJXCE=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIABIhDjmsBbgmFvd528VXBVpwsp=s10000"
         },
         {
@@ -2340,7 +2528,7 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPj6w9tkLq-t98jTEYVNRKGbSHKAoR88bafNAjD=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpwNm86FcyPkKREULYDb6N30-FLodwisAX5hx7RVGG_5WpxAkFmgBpCK1CrzIt8QJpMxNtuzselb1-I3awcpFaaiSNpc1xx_uPrpNTKJiWuzRkfJJN_ibwg9kBPDjMFS20CLj0=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxvo-Vae8-90ZHjbOA2uryGxa8sHuOql6PkwuOPAuBzjo6iDSLPoKSZs0RyBPaqoFh-MA2nJR6FZmxH7AZNx_0Csu-7SjwgS16DkVDf_MdQgSTqYRIPwhLBJjuFR6NBVGNciOiS=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICviZ67WA=s10000"
         },
         {
@@ -2360,8 +2548,8 @@
           "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/2/0/185/254/379/b4g5_ba_03_p_3000x2250_O.jpg"
         },
         {
-          "thumbnail": "https://lh4.googleusercontent.com/proxy/asEIFPOmVYAiz2B71jT9UGd5Whmyh3tKR6xGCqncpCQ5Ou8afTZfx9dwQZQ_p-cNmLJPbNXKmBHld3n-KNacXTxTNuin2BjwdZmUKMPDcfhdKdXyWEBxgyDB8a0reqRP3qpzHQIvAwSGgDtuD4Yo7E3cxPmSBQ=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/4/0/196/939/413/b4g5_rsr001_03_p_3000x2250_O.jpg"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNduzgAv2wNHgWhfa-AimmDwh9O_t1N4ZwUzkZp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNduzgAv2wNHgWhfa-AimmDwh9O_t1N4ZwUzkZp=s10000"
         }
       ],
       "overall_rating": 4.6,
@@ -2369,7 +2557,7 @@
       "ratings": [
         {
           "stars": 5,
-          "count": 335
+          "count": 334
         },
         {
           "stars": 4,
@@ -2385,7 +2573,7 @@
         },
         {
           "stars": 1,
-          "count": 15
+          "count": 16
         }
       ],
       "location_rating": 4.2,
@@ -2409,24 +2597,24 @@
         {
           "name": "Dining",
           "description": "Food and Beverage",
-          "total_mentioned": 42,
-          "positive": 40,
+          "total_mentioned": 41,
+          "positive": 39,
           "negative": 0,
           "neutral": 2
         },
         {
           "name": "Restaurant",
           "description": "Restaurant",
-          "total_mentioned": 28,
-          "positive": 26,
+          "total_mentioned": 27,
+          "positive": 25,
           "negative": 2,
           "neutral": 0
         },
         {
           "name": "Fitness",
           "description": "Fitness",
-          "total_mentioned": 24,
-          "positive": 20,
+          "total_mentioned": 23,
+          "positive": 19,
           "negative": 3,
           "neutral": 1
         },
@@ -2462,7 +2650,7 @@
       "name": "Four Points by Sheraton King Abdulaziz Road",
       "link": "https://www.marriott.com/en-us/hotels/ruhfk-four-points-king-abdulaziz-road/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "property_token": "ChkIttO-rc2Mt4I6Gg0vZy8xMWtxNHgwemRsEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkIttO-rc2Mt4I6Gg0vZy8xMWtxNHgwemRsEAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkIttO-rc2Mt4I6Gg0vZy8xMWtxNHgwemRsEAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.7024062,
         "longitude": 46.718105
@@ -2470,18 +2658,18 @@
       "check_in_time": "3:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0571",
-        "extracted_lowest": 571,
-        "before_taxes_fees": "SAR\u00a0473",
-        "extracted_before_taxes_fees": 473
+        "lowest": "SAR\u00a0539",
+        "extracted_lowest": 539,
+        "before_taxes_fees": "SAR\u00a0446",
+        "extracted_before_taxes_fees": 446
       },
       "total_rate": {
-        "lowest": "SAR\u00a0571",
-        "extracted_lowest": 571,
-        "before_taxes_fees": "SAR\u00a0473",
-        "extracted_before_taxes_fees": 473
+        "lowest": "SAR\u00a0539",
+        "extracted_lowest": 539,
+        "before_taxes_fees": "SAR\u00a0446",
+        "extracted_before_taxes_fees": 446
       },
-      "deal": "30% less than usual",
+      "deal": "35% less than usual",
       "deal_description": "Great Deal",
       "nearby_places": [
         {
@@ -2557,11 +2745,11 @@
         }
       ],
       "overall_rating": 4.7,
-      "reviews": 176,
+      "reviews": 177,
       "ratings": [
         {
           "stars": 5,
-          "count": 139
+          "count": 140
         },
         {
           "stars": 4,
@@ -2593,16 +2781,16 @@
         {
           "name": "Business",
           "description": "Business",
-          "total_mentioned": 6,
-          "positive": 6,
+          "total_mentioned": 7,
+          "positive": 7,
           "negative": 0,
           "neutral": 0
         },
         {
           "name": "Fitness",
           "description": "Fitness",
-          "total_mentioned": 8,
-          "positive": 6,
+          "total_mentioned": 9,
+          "positive": 7,
           "negative": 1,
           "neutral": 1
         },
@@ -2615,20 +2803,20 @@
           "neutral": 1
         },
         {
-          "name": "Transit",
-          "description": "Public transit",
+          "name": "Gym",
+          "description": "Gym",
           "total_mentioned": 5,
           "positive": 5,
           "negative": 0,
           "neutral": 0
         },
         {
-          "name": "Restaurant",
-          "description": "Restaurant",
-          "total_mentioned": 6,
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 5,
           "positive": 5,
           "negative": 0,
-          "neutral": 1
+          "neutral": 0
         }
       ],
       "amenities": [
@@ -2649,7 +2837,7 @@
       "type": "hotel",
       "name": "\u0641\u0646\u062f\u0642 \u0647\u0648\u0645 \u0644\u064a\u0627 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0641\u0646\u062f\u0642\u064a\u0629",
       "property_token": "ChoIzNby6KXg_qqXARoNL2cvMTFsMjl3OHM1bBAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoIzNby6KXg_qqXARoNL2cvMTFsMjl3OHM1bBAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoIzNby6KXg_qqXARoNL2cvMTFsMjl3OHM1bBAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.583183899999998,
         "longitude": 46.8041613
@@ -2697,7 +2885,7 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipM77AGi2b2ppZhHmI5aeF43CES4NK7TSdWNqV3p=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw4oBBun9XB16dH3Mjs5QATA3m-gtmEHheTpDIPkrm06P0l4weAMCaXqXk5nEMQ88KIa4Ik-vAxJWfJZKo6e81ZBCTfC7kIWCEIhce0LiilxBg5G8cFxsTLImOQw1pM4dXxn3rRuA=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyDQJJopiKZdvj2bGkMAMzYmTOtquZVvMU8z6ZMwBXz0j-zPxSZdqrXWR5pq1y5X-Y3trN8xb5r1-o_yyUyEzTisNmK-j2sO06cEMj6pU9F8c4LYJTRmXR7Cots8x9bgduD5BMEKg=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDD_9DimAE=s10000"
         },
         {
@@ -2730,11 +2918,11 @@
         }
       ],
       "overall_rating": 4.6,
-      "reviews": 335,
+      "reviews": 336,
       "ratings": [
         {
           "stars": 5,
-          "count": 285
+          "count": 286
         },
         {
           "stars": 4,
@@ -2758,8 +2946,8 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 138,
-          "positive": 131,
+          "total_mentioned": 137,
+          "positive": 130,
           "negative": 5,
           "neutral": 2
         },
@@ -2774,16 +2962,16 @@
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 79,
-          "positive": 71,
+          "total_mentioned": 78,
+          "positive": 70,
           "negative": 4,
           "neutral": 4
         },
         {
           "name": "Property",
           "description": "Property",
-          "total_mentioned": 78,
-          "positive": 72,
+          "total_mentioned": 79,
+          "positive": 73,
           "negative": 4,
           "neutral": 2
         },
@@ -2809,22 +2997,22 @@
       "type": "hotel",
       "name": "Dorra Suites \u0623\u062c\u0646\u062d\u0629 \u062f\u0631\u0629",
       "property_token": "ChkI68LMgcCuhNlwGg0vZy8xMWw1amtfcTVwEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChkI68LMgcCuhNlwGg0vZy8xMWw1amtfcTVwEAE&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChkI68LMgcCuhNlwGg0vZy8xMWw1amtfcTVwEAE&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.8178612,
         "longitude": 46.784506799999996
       },
       "rate_per_night": {
-        "lowest": "SAR\u00a0518",
-        "extracted_lowest": 518,
-        "before_taxes_fees": "SAR\u00a0450",
-        "extracted_before_taxes_fees": 450
+        "lowest": "SAR\u00a0513",
+        "extracted_lowest": 513,
+        "before_taxes_fees": "SAR\u00a0446",
+        "extracted_before_taxes_fees": 446
       },
       "total_rate": {
-        "lowest": "SAR\u00a0518",
-        "extracted_lowest": 518,
-        "before_taxes_fees": "SAR\u00a0450",
-        "extracted_before_taxes_fees": 450
+        "lowest": "SAR\u00a0513",
+        "extracted_lowest": 513,
+        "before_taxes_fees": "SAR\u00a0446",
+        "extracted_before_taxes_fees": 446
       },
       "nearby_places": [
         {
@@ -2852,7 +3040,7 @@
       ],
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzS-K0h1gKTN9QVVErUd7OoMMWY24D_c9ncpop0atmkaRFwHMKmctTrdmT8y_z0jIzwnZ-do4fXDMlzj0JyV_YB4xp4wAPW_QuTlEcV89uFG38BtdNg3e4ArAnXaHWUH4L3baRJ=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy7ybky4iVjqiYbtEg0ZMBZLllc30VLl63w4y-lnelHv5tMWOkY5qunoeR4q1N_D0-gEaRauI8DegMFqPlmx6kcyIfRCWHpw6gqYgulBpAjRTcQE9X1Vdu5Vk9ujSTf02cgOkK8=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICzxf6n0gE=s10000"
         },
         {
@@ -2888,8 +3076,8 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipPf_INI-GbaIAgVlZS6zBhoDYPVL2q5odmXolqZ=s10000"
         }
       ],
-      "overall_rating": 4.7,
-      "reviews": 162,
+      "overall_rating": 4.6,
+      "reviews": 163,
       "ratings": [
         {
           "stars": 5,
@@ -2901,7 +3089,7 @@
         },
         {
           "stars": 3,
-          "count": 6
+          "count": 7
         },
         {
           "stars": 2,
@@ -2976,23 +3164,23 @@
       "type": "hotel",
       "name": "Shorfa Hotel",
       "property_token": "ChoI2I7K17293dHMARoNL2cvMTFzM3k1Nm55cBAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI2I7K17293dHMARoNL2cvMTFzM3k1Nm55cBAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoI2I7K17293dHMARoNL2cvMTFzM3k1Nm55cBAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.7918924,
         "longitude": 46.644206399999995
       },
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0470",
-        "extracted_lowest": 470,
-        "before_taxes_fees": "SAR\u00a0428",
-        "extracted_before_taxes_fees": 428
+        "lowest": "SAR\u00a0467",
+        "extracted_lowest": 467,
+        "before_taxes_fees": "SAR\u00a0424",
+        "extracted_before_taxes_fees": 424
       },
       "total_rate": {
-        "lowest": "SAR\u00a0470",
-        "extracted_lowest": 470,
-        "before_taxes_fees": "SAR\u00a0428",
-        "extracted_before_taxes_fees": 428
+        "lowest": "SAR\u00a0467",
+        "extracted_lowest": 467,
+        "before_taxes_fees": "SAR\u00a0424",
+        "extracted_before_taxes_fees": 424
       },
       "nearby_places": [
         {
@@ -3029,7 +3217,7 @@
       ],
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwz11EHbmbg1Wu0QJylU4rYKdPXd5HYpfwNU5O_pBi-gUtuLO59dPbOYWsp3J8IS_3urQHB7-Iy3ihYeEvBZxrn33tDHS9cmgfP7ysBFNn7eQ7WmO_deCbDmGOXFRY7UKeGgdTw0Q=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx9gZagCb_AGuaPnSbyoFO68sRPkNYwoDSHA2X7uX7RGAzJ7rDaOMCjpSeP8784XoNXwfrhw6GE0Cdp0MQ2SV08nII09NUg7XzEiL6aQJIlq1x7YT90ZiKhC4tBHz27gktJqlx4Zg=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEOvrl563xpf2uAE=s10000"
         },
         {
@@ -3037,11 +3225,11 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipMUzkybg1J2Dz6CxQEgjNTBNnAiEGm2JDWj8Esx=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMWvxqvEPVnV6N9c85UAdb4MFIgsfJzRWN3Z8hZ=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMWvxqvEPVnV6N9c85UAdb4MFIgsfJzRWN3Z8hZ=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMch6dRVOf5SyvvmEK_XCkinHkUJSC3G6jISnr5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMch6dRVOf5SyvvmEK_XCkinHkUJSC3G6jISnr5=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyRg7ohrzx01IZlMNZWlu8wlLgCQlchqOsQ5MkMbJXx55PXN0zUrgJabcxTEbA4_jjy7ULO9Xgg_QUTRncfVtKJ3pr9IrIhgEFI3yeAZHhF5eBYmZQZDm_uWqbgiIimZhdXNuB2gA=s287-w287-h192-n-k-no-v1",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxG5xQc5EVBbcsmM4BKlZ_0lafwwqdldVCENtUmjSVc3zWpd77wdbkw3Ljw_9nGjPNry6Kcxt03KpBVfoV7i_0uN3UWvJfgcu26efdPxOrW7BjzNc74V-FC3TvP9YVaGJ-RkAwtFw=s287-w287-h192-n-k-no-v1",
           "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICe0KTotAE=s10000"
         },
         {
@@ -3061,8 +3249,8 @@
           "original_image": "https://lh5.googleusercontent.com/p/AF1QipMePgRqXoeIwGSvmBhhMkGc4f3bFz7Ik7wcaO-n=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNYtjcZfkSfYUc9GrVzJpYQ11lBK8MD_V51Ol2k=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNYtjcZfkSfYUc9GrVzJpYQ11lBK8MD_V51Ol2k=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOqTIcQ0U-maLGIcfNs2GspTLZBcTnYJN0vgV-d=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqTIcQ0U-maLGIcfNs2GspTLZBcTnYJN0vgV-d=s10000"
         }
       ],
       "overall_rating": 4.6,
@@ -3094,8 +3282,8 @@
         {
           "name": "Atmosphere",
           "description": "Atmosphere",
-          "total_mentioned": 30,
-          "positive": 28,
+          "total_mentioned": 31,
+          "positive": 29,
           "negative": 2,
           "neutral": 0
         },
@@ -3118,24 +3306,24 @@
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 67,
-          "positive": 60,
+          "total_mentioned": 68,
+          "positive": 61,
           "negative": 5,
           "neutral": 2
         },
         {
           "name": "Property",
           "description": "Property",
-          "total_mentioned": 56,
-          "positive": 50,
+          "total_mentioned": 57,
+          "positive": 51,
           "negative": 6,
           "neutral": 0
         },
         {
           "name": "Room",
           "description": "Room amenities",
-          "total_mentioned": 9,
-          "positive": 9,
+          "total_mentioned": 10,
+          "positive": 10,
           "negative": 0,
           "neutral": 0
         }
@@ -3146,7 +3334,7 @@
       "name": "\u0641\u0646\u062f\u0642 \u0631\u064a\u0627\u0646 \u0627\u0644\u062c\u0646\u0627\u062f\u0631\u064a\u0629 \u0644\u0644\u0634\u0642\u0642 \u0627\u0644\u0645\u062e\u062f\u0648\u0645\u0629",
       "link": "https://sadaa.com.sa/hotels/rayan-al-janadria-hotel/",
       "property_token": "ChoI4M3v1dD7gMayARoNL2cvMTF3aHNoejl3bRAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI4M3v1dD7gMayARoNL2cvMTF3aHNoejl3bRAB&q=Riyadh+hotels&sort_by=8",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&property_token=ChoI4M3v1dD7gMayARoNL2cvMTF3aHNoejl3bRAB&q=Riyadh+hotels&sort_by=8",
       "gps_coordinates": {
         "latitude": 24.809324699999998,
         "longitude": 46.8737321
@@ -3154,16 +3342,16 @@
       "check_in_time": "4:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0250",
-        "extracted_lowest": 250,
-        "before_taxes_fees": "SAR\u00a0218",
-        "extracted_before_taxes_fees": 218
+        "lowest": "SAR\u00a0272",
+        "extracted_lowest": 272,
+        "before_taxes_fees": "SAR\u00a0230",
+        "extracted_before_taxes_fees": 230
       },
       "total_rate": {
-        "lowest": "SAR\u00a0250",
-        "extracted_lowest": 250,
-        "before_taxes_fees": "SAR\u00a0218",
-        "extracted_before_taxes_fees": 218
+        "lowest": "SAR\u00a0272",
+        "extracted_lowest": 272,
+        "before_taxes_fees": "SAR\u00a0230",
+        "extracted_before_taxes_fees": 230
       },
       "nearby_places": [
         {
@@ -3228,7 +3416,7 @@
         }
       ],
       "overall_rating": 4.7,
-      "reviews": 161,
+      "reviews": 162,
       "ratings": [
         {
           "stars": 5,
@@ -3236,7 +3424,7 @@
         },
         {
           "stars": 4,
-          "count": 10
+          "count": 11
         },
         {
           "stars": 3,
@@ -3256,16 +3444,16 @@
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 65,
-          "positive": 60,
+          "total_mentioned": 66,
+          "positive": 61,
           "negative": 4,
           "neutral": 1
         },
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 52,
-          "positive": 48,
+          "total_mentioned": 53,
+          "positive": 49,
           "negative": 3,
           "neutral": 1
         },
@@ -3313,213 +3501,12 @@
         "Kid-friendly",
         "Smoke-free property"
       ]
-    },
-    {
-      "type": "hotel",
-      "name": "Hayat Alriyadh Hotel",
-      "description": "Informal hotel featuring warmly furnished rooms & suites, plus a restaurant, an indoor pool & a gym.",
-      "link": "https://www.hayatwasham.com/",
-      "property_token": "ChoI3s3G_-vspbecARoNL2cvMTFxOTdrNGR4ehAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&property_token=ChoI3s3G_-vspbecARoNL2cvMTFxOTdrNGR4ehAB&q=Riyadh+hotels&sort_by=8",
-      "gps_coordinates": {
-        "latitude": 24.652271499999998,
-        "longitude": 46.708106199999996
-      },
-      "check_in_time": "2:00\u202fPM",
-      "check_out_time": "12:00\u202fPM",
-      "rate_per_night": {
-        "lowest": "SAR\u00a0326",
-        "extracted_lowest": 326,
-        "before_taxes_fees": "SAR\u00a0278",
-        "extracted_before_taxes_fees": 278
-      },
-      "total_rate": {
-        "lowest": "SAR\u00a0326",
-        "extracted_lowest": 326,
-        "before_taxes_fees": "SAR\u00a0278",
-        "extracted_before_taxes_fees": 278
-      },
-      "deal": "38% less than usual",
-      "deal_description": "Great Deal",
-      "nearby_places": [
-        {
-          "name": "Murabba Historical Palace",
-          "transportations": [
-            {
-              "type": "Taxi",
-              "duration": "6 min"
-            }
-          ]
-        },
-        {
-          "name": "Al Washm 401",
-          "transportations": [
-            {
-              "type": "Walking",
-              "duration": "1 min"
-            }
-          ]
-        },
-        {
-          "name": "King Khalid International Airport",
-          "transportations": [
-            {
-              "type": "Taxi",
-              "duration": "37 min"
-            },
-            {
-              "type": "Public transport",
-              "duration": "1 hr 14 min"
-            }
-          ]
-        },
-        {
-          "name": "\u0645\u0637\u0639\u0645 \u0631\u064a\u062d\u0627\u0646\u0647 \u0627\u0644\u0628\u064a\u062a",
-          "transportations": [
-            {
-              "type": "Taxi",
-              "duration": "6 min"
-            }
-          ]
-        }
-      ],
-      "hotel_class": "4-star hotel",
-      "extracted_hotel_class": 4,
-      "images": [
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM9JsVThgfgb6yPVmQdbkDakS9daDQ77BVPUCz1=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM9JsVThgfgb6yPVmQdbkDakS9daDQ77BVPUCz1=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOfTY_GVLt9Cgywoob8uGLSqwHSVkclspP1rxFE=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOfTY_GVLt9Cgywoob8uGLSqwHSVkclspP1rxFE=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMTrdUIxGGExy92RRwvDBm5cKuJ7gNT33s_lyUV=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMTrdUIxGGExy92RRwvDBm5cKuJ7gNT33s_lyUV=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz1ReNkavEYJZ15_PeTCIsvrHJFUmgWZc35aIZgPPnGVOifjZRN732fNRRbkBz_N5Ltb7jjrjl5URRYWyKGb02UFLbJWY-44IWFpBTPTDEfNTIrbkgiq_hC0iqq9NlJZV5krJZnvw=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICT8JSfsAE=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPDFYRLKHkjjvfqEV02DJ9xiw8UUUq1cdMfPFxx=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDFYRLKHkjjvfqEV02DJ9xiw8UUUq1cdMfPFxx=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO_-tlR90NhwJVVuECoqPRrZoZFA5M3778g79oD=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_-tlR90NhwJVVuECoqPRrZoZFA5M3778g79oD=s10000"
-        },
-        {
-          "thumbnail": "https://lh4.googleusercontent.com/proxy/WXm43xHTIInACdiiHuaL0PH2kzJVHZ_e_QxpZuCHdean8jgVClhG4nHmKzokJ-jg9mPai-pe_zDAwbuL3t2t83qwDrc8H0dsWK205NfsfapUkYkU2SMg7QTisKWp1iRAyaFOqePVuav8c49s-e8TWRu1p31RcUQ=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://photos.hotelbeds.com/giata/original/94/945786/945786a_hb_ro_007.jpg"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNtL_h55GLul69uVq7mdl6KUWgrbjWUNRZ_Zul4=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtL_h55GLul69uVq7mdl6KUWgrbjWUNRZ_Zul4=s10000"
-        },
-        {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNqgd-6ZPn8lRRJ11QGO9g1uFxNIgOm2HJ-Wimi=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNqgd-6ZPn8lRRJ11QGO9g1uFxNIgOm2HJ-Wimi=s10000"
-        }
-      ],
-      "overall_rating": 4.5,
-      "reviews": 1339,
-      "ratings": [
-        {
-          "stars": 5,
-          "count": 969
-        },
-        {
-          "stars": 4,
-          "count": 190
-        },
-        {
-          "stars": 3,
-          "count": 82
-        },
-        {
-          "stars": 2,
-          "count": 38
-        },
-        {
-          "stars": 1,
-          "count": 60
-        }
-      ],
-      "location_rating": 4.1,
-      "reviews_breakdown": [
-        {
-          "name": "Breakfast",
-          "description": "Breakfast",
-          "total_mentioned": 58,
-          "positive": 36,
-          "negative": 10,
-          "neutral": 12
-        },
-        {
-          "name": "Service",
-          "description": "Service",
-          "total_mentioned": 285,
-          "positive": 235,
-          "negative": 41,
-          "neutral": 9
-        },
-        {
-          "name": "Dining",
-          "description": "Food and Beverage",
-          "total_mentioned": 33,
-          "positive": 23,
-          "negative": 7,
-          "neutral": 3
-        },
-        {
-          "name": "Property",
-          "description": "Property",
-          "total_mentioned": 209,
-          "positive": 182,
-          "negative": 17,
-          "neutral": 10
-        },
-        {
-          "name": "Atmosphere",
-          "description": "Atmosphere",
-          "total_mentioned": 73,
-          "positive": 69,
-          "negative": 2,
-          "neutral": 2
-        },
-        {
-          "name": "Cleanliness",
-          "description": "Cleanliness",
-          "total_mentioned": 171,
-          "positive": 147,
-          "negative": 18,
-          "neutral": 6
-        }
-      ],
-      "amenities": [
-        "Free breakfast",
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Hot tub",
-        "Air conditioning",
-        "Fitness center",
-        "Spa",
-        "Restaurant",
-        "Room service",
-        "Kitchen in some rooms",
-        "Airport shuttle",
-        "Full-service laundry",
-        "Accessible"
-      ]
     }
   ],
   "serpapi_pagination": {
     "current_from": 1,
     "current_to": 18,
     "next_page_token": "CBI=",
-    "next": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=us&hl=en&max_price=500&next_page_token=CBI%3D&q=Riyadh+hotels&sort_by=8"
+    "next": "https://serpapi.com/search.json?adults=2&check_in_date=2025-11-13&check_out_date=2025-11-14&children=0&currency=SAR&engine=google_hotels&gl=SA&hl=en&max_price=500&next_page_token=CBI%3D&q=Riyadh+hotels&sort_by=8"
   }
 }

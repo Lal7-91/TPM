@@ -5,7 +5,7 @@
     "price": 530,
     "stars": null,
     "rating": 4.9,
-    "reviews": 490,
+    "reviews": 493,
     "location_rating": 2.7,
     "coordinates": {
       "latitude": 24.792358099999998,
@@ -24,10 +24,10 @@
   {
     "id": "ChoIzMH_r5TehtfsARoNL2cvMTF0NzNicHhtZBAB",
     "name": "فشركة سند للاستقدام ندق مارفوليوس",
-    "price": 251,
+    "price": 267,
     "stars": 3,
     "rating": 4.8,
-    "reviews": 490,
+    "reviews": 491,
     "location_rating": 3.5,
     "coordinates": {
       "latitude": 24.6840397,
@@ -46,10 +46,10 @@
   {
     "id": "ChkIuvay0v_gpYM6Gg0vZy8xMWs1MGQ4Yno3EAE",
     "name": "Seven Gardens Hotel",
-    "price": 429,
+    "price": 435,
     "stars": 4,
     "rating": 4.7,
-    "reviews": 916,
+    "reviews": 919,
     "location_rating": 3.1,
     "coordinates": {
       "latitude": 24.8318454,
@@ -62,10 +62,10 @@
   {
     "id": "ChoI6e3rnPHKrtOyARoNL2cvMTF5NGxzN2tmXxAB",
     "name": "Nova M Hotel Riyadh, Edge by Rotana",
-    "price": 537,
+    "price": 459,
     "stars": 4,
     "rating": 4.7,
-    "reviews": 871,
+    "reviews": 878,
     "location_rating": 3.3,
     "coordinates": {
       "latitude": 24.7199749,
@@ -82,34 +82,34 @@
     "sponsored": null
   },
   {
-    "id": "ChkI3rKXtuSelv5_Gg0vZy8xMXduX2Q4ajhkEAE",
-    "name": "كنين للشقق المخدومة",
-    "price": 322,
-    "stars": null,
-    "rating": 4.7,
-    "reviews": 358,
-    "location_rating": 2.9,
+    "id": "ChoIja_zjJmrlK2GARoNL2cvMTFwemhmOXhtYxAB",
+    "name": "JOUDYAN Olaya Riyadh By ELAF",
+    "price": 598,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 3675,
+    "location_rating": 4.5,
     "coordinates": {
-      "latitude": 24.5599535,
-      "longitude": 46.5567141
+      "latitude": 24.699384600000002,
+      "longitude": 46.682753399999996
     },
     "amenities": [
+      "Breakfast ($)",
       "Free Wi-Fi",
-      "Parking",
-      "Air conditioning",
-      "Kitchen",
-      "Full-service laundry"
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub"
     ],
-    "link": "http://www.kanin-sa.com/",
+    "link": "https://www.joudyanhotels.com/olaya",
     "sponsored": null
   },
   {
     "id": "ChoI-uWH5OSt272lARoNL2cvMTF3Zl9iZ3B5eRAB",
     "name": "بيستانا للشقق الفندقيه 4",
-    "price": 372,
+    "price": 373,
     "stars": null,
     "rating": 4.8,
-    "reviews": 171,
+    "reviews": 174,
     "location_rating": 4.2,
     "coordinates": {
       "latitude": 24.800424099999997,
@@ -131,7 +131,7 @@
     "price": 323,
     "stars": null,
     "rating": 4.7,
-    "reviews": 283,
+    "reviews": 285,
     "location_rating": 2.9,
     "coordinates": {
       "latitude": 24.836791299999998,
@@ -145,6 +145,28 @@
       "Bar"
     ],
     "link": "https://37530.bookmystay.io/?utm_source=gmb&utm_campaign=website_buttton",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE",
+    "name": "افال للشقق المخدومة-اليرموك",
+    "price": 350,
+    "stars": null,
+    "rating": 4.7,
+    "reviews": 247,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 24.812746999999998,
+      "longitude": 46.804632399999996
+    },
+    "amenities": [
+      "Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Room service",
+      "Kitchen in some rooms"
+    ],
+    "link": "https://www.afalsuites.com/",
     "sponsored": null
   },
   {
@@ -175,7 +197,7 @@
     "price": 247,
     "stars": 2,
     "rating": 4.6,
-    "reviews": 679,
+    "reviews": 681,
     "location_rating": 4.3,
     "coordinates": {
       "latitude": 24.613844,
@@ -192,31 +214,9 @@
     "sponsored": null
   },
   {
-    "id": "ChkIqZuCiomUxr9qGg0vZy8xMXd5Mmc3MGdkEAE",
-    "name": "افال للشقق المخدومة-اليرموك",
-    "price": 350,
-    "stars": null,
-    "rating": 4.7,
-    "reviews": 247,
-    "location_rating": 3.8,
-    "coordinates": {
-      "latitude": 24.812746999999998,
-      "longitude": 46.804632399999996
-    },
-    "amenities": [
-      "Wi-Fi",
-      "Parking",
-      "Air conditioning",
-      "Room service",
-      "Kitchen in some rooms"
-    ],
-    "link": "https://www.afalsuites.com/",
-    "sponsored": null
-  },
-  {
     "id": "ChoIz9KC4q_K9dngARoNL2cvMTF0NDhrX2o2dxAB",
     "name": "SMAYAH RESIDENCE",
-    "price": 432,
+    "price": 428,
     "stars": 4,
     "rating": 4.6,
     "reviews": 584,
@@ -233,6 +233,28 @@
       "Air conditioning"
     ],
     "link": "http://booking.smayah.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIx5T9lpWV0ZRvGg0vZy8xMXhreG1jc2szEAE",
+    "name": "الدار الرفيع للشقق المخدومة",
+    "price": 202,
+    "stars": null,
+    "rating": 4.8,
+    "reviews": 105,
+    "location_rating": 2.2,
+    "coordinates": {
+      "latitude": 24.619464999999998,
+      "longitude": 46.543985
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Room service",
+      "Kitchen"
+    ],
+    "link": "https://www.booking.com/Share-PE4Qn5",
     "sponsored": null
   },
   {
@@ -260,10 +282,10 @@
   {
     "id": "ChkIttO-rc2Mt4I6Gg0vZy8xMWtxNHgwemRsEAE",
     "name": "Four Points by Sheraton King Abdulaziz Road",
-    "price": 571,
+    "price": 539,
     "stars": 4,
     "rating": 4.7,
-    "reviews": 176,
+    "reviews": 177,
     "location_rating": 3.3,
     "coordinates": {
       "latitude": 24.7024062,
@@ -285,7 +307,7 @@
     "price": 320,
     "stars": null,
     "rating": 4.6,
-    "reviews": 335,
+    "reviews": 336,
     "location_rating": 2.5,
     "coordinates": {
       "latitude": 24.583183899999998,
@@ -298,10 +320,10 @@
   {
     "id": "ChkI68LMgcCuhNlwGg0vZy8xMWw1amtfcTVwEAE",
     "name": "Dorra Suites أجنحة درة",
-    "price": 518,
+    "price": 513,
     "stars": null,
-    "rating": 4.7,
-    "reviews": 162,
+    "rating": 4.6,
+    "reviews": 163,
     "location_rating": 4.1,
     "coordinates": {
       "latitude": 24.8178612,
@@ -320,7 +342,7 @@
   {
     "id": "ChoI2I7K17293dHMARoNL2cvMTFzM3k1Nm55cBAB",
     "name": "Shorfa Hotel",
-    "price": 470,
+    "price": 467,
     "stars": null,
     "rating": 4.6,
     "reviews": 292,
@@ -336,10 +358,10 @@
   {
     "id": "ChoI4M3v1dD7gMayARoNL2cvMTF3aHNoejl3bRAB",
     "name": "فندق ريان الجنادرية للشقق المخدومة",
-    "price": 250,
+    "price": 272,
     "stars": null,
     "rating": 4.7,
-    "reviews": 161,
+    "reviews": 162,
     "location_rating": 2.7,
     "coordinates": {
       "latitude": 24.809324699999998,
@@ -353,28 +375,6 @@
       "Kitchen"
     ],
     "link": "https://sadaa.com.sa/hotels/rayan-al-janadria-hotel/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoI3s3G_-vspbecARoNL2cvMTFxOTdrNGR4ehAB",
-    "name": "Hayat Alriyadh Hotel",
-    "price": 326,
-    "stars": 4,
-    "rating": 4.5,
-    "reviews": 1339,
-    "location_rating": 4.1,
-    "coordinates": {
-      "latitude": 24.652271499999998,
-      "longitude": 46.708106199999996
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Pool",
-      "Hot tub"
-    ],
-    "link": "https://www.hayatwasham.com/",
     "sponsored": null
   }
 ]
