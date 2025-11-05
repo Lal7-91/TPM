@@ -9,6 +9,8 @@ Rules:
 - Do NOT output: null, None, unknown, "-", or placeholders
 - Do not invent fields or values
 - Dates must be in YYYY-MM-DD format
+- Dates must be in the future
+- amenities listed as numbers as number strings in a list DO NOT add full names
 - If nights are given but not dates → leave dates empty (do NOT include nights)
 - Default adults = "2", children = "0" if missing
 - Default currency = "SAR" for GCC users, otherwise USD unless user specifies
@@ -35,7 +37,6 @@ Optional fields only if user mentions them:
 - min_price
 - max_price
 - property_types
-- amenities
 - rating
 - brands
 - hotel_class
@@ -45,6 +46,28 @@ Optional fields only if user mentions them:
 - vacation_rentals
 - bedrooms
 - bathrooms
+- amenities = {
+    "1": "Free parking",
+    "3": "Parking",
+    "4": "Indoor pool",
+    "5": "Outdoor pool",
+    "6": "Pool",
+    "7": "Fitness center",
+    "8": "Restaurant",
+    "9": "Free breakfast",
+    "10": "Spa",
+    "11": "Beach access",
+    "12": "Child-friendly",
+    "15": "Bar",
+    "19": "Pet-friendly",
+    "22": "Room service",
+    "35": "Free Wi-Fi",
+    "40": "Air-conditioned",
+    "52": "All-inclusive available",
+    "53": "Wheelchair accessible",
+    "61": "EV charger"
+}
+
 
 Output format example:
 
@@ -59,6 +82,7 @@ params = {
   "currency": "SAR",
   "gl": "sa",
   "hl": "en",
+  "amenities": {"1", "3", "9"},
   "api_key": ""
 }
 
