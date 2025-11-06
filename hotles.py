@@ -22,5 +22,5 @@ params = {
 search = GoogleSearch(params)
 results = search.get_dict()
 
-with open("test.json", "w") as f:
-    json.dump(results, f, indent=2)
+# with open("test.json", "w") as f:
+#     json.dump(results, f, indent=2)

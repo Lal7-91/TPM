@@ -1,17 +1,19 @@
-params = {
+{
   "engine": "google_hotels",
   "q": "Hotels in Dubai",
   "check_in_date": "2026-01-10",
   "check_out_date": "2026-01-15",
   "adults": "2",
-  "children": "1",
-  "children_ages": "6",
+  "children": "0",
   "currency": "SAR",
   "gl": "sa",
   "hl": "en",
   "min_price": "250",
   "max_price": "400",
   "free_cancellation": "true",
-  "amenities": ["9"],
+  "amenities": [
+    "6",
+    "35"
+  ],
   "api_key": ""
 }

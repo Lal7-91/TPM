@@ -1,15 +1,15 @@
 {
   "search_metadata": {
-    "id": "690bca55d02d2a0c8c1219eb",
+    "id": "690cc7a080c9637e97291a83",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/5fd618575d5a3ad1/690bca55d02d2a0c8c1219eb.json",
-    "created_at": "2025-11-05T22:06:13.578Z",
-    "processed_at": "2025-11-05T22:06:13.579Z",
+    "json_endpoint": "https://serpapi.com/searches/5fd618575d5a3ad1/690cc7a080c9637e97291a83.json",
+    "created_at": "2025-11-06T16:06:56.592Z",
+    "processed_at": "2025-11-06T16:06:56.593Z",
     "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=sa&rt=c&soc-app=162&soc-platform=1&soc-device=1",
-    "raw_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690bca55d02d2a0c8c1219eb.html",
-    "prettify_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690bca55d02d2a0c8c1219eb.prettify",
+    "raw_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690cc7a080c9637e97291a83.html",
+    "prettify_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690cc7a080c9637e97291a83.prettify",
     "total_time_taken": {
-      "float": 1.6970598697662354
+      "float": 2.5662782192230225
     }
   },
   "search_parameters": {
@@ -21,15 +21,14 @@
     "check_in_date": "2026-01-10",
     "check_out_date": "2026-01-15",
     "adults": 2,
-    "children": 1,
-    "children_ages": "6",
+    "children": 0,
     "min_price": "250",
     "max_price": "400",
     "free_cancellation": true,
-    "amenities": "9"
+    "amenities": "6"
   },
   "search_information": {
-    "total_results": 1
+    "total_results": 105
   },
   "brands": [
     {
@@ -535,47 +534,314 @@
       ]
     }
   ],
+  "ads": [
+    {
+      "name": "Rove At The Park",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQDRoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YASABEgJi8fD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_1eLFyWLLxxIQi3kcxd_WfCg8lsBA&adurl=",
+      "property_token": "CgsI1NyP9aT5nZ_TARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgsI1NyP9aT5nZ_TARAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 24.910567000000004,
+        "longitude": 55.013853999999995
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/kmby3p0U3acTDRjThrxnaw-Puijm8ywqd1Q1R7gS17H8HUnpzkY9NyudKA460-MHIlr8rLEOuUCDfeVQmLakt1MbuBdqZTKBn_skMItygBQZRTibLdyn_0sCvL0cejxbvo7DZyPiNqdnhYskcA77w3XKSgY_dQ=w225-h150-k-no",
+      "overall_rating": 4.8,
+      "reviews": 10575,
+      "price": "SAR\u00a0315",
+      "extracted_price": 315,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Golden Sands Hotel & Residences",
+      "source": "Expedia.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/ac238c97-1652-4830-8da8-bb8d8883af88.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQARoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YAiABEgIgWPD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_09ajW8CFC5ChdbmnINexO8S9ivBw&adurl=",
+      "property_token": "CgoIkbaVnsuF1KoqEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoIkbaVnsuF1KoqEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.298486,
+        "longitude": 55.372251
+      },
+      "hotel_class": 4,
+      "thumbnail": "https://lh6.googleusercontent.com/proxy/fXpPFaEVkZVlGYEUrVhOQbXgH9ePNmgol7d3rIiOP_hsyvUO0XAEdjC0NwLbsSZ4ymkMf93rY960e46nmLDFNlgcBrmEk1WgkME6sNJTM3jnS_sTrcwTrXPY2vsCOAAZln9htiCe4C2QO6NouaRKT53aVcAEeA=w150-h159-k-no",
+      "overall_rating": 4.3,
+      "reviews": 4505,
+      "price": "SAR\u00a0338",
+      "extracted_price": 338,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Copthorne Hotel Sharjah",
+      "source": "Hotels.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQCRoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YAyABEgKymPD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_1wQJj-NdWPAuD5ybVRlMO0AFAOAg&adurl=",
+      "property_token": "CgoI-ZPK6MDmk6AeEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoI-ZPK6MDmk6AeEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.335060000000002,
+        "longitude": 55.375172000000006
+      },
+      "hotel_class": 4,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/9T7yL1N0N7cCPe3VWO8bEf6gmJSdhbNgAKcv1BdWPiHYE6nD9OndWNHNqmk2b3Gu-p-1YpVnpc8mBb5w8JZbmKqL4F5F9uhEXFTuQBuE9MLUEcJGv8MqmggpNiHKrOSHaZVGtWCv0DSCJbukp_xMYhpZBslY2K8=w245-h150-k-no",
+      "overall_rating": 4.2,
+      "reviews": 3714,
+      "price": "SAR\u00a0359",
+      "extracted_price": 359,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Crystal Plaza Al Majaz Hotel",
+      "source": "Travelocity.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_185.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQBxoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YBCABEgJqH_D_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_35aqwIlAjIDjrl8zxh4xTRnQEbTQ&adurl=",
+      "property_token": "CgsI_uDDovfHpK7lARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgsI_uDDovfHpK7lARAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.317297999999997,
+        "longitude": 55.381122
+      },
+      "hotel_class": 4,
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/Wz4TEBCbcECtFk3A-pHHa5OKwD1XLJVlnVs224_riX9cyb1ckGcQiAXxoEulwefA2fMdM6T0TOxbLRENLHrJG1ItY6Pz3W_8Tg1TPPcpgT7mXz6NXSE1n_ubL7lhZ-jitO5O1YUma25s3I1N-C5ZMCEgtjSv-Yk=w225-h150-k-no",
+      "overall_rating": 3.9,
+      "reviews": 1531,
+      "price": "SAR\u00a0322",
+      "extracted_price": 322,
+      "amenities": [
+        "Hot tub",
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Premier Inn Dubai Investments Park Hotel",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQCxoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YBSABEgLoE_D_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_1AvtVIqtcT3zg7kH0otEX_2YHdsA&adurl=",
+      "property_token": "CgoI_4fe99Cl8IQcEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoI_4fe99Cl8IQcEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.00816,
+        "longitude": 55.156555
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/TLJzeXBymsPKeMsIek850wfUnbD8Vp3kY0PTS3smPpljIf-5P7Yu7VHtOxFFH7YDRBzQGG8uPit6ze4zNxlbdzF8gUjmVHeZPPBgV9gHeyAqTgl8IsgMeJhxwvdhDW-FjUonYrNJwSsvm9cDKbfw4srIcfq4Bg=w225-h150-k-no",
+      "overall_rating": 4.6,
+      "reviews": 6108,
+      "price": "SAR\u00a0327",
+      "extracted_price": 327,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Room service",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Howard Johnson by Wyndham Bur Dubai",
+      "source": "Agoda",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQERoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YBiABEgI_9PD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_0TzELgCCyiR-PCfDkQESq5BEtt1w&adurl=",
+      "property_token": "CgsI2Lbw6vWht6eVARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgsI2Lbw6vWht6eVARAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.260174,
+        "longitude": 55.285464
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/00UcivpMD_EYEWHbcok4fuzIfyIlyKO6d50HP6NdBWNwlC9TnwYjnrdLTciH6Bc8AgBsXytS5erSChbqJRYUouKBp92wiP37Xpm7g8WdeRZQtlxeZycZYqQphndFTheYbrwTjOuokClZPTML2hHrOfLhPc1iv6A=w225-h150-k-no",
+      "overall_rating": 4.4,
+      "reviews": 4580,
+      "price": "SAR\u00a0428",
+      "extracted_price": 428,
+      "amenities": [
+        "Hot tub",
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Room service",
+        "Airport shuttle",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "ECOS Dubai Hotel at Al Furjan",
+      "source": "Agoda",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/b13642de-d476-41bd-8254-3edc2e567aa6.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQDxoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YByABEgK50vD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_2TCLeaAgIQX6chPx_HGkgt4Lvt7Q&adurl=",
+      "property_token": "CgoIu6Oo6MnaocEbEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoIu6Oo6MnaocEbEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.020376,
+        "longitude": 55.153528
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/UgJUlYi6WYhXf5mApKatE19SmmjuLh5pm3yPTbm8gNFt8IaG31Dr7uJPB0wqPM3KhoXOGwxyvU9p6sDVczLCg3JPy8s7ScZ8_zNvZZ3jvxMvq4LUMJicQk12qchzEd9JFxbIbUNvjlFAxCYACbm3_cOOnVQ_Cw=w272-h150-k-no",
+      "overall_rating": 4.6,
+      "reviews": 3038,
+      "price": "SAR\u00a0330",
+      "extracted_price": 330,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Room service",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Premier Inn Dubai Al Jaddaf Hotel",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQBRoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YCCABEgJ1T_D_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_0J__apxJKKageq38L8y9CLCimGKA&adurl=",
+      "property_token": "CgoI_Z3V-rDTmo89EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoI_Z3V-rDTmo89EAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.22176,
+        "longitude": 55.331809
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/J--cmqrNhEXB0unZ5ZRxjLRCsb1h_n8JCSQr7Ojb_SycQl8j7uR9RBvq9dqUAk_zMqvCnYN87mAxQd7JX5a7XzlCMW9tU2Dbhncwy_tVTu0KE_M2bjj32KHTBQCuYQGlu56bsSqp6lZv8wItaIc-_jTdIkSFQw=w225-h150-k-no",
+      "overall_rating": 4.7,
+      "reviews": 7452,
+      "price": "SAR\u00a0351",
+      "extracted_price": 351,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Room service",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Citymax Hotel Bur Dubai",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwiun7uJ9N2QAxUPcUcBHXdAJbEYACICCAEQAxoCcXU&co=1&ase=2&gclid=EAIaIQobChMIrp-7ifTdkAMVD3FHAR13QCWxEA0YCSABEgIuuPD_BwE&cid=CAASmAHkaMH71eET3oS1Tw8RpW68-Jn7gbX0hEyMpsL259CocvNUkSEV1DUIXBuYXlKYwvT-iVq7BVHVwTWewglrVRvMaqXl7QQpLMWc4FhwXG7G-9mMGPk5D_5lN8SsULB26uH_rul20hvROUfd9gvHQbddS53DNk85GsMNy0x-kWvYx944nKlU28hll77FyIT9ihOF55cyrd2T2A&category=acrcp_v1_48&sig=AOD64_0CFGML3g_ttdvHUGVGsRREX_Qd6Q&adurl=",
+      "property_token": "CgoIxZrJq9n-uM5EEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=CgoIxZrJq9n-uM5EEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.251078999999997,
+        "longitude": 55.291968999999995
+      },
+      "hotel_class": 3,
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/S370TYI7qDsA4fPn7c9W4DOriWjfU88csMVmeEdrokqoLtqXuYNuuKEk-CCyi5FxrSJltj0SHa0N1_lN2BX7Hk3vi0dSqQCLXCBDhGhM2KvmylFunjBOKOBg7xdPR5XVLChts0uEUOjbX_PR5IH0UDj4BAKG710=w225-h150-k-no",
+      "overall_rating": 4.2,
+      "reviews": 15666,
+      "price": "SAR\u00a0331",
+      "extracted_price": 331,
+      "amenities": [
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Room service",
+        "Fitness center",
+        "Outdoor pool",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    }
+  ],
   "properties": [
     {
       "type": "hotel",
-      "name": "Urban Panda Beach Hostel JBR",
-      "link": "https://urbanpandahostels.com/",
-      "property_token": "ChkI7IePhvugppNZGg0vZy8xMXk0eno3MHJrEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=9&check_in_date=2026-01-10&check_out_date=2026-01-15&children=1&children_ages=6&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkI7IePhvugppNZGg0vZy8xMXk0eno3MHJrEAE&q=Hotels+in+Dubai",
+      "name": "Four Points by Sheraton Bur Dubai",
+      "description": "Modern rooms & suites in a polished lodging offering 3 restaurants, a coffee shop & a pool.",
+      "link": "https://www.marriott.com/en-us/hotels/dxbdf-four-points-bur-dubai/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "property_token": "ChcI_ef-irGb8J5TGgsvZy8xdGQ5bl9ychAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChcI_ef-irGb8J5TGgsvZy8xdGQ5bl9ychAB&q=Hotels+in+Dubai",
       "gps_coordinates": {
-        "latitude": 25.0805772,
-        "longitude": 55.1371523
+        "latitude": 25.252046099999998,
+        "longitude": 55.2925528
       },
-      "check_in_time": "12:30\u202fPM",
-      "check_out_time": "11:00\u202fAM",
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0368",
-        "extracted_lowest": 368,
-        "before_taxes_fees": "SAR\u00a0322",
-        "extracted_before_taxes_fees": 322
+        "lowest": "SAR\u00a0403",
+        "extracted_lowest": 403,
+        "before_taxes_fees": "SAR\u00a0383",
+        "extracted_before_taxes_fees": 383
       },
       "total_rate": {
-        "lowest": "SAR\u00a01,842",
-        "extracted_lowest": 1842,
-        "before_taxes_fees": "SAR\u00a01,609",
-        "extracted_before_taxes_fees": 1609
+        "lowest": "SAR\u00a02,013",
+        "extracted_lowest": 2013,
+        "before_taxes_fees": "SAR\u00a01,917",
+        "extracted_before_taxes_fees": 1917
       },
+      "deal": "16% less than usual",
+      "deal_description": "Deal",
       "nearby_places": [
         {
-          "name": "Marina Beach \u2022 JBR",
+          "name": "Dubai Frame",
           "transportations": [
             {
-              "type": "Walking",
-              "duration": "10 min"
+              "type": "Taxi",
+              "duration": "9 min"
             }
           ]
         },
         {
-          "name": "Jumeirah Beach Residence 1 Tram Station",
+          "name": "Mankhool, Standard Chartered Bank",
           "transportations": [
             {
               "type": "Walking",
-              "duration": "8 min"
+              "duration": "2 min"
             }
           ]
         },
@@ -584,153 +850,3402 @@
           "transportations": [
             {
               "type": "Taxi",
-              "duration": "39 min"
+              "duration": "23 min"
             },
             {
               "type": "Public transport",
-              "duration": "1 hr 8 min"
+              "duration": "29 min"
             }
           ]
         },
         {
-          "name": "Allo Beirut - JBR",
+          "name": "Purani Dilli Restaurant",
           "transportations": [
             {
               "type": "Walking",
-              "duration": "7 min"
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPTZXLvN_e2IR0_hMCDg9_uuBmXRAaO_p_aJDe4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTZXLvN_e2IR0_hMCDg9_uuBmXRAaO_p_aJDe4=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPV1C6aXR3IW5MLr1qS7N2wH1RVXdGDr-qVN6u0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPV1C6aXR3IW5MLr1qS7N2wH1RVXdGDr-qVN6u0=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-Xm-vePUOXYAc3vmu-4EZdNL7kS2-AJ_0L3DHmr-rU9FzOFnIm86_C2pqhKP0hpuVBQ5H2tlxh4s7tYVS1npfHqVT50nElTpvwloqzPxAKVZSuLV_bQ9al1fJS44FU4UySbtu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID-wuaeTA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOER4Qsj6BnNYBWmnRHKHusaqxr1j0TjLSwXvFI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOER4Qsj6BnNYBWmnRHKHusaqxr1j0TjLSwXvFI=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/n6JVa0RG3Mk5PfhhoIUKYfmqe_uFGseufj7gvuffwssr-_XoR2RAHgiW3ioaaBEmw9K9PXk9J1IFNZCirjcP_DI25ablga7OTmPjm70q0AUPBSnDON6LhNao-a_R6tHKTQuhVFu93yWP3Q4u30GBQCm6v-MItg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/170/227/851/shjfp-exterior-8189-hor-clsc_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/2h8TvfdosbkKDcosSaGtF3AxHFGs5gdw6N11Pbzi15e6qcr3FSF-ItGaJDNSfxkFTwFcToYMZmDzqHEbXIRoE4AKWZmeMGmMBAXmJBpcvHmjwkRx03XquN5rHWJtO2LBp32VnZN2glTP-QhCbsQGa6j3ssAlGg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/158/285/623/shjfp-king-guestroom-1485-hor-clsc_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOQTw2hbz4AUbFX_gDEYuR8nmRhy7V1qV9hlDMT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOQTw2hbz4AUbFX_gDEYuR8nmRhy7V1qV9hlDMT=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOpbIKG6iTvlyZtzgA1msRz59xQVnLP6BqgBM1Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOpbIKG6iTvlyZtzgA1msRz59xQVnLP6BqgBM1Y=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNP--MqfOiJysE-6HthoT_IZNbfzRwnrJE_jELJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNP--MqfOiJysE-6HthoT_IZNbfzRwnrJE_jELJ=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 3520,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2084
+        },
+        {
+          "stars": 4,
+          "count": 1009
+        },
+        {
+          "stars": 3,
+          "count": 268
+        },
+        {
+          "stars": 2,
+          "count": 59
+        },
+        {
+          "stars": 1,
+          "count": 100
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 654,
+          "positive": 587,
+          "negative": 45,
+          "neutral": 22
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 601,
+          "positive": 537,
+          "negative": 37,
+          "neutral": 27
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 221,
+          "positive": 187,
+          "negative": 16,
+          "neutral": 18
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 273,
+          "positive": 203,
+          "negative": 31,
+          "neutral": 39
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 196,
+          "positive": 155,
+          "negative": 21,
+          "neutral": 20
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 227,
+          "positive": 209,
+          "negative": 12,
+          "neutral": 6
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "Sahara Beach Resort & Spa",
+      "description": "Rooms & suites with balconies in a luxe hotel with 3 dining options, plus a bar, 2 pools & a spa.",
+      "link": "http://saharabeachresort.ae/",
+      "property_token": "ChgI982q5JaskMsPGgwvZy8xaGM3cDdodmgQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChgI982q5JaskMsPGgwvZy8xaGM3cDdodmgQAQ&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.3483584,
+        "longitude": 55.3685136
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0347",
+        "extracted_lowest": 347,
+        "before_taxes_fees": "SAR\u00a0347",
+        "extracted_before_taxes_fees": 347
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,735",
+        "extracted_lowest": 1735,
+        "before_taxes_fees": "SAR\u00a01,735",
+        "extracted_before_taxes_fees": 1735
+      },
+      "deal": "20% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Sharjah Museum of Islamic Civilization",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Sharjah Aquarium Marine Transport Station",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 25 min"
+            }
+          ]
+        },
+        {
+          "name": "Arabian Tea House Restaurant & Cafe - Sharjah",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/jRYwlZxK5Yezofll6in-sYk3cIJIlTFBcggPZPMocM4e7HnAyilBepqs_Fgq-YIkFmJYLlpsoPU5EB1xFF9vxuKxTOvfMHolWA7FrKc-4n6-aoIJokbAwX6oCHpfPBZsvAtKyNGhtEFu-eHbALxWTkw7GbBj0dw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/54/73/be/royal-beach-resort-spa.jpg?w=1600&h=900&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/fGw7UqOF8WhMPEVPuwnIgwGT2H7MiH2wGClwSqvUHaBCjCYkhLcw8dXJEInKOmaxP0RCSeoLRYjeNtmzOkiosw5Pbe8wMrJRWPk2XaNxbzAAWOv-03oPnXuzC6K0l0dJcVYglBTKFwVUAx_zM6KMxCcC_SUBFG8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_f_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/huG6NuCPH4gRhnEJt66M5DMJV61QPzdCIiKwzk0_dKNsby_V_Xf87W2FOxol0SbC5e5Un-SCkPrvCR5HGAAHRAVVFlM1cXxl_fy2gIOccuE6UUrwYEUpls5fSAQVgFjgdcQVsI5-4XREpXvGQkF1Mt1HAU4uRRo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/97/2c/972c433be3f8209282344e0ce36cd39e9c84eb02.jpeg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/DNi5CkUZlOmkrYzr_Wzdvqa9-uATpHYAW-fQQgOvS2BeGdmy-g9PRHwNpYyYjz6v0RubunwY4wkuH3CioGG-blF0qJmPhk8WCeRP4TlBEw96ZWxXLHzWb9l_fyJe3hX6Xqp2MrLGXKAUvBvOq_5vkVRNn-zQHT0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_f_005.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/5wqVD4qCoywBrVbENmIrvokb3M1U1KxoJParuQhTKlj_EvegTV5RfU6dC3ujBdRyPnO4l0kIPnj6eJB52DzWVZV9KM4yurg-yRRHYQZLrQLvFEipok2ux_RujxjGxLNumRQhEWdoeIDgjreQixIQAFKEcX6-jg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_r_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/cdNG5pmhs7eiGPi7rmNhEmaVigEYddDeRlDejUCb4VlglgEJwUJVJioze7oY4tscqsIsZjT7eOK_fdP_xbcONb0lu1fmKnZQiBhrbPH6dKBVToCWR9FCwNvtZ79q1G0TN_aHx3Nbn3U1R0rJy3Eatg7AHm5oWw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_r_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/a_yL8-09b7CizVtSy7Vyzt0dLSP7uanHWzNTtFSCOJzI3BHu8vi-55xmpIW_uDaIP1mQ0gEplVO1t0wcwutK1nW6hzLMDxQfgWQmG9y557pNMip0LCfJGwW4fsMrC9aZuau93fsZMNNPfY4Cx-_kJ8lhoulEbK4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_p_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/IY3fhMCYWbIAw5MkDNU8NfhKy-W6-ACt85cyufDqV9S8fg0Wvy6sVP4DciKpZcOIPHL9RZTlZ6c48STHFZzhMh-x9vTx93gfRbZKt6GY8AjpDuz6zMsThzH3WO1-Ld7wztbw4A9rREPmBI0UDHnjVrybskbW4w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_s_004.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/WHJzP_uFCLjQ2cV8FrFESHuhRqHjiCdF4U25r3x2Yow8SEkmxCQ0QowY5ch0me8-lSI7MJftYLHYAkXjvmT215L9AtWuvYAfmyqf9sIMgf-dvfX1W8cEimWsb2ZZSGHoKnUUKu6ByvBVgg3R5jZrlkasGjr7L_k=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/62/628685/628685a_hb_p_002.jpg"
+        }
+      ],
+      "overall_rating": 3.6,
+      "reviews": 1130,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 450
+        },
+        {
+          "stars": 4,
+          "count": 230
+        },
+        {
+          "stars": 3,
+          "count": 178
+        },
+        {
+          "stars": 2,
+          "count": 74
+        },
+        {
+          "stars": 1,
+          "count": 198
+        }
+      ],
+      "location_rating": 2.6,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 140,
+          "positive": 82,
+          "negative": 39,
+          "neutral": 19
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 92,
+          "positive": 51,
+          "negative": 35,
+          "neutral": 6
+        },
+        {
+          "name": "Pool",
+          "description": "Pool",
+          "total_mentioned": 58,
+          "positive": 41,
+          "negative": 15,
+          "neutral": 2
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 24,
+          "positive": 15,
+          "negative": 7,
+          "neutral": 2
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 50,
+          "positive": 15,
+          "negative": 26,
+          "neutral": 9
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 17,
+          "positive": 10,
+          "negative": 6,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Beach access",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "TIME Onyx Hotel Apartments",
+      "description": "Contemporary apartment hotel featuring a buffet restaurant, a relaxed cafe & an outdoor pool.",
+      "link": "https://www.timehotels.com/time-onyx-hotel-apartment",
+      "property_token": "ChkIwL6O4sXRl_RTGg0vZy8xMXFsZGt5OGo3EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkIwL6O4sXRl_RTGg0vZy8xMXFsZGt5OGo3EAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.2889707,
+        "longitude": 55.402443399999996
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0314",
+        "extracted_lowest": 314,
+        "before_taxes_fees": "SAR\u00a0299",
+        "extracted_before_taxes_fees": 299
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,570",
+        "extracted_lowest": 1570,
+        "before_taxes_fees": "SAR\u00a01,495",
+        "extracted_before_taxes_fees": 1495
+      },
+      "deal": "50% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "16 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "30 min"
+            }
+          ]
+        },
+        {
+          "name": "Al jawareh restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzPebR381hxOppgkWEsP92XWzLj8nKo28aUEtlJ-7rBlmncSFI5xuhq8_SY6ZCg0Jv19qJUPag3zWc2MnP-HdVryrJ8Hh0t8JPI-v_Sx6BXtAFSt3v5IOmSCkIo2VQ5NP6mivNYYSiSMSdM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhBMUhjFjgV9LrE_rEw41qrc=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyg-3BstICOAlw6UXvJNwsksOrWeqqoV8SnKd9v7CM8P43VGn8AC1awMzAat84xucHh6O17b9uOwORL-HypbjeAABPpMF1d-qPp7vBZOSaxlXTAqBfA6_bsvrBNwTd5I0Yv4e4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIChwdPURw=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM9OvvtlQ2xSdQXAQbeBsEvYCjLRxZz6L4z2KxT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM9OvvtlQ2xSdQXAQbeBsEvYCjLRxZz6L4z2KxT=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/idYuxrPGc_xsxrLSA9c-oa7tqZT7dJ6dY-qhckiQ_LgYCLbUIHdNUsku_xVmFaHLU6kKM2kQhM7nYLhtamM8QcsdIEKnis7s25iXQCnhOeYYucUUhHFDhPABu6mHGLqJg1ey5EtWOb6TrW8MIQrZwtwtG84WHM4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/da/5a/da5a77cb7e66249ef851fb3bbce488f1846a2a98.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPfJ55ys4piy3FClhHFGbDT9fMS2VJiJKI_RZPq=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPfJ55ys4piy3FClhHFGbDT9fMS2VJiJKI_RZPq=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/dDAc_s12BH_y4i499IvAOVyor-SWbRXq3j9RYzL4GF_3EdA81MnTkFd0ZRRZgoSGG6RJjwzyCP7A0DSNIqeG17AQTsV9D9kAYNHbNGqFX4efyYkJm5Whsn4_GPEobmfGyZ5sSuZoJnIzCmFePcNooYJ2uEutFU0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/859481/859481a_hb_f_001.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/tLjW-zV9UQAuPwmdsKVYt4m3-FqdP54XX8jWFCoYQcRhpvQWOahf4mpUt0i_m4oAMx0eSnza3_dNUzPuNM0MGyY6NbKjWZ9c-LbKVbx1tPhO91sLrlGhuaXL_yNYr-5Cc2Bu11ki7ZSz2ktAirbb0_up-QN-RL8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KABOpYAQFAO6EFePZuJmCB7sL21qzDhM"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMXUHvZW3tq2R7xcqiFs-DHxffnBXI2Qej9pe1s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMXUHvZW3tq2R7xcqiFs-DHxffnBXI2Qej9pe1s=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPJURNs7lqC0JhoaaXTKnqziR6gKg8KwB22oDJq=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPJURNs7lqC0JhoaaXTKnqziR6gKg8KwB22oDJq=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 2031,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1610
+        },
+        {
+          "stars": 4,
+          "count": 217
+        },
+        {
+          "stars": 3,
+          "count": 65
+        },
+        {
+          "stars": 2,
+          "count": 42
+        },
+        {
+          "stars": 1,
+          "count": 97
+        }
+      ],
+      "location_rating": 2.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 602,
+          "positive": 533,
+          "negative": 60,
+          "neutral": 9
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 471,
+          "positive": 427,
+          "negative": 32,
+          "neutral": 12
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 214,
+          "positive": 186,
+          "negative": 21,
+          "neutral": 7
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 89,
+          "positive": 80,
+          "negative": 6,
+          "neutral": 3
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 66,
+          "positive": 55,
+          "negative": 8,
+          "neutral": 3
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 115,
+          "positive": 112,
+          "negative": 1,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Damac Hills 2 Hotel - Edge by Rotana",
+      "description": "Airy rooms & suites in an upmarket hotel offering a restaurant, a bar & an outdoor pool, plus a gym.",
+      "link": "https://www.rotana.com/edge/unitedarabemirates/dubai/damachills2hotel",
+      "property_token": "ChoI89LFxb_C0f3LARoNL2cvMTF0MnowZmdjMBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChoI89LFxb_C0f3LARoNL2cvMTF0MnowZmdjMBAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 24.9835824,
+        "longitude": 55.3928362
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0425",
+        "extracted_lowest": 425,
+        "before_taxes_fees": "SAR\u00a0389",
+        "extracted_before_taxes_fees": 389
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,126",
+        "extracted_lowest": 2126,
+        "before_taxes_fees": "SAR\u00a01,945",
+        "extracted_before_taxes_fees": 1945
+      },
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "43 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 14 min"
+            }
+          ]
+        },
+        {
+          "name": "Mahfel Restaurant Damac Hills 2",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
             }
           ]
         }
       ],
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/proxy/DHT2fO6ybGQN89tyjsInm-QbTHDn7n7_hrl5aYjRg3qb13cGGNZzfW9YsrMCvMNfKrA_AsXjT6hsNwMbhVYGDaMvHcueoSjLwia8Ng78RmL5GGCf_RRlnRIbxgM51wdX0P0AEXF_vBxQili5cMK5nnZdZrvjIQw=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://images.trvl-media.com/lodging/107000000/106470000/106466000/106465902/fcd47dda_z.jpg"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOZCfs4b_2GLMN0aRq42gtu0fHvrubIYToXdIjX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZCfs4b_2GLMN0aRq42gtu0fHvrubIYToXdIjX=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNmWDD56Q2rK2IRdrk4wQdsGQt3OB6lxNgEUXLs=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNmWDD56Q2rK2IRdrk4wQdsGQt3OB6lxNgEUXLs=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNL-OAwCQt6o-zUjctTaB6LDDgKRwvUrpL_szGX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNL-OAwCQt6o-zUjctTaB6LDDgKRwvUrpL_szGX=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPFSi3162SeM46W-TuPrIiv0nZtw9RTehKwo16Y=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFSi3162SeM46W-TuPrIiv0nZtw9RTehKwo16Y=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPGqCITDzVe6R8FoO1NAUlL9G-jeJsVmV0HkRwM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPGqCITDzVe6R8FoO1NAUlL9G-jeJsVmV0HkRwM=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOPB3OZ0Ee8Enw_qc87WQKdhSJ_z_F2KtOQGXIs=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOPB3OZ0Ee8Enw_qc87WQKdhSJ_z_F2KtOQGXIs=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO7OXHBwFioTrnDu5Kg5mSUrTm_pRnaepeOm_Yp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO7OXHBwFioTrnDu5Kg5mSUrTm_pRnaepeOm_Yp=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOhiQiplp7CrdoYbe1WCk1upzBDRDGSgcZIEvdg=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOhiQiplp7CrdoYbe1WCk1upzBDRDGSgcZIEvdg=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSziwpZm3VDDG1aJkyneC_3ihxNnKPR_1yEk3Iyg1ju36bf0QW-N1CXYdkWWfktsq2vzU8bwLsS2e3emF8RI_E_l1VN0I-ZHVmLo_TGD6zziF6wifRZy2DUroryNN2JrguBO5b72Yg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID9oYXdrAE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPk94fwA9ZF8bVg2yXnT6k8T09T3UtRp06S1Pqh=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPk94fwA9ZF8bVg2yXnT6k8T09T3UtRp06S1Pqh=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMiNqzTJ9OrWC3XA4vv1kSRilZ4VBQc3gqsMAGV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMiNqzTJ9OrWC3XA4vv1kSRilZ4VBQc3gqsMAGV=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMZW3KJuTxnE8599ITS-HprocXiJ3Ix87zWXLNR=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZW3KJuTxnE8599ITS-HprocXiJ3Ix87zWXLNR=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOHtxL6IRcurBYxcj0PiU1FuMiCRdgZxK6gkLWe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOHtxL6IRcurBYxcj0PiU1FuMiCRdgZxK6gkLWe=s10000"
         },
         {
-          "thumbnail": "https://lh4.googleusercontent.com/proxy/CjeJ5S_gNHWV2UF418JTmrpBgpHcIidKf6X0gLlwG7dRI-snxqbviaCDypoRQUec-qEDbTGmnOXDNR7hccZ6H7mzsP5KxCpgJ1UQnFTvH_vjGptfnhN9rIVH5QguWcSziWFxlLKbEeUb7CwHlCCDLhrtHGrH3A=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/da/4c/e1/caption.jpg?w=1900&h=1400&s=1"
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/yQi5--50PvHk4zQZBGAe72ddZ5OqNiZDz-juh2Jv8Tq9TT0_PeVyce0G_T1429-ZvduobLma0nuAy9hIaV_m4QnTfBYP98Tf0ayR8si4dpK64MrMN8Be-lAN6t-ICnaQJgBrIgTzTqzQW3NKyXF2quOty-8Bdg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/99/992313/992313a_hb_p_001.jpg"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNlMavKdIKDKvoCU3Jkh-DgXxmeyThB6rADjKSb=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNlMavKdIKDKvoCU3Jkh-DgXxmeyThB6rADjKSb=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOeWUgxtGlwHUmDbsgrL10T-v8b4K_g1tBWSzbh=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOeWUgxtGlwHUmDbsgrL10T-v8b4K_g1tBWSzbh=s10000"
         }
       ],
-      "overall_rating": 4.8,
-      "reviews": 69,
+      "overall_rating": 4.6,
+      "reviews": 2367,
       "ratings": [
         {
           "stars": 5,
-          "count": 61
+          "count": 1934
         },
         {
           "stars": 4,
-          "count": 5
+          "count": 251
         },
         {
           "stars": 3,
-          "count": 1
+          "count": 54
         },
         {
           "stars": 2,
-          "count": 0
+          "count": 36
         },
         {
           "stars": 1,
-          "count": 2
+          "count": 92
         }
       ],
-      "location_rating": 4.5,
+      "location_rating": 2.2,
       "reviews_breakdown": [
-        {
-          "name": "Nature",
-          "description": "Nature and outdoor activities",
-          "total_mentioned": 9,
-          "positive": 9,
-          "negative": 0,
-          "neutral": 0
-        },
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 29,
-          "positive": 28,
-          "negative": 1,
-          "neutral": 0
+          "total_mentioned": 1005,
+          "positive": 930,
+          "negative": 66,
+          "neutral": 9
         },
         {
           "name": "Property",
           "description": "Property",
-          "total_mentioned": 31,
-          "positive": 29,
+          "total_mentioned": 467,
+          "positive": 427,
+          "negative": 21,
+          "neutral": 19
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 125,
+          "positive": 111,
+          "negative": 10,
+          "neutral": 4
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 231,
+          "positive": 203,
+          "negative": 17,
+          "neutral": 11
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 134,
+          "positive": 115,
+          "negative": 8,
+          "neutral": 11
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 153,
+          "positive": 148,
           "negative": 1,
-          "neutral": 1
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Mercure Gold Hotel Al Mina Road Dubai",
+      "description": "Modern rooms & suites in a sophisticated hotel, along with 2 eateries, a bar & a rooftop pool.",
+      "property_token": "ChkIzq2k_vTpiYPdARoML2cvMWhjMjFqNHdjEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkIzq2k_vTpiYPdARoML2cvMWhjMjFqNHdjEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.2428904,
+        "longitude": 55.275770099999995
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0316",
+        "extracted_lowest": 316,
+        "before_taxes_fees": "SAR\u00a0301",
+        "extracted_before_taxes_fees": 301
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,579",
+        "extracted_lowest": 1579,
+        "before_taxes_fees": "SAR\u00a01,503",
+        "extracted_before_taxes_fees": 1503
+      },
+      "deal": "34% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai Frame",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "Capital Hotel 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "21 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "44 min"
+            }
+          ]
+        },
+        {
+          "name": "Malabar Majlis Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Aipsr9ZSAZ8dgoPTl0uBdZ7Msbj_X5eVj7y2zXT4XhBDTPb24CrPVAjhEO7MthQpiVtca0ydl6rnNv81rNQZFbdEx9dGMQO_uJTsnV1XuxPRjAjML2Pk801fA3JwGwzxe4VXmYTJgPAbcnpl0RljcoAPtz2n6oQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2520000/2510700/2510628/861e1dfb_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwzeXTUOrk2RezuCxgIBw_y7qn5NU9WueJEmX5HJG1H07wPJ6xOPgdVx0Jtdo_K7EigseI9qnsMPmNtflpuwuhC-kc-r5O6_wkYYtt-t-TsOR8JZp0SMLn1TsTtllMEozHjTUOI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICs8sLhcQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/0qtBq94A-oMgNT4Vqs7PtKzLRIOV4tmxdxoXdYPKoYg5_xHSmV_mJm6Mj--7Wwy9D54FzuaatVOYLva7vOi3ZqnpUjXcf82mSmGnqcvsx3w0MHZ-IqyqVLxUjwEgWXUJBNwEnS8hfud12JD_IJENjmLVcM7HDK8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/13/132769/132769a_hb_a_022.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/sdAHrWS5IcYOcfFNAB7jCWLhNa3ak8trvjeo1-IGO00MzbEZc_ARO_JkBZ5mtca2Xvrb80Ck0tiWP3XKlwhcg1LjYsEO0cCE0M-goi_0AQhtCBE7HliyVn_FFEpTm4I9ekgdMJcCfVm0ZhL2-60nxevoI7WdKw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/5/0/89/584/606/8500_fi_00_p_3000x2250_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz2dh2Vnu6RX1XASp4rKUdAmz_04rBopn1qA034JTJMFgBD009l-LzgbwHlrvTPT_hVRpdQoLgIyxWsMrcrvl5tgGREV_NJlfQChBt1CQHkF1zqmvH0P24BA7DMkJlgytELeO8GbqXg-wo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhBawmiWTL6ltNHeRN3io-mt=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/B3CQ_Sga0uYySeEKyACzFZEJgkM1ji2lsgWXWEhsIr09QkCObYDwrrZm4aa917tumBhZYH7o66z0wOuJU97ltRcw-3eITiMBA8cANuSCAdGGbhB0l254EXSDOfx2dgkCqJ8hlmR_K0Rw62tWb-evkpiWn51GK1s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/13/132769/132769a_hb_ro_043.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/cIkpVZz20qQLSQOLr8pVaI6tKUKYtuoS_-7Plg49G_uV8LiOEavcFdLQ6iSQtKaGzbeNsnjEdTuQ9oPN0XNq3SoQpJE_1Bjtqggme9X2E35jJgnf_FC_wvkIRe9oRmv1oBRKGFtXciliwhzeswkCyoqF5cmOh3Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/13/132769/132769a_hb_k_005.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/yvYS1rJHnJJINnK_HO0wRybKb0sr2Kt9ssbCyY4O5f-RaDbp-Im0Smms4Juw4o6MYUfcJaD9HBRbUWtQulD9jz5MYoTahXS_3kwEwDE3x5w76RYE5lwDwCytOGIaAHbUqzHhzyJS5v1qO5Kfs8BGIhiCFFnqHA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/b6/6f/b66f3716d17939e6393112f8de77678ecb79fbc7.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/OfuRcW8DfFflSU_7jcVGj0aD314UChq7JhigstQda10hIzdbeBheYQpD8HefH3kBsPa6jZ7W88iVlZLfvDBKtUdr8NSTgDU5tSLndNQDNgEEFbAG3pTcHMHEBs8y1DBW3MJ6cBjSSi-cHwJf6pG4o08oHmU-zqs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2520000/2510700/2510628/dd8b8733_z.jpg"
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 4526,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2776
+        },
+        {
+          "stars": 4,
+          "count": 899
+        },
+        {
+          "stars": 3,
+          "count": 447
+        },
+        {
+          "stars": 2,
+          "count": 127
+        },
+        {
+          "stars": 1,
+          "count": 277
+        }
+      ],
+      "location_rating": 4.3,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1289,
+          "positive": 1151,
+          "negative": 103,
+          "neutral": 35
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 914,
+          "positive": 752,
+          "negative": 108,
+          "neutral": 54
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 373,
+          "positive": 295,
+          "negative": 65,
+          "neutral": 13
+        },
+        {
+          "name": "Nightlife",
+          "description": "Nightlife",
+          "total_mentioned": 97,
+          "positive": 38,
+          "negative": 38,
+          "neutral": 21
         },
         {
           "name": "Location",
           "description": "Location",
-          "total_mentioned": 19,
-          "positive": 19,
-          "negative": 0,
+          "total_mentioned": 239,
+          "positive": 201,
+          "negative": 20,
+          "neutral": 18
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 177,
+          "positive": 133,
+          "negative": 27,
+          "neutral": 17
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Holiday Inn Dubai al-Maktoum Airport by IHG",
+      "description": "Sophisticated airport hotel offering an outdoor pool & a spa, plus a restaurant, a cafe & 2 bars.",
+      "link": "https://www.ihg.com/holidayinn/hotels/gb/en/dubai/dxbwc/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-AE-_-DXBWC",
+      "property_token": "ChkIrd6Qg8faheJPGg0vZy8xMWZzYjF6Y2J5EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkIrd6Qg8faheJPGg0vZy8xMWZzYjF6Y2J5EAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 24.8679114,
+        "longitude": 55.1456899
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0328",
+        "extracted_lowest": 328,
+        "before_taxes_fees": "SAR\u00a0313",
+        "extracted_before_taxes_fees": 313
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,642",
+        "extracted_lowest": 1642,
+        "before_taxes_fees": "SAR\u00a01,564",
+        "extracted_before_taxes_fees": 1564
+      },
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "54 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 9 min"
+            }
+          ]
+        },
+        {
+          "name": "Cuisines",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPFdCQ96O3HtOOOTydOr96Bwah8apK0F6Dh7e2M=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFdCQ96O3HtOOOTydOr96Bwah8apK0F6Dh7e2M=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPpLUi2DFAjTvS0Ha4euCphVJEqo4ieuoQ8TZfZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPpLUi2DFAjTvS0Ha4euCphVJEqo4ieuoQ8TZfZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzPsH1zBEAAdoMXXBUUARqGsDRLmFdKypMFIurGEiw_uHaAm-mF-KE42uWRvFkyYmOp1U-UNEmmE_fxyOoJ-vgYkQsZYS0Uf0-YBMDNA7H5OONrU24ibUaEas76C7LV7QhuIlHZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIChrYXaHQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzEKBMXz508GfGOt_GWkDvZcvnXCvajm2OtJrh10Z7HPKUq-WFjDFhPyFmoHGgeTZaqRfLCYmkOJOr6ZbGL5CJzIDavIsJkCZYSU83yW82XAItAcqXo87Y3cy9IQCoefaQ9naA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICW-PnOag=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPKDD4BUT10DI8MFY9GPxUJQ9hOblJZ4tqsJrLs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPKDD4BUT10DI8MFY9GPxUJQ9hOblJZ4tqsJrLs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOOKVJ8dt21ZSZq4sm3zEX35LpMBKHbS9w-L1or=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOOKVJ8dt21ZSZq4sm3zEX35LpMBKHbS9w-L1or=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO9bN1gij3V76zyg2Pyl9CBHH2_CGOwsydtwKhm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO9bN1gij3V76zyg2Pyl9CBHH2_CGOwsydtwKhm=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPmW0qQtp5J-sAZfECeLuN5hMVcxwcz5qPnsQPD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPmW0qQtp5J-sAZfECeLuN5hMVcxwcz5qPnsQPD=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPieFRqVXjvV6T2eyaDY-hVjX1G_BlDa3-V-uVQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPieFRqVXjvV6T2eyaDY-hVjX1G_BlDa3-V-uVQ=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 7356,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 6478
+        },
+        {
+          "stars": 4,
+          "count": 428
+        },
+        {
+          "stars": 3,
+          "count": 117
+        },
+        {
+          "stars": 2,
+          "count": 64
+        },
+        {
+          "stars": 1,
+          "count": 269
+        }
+      ],
+      "location_rating": 2.5,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 3130,
+          "positive": 2947,
+          "negative": 135,
+          "neutral": 48
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1390,
+          "positive": 1298,
+          "negative": 59,
+          "neutral": 33
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 874,
+          "positive": 808,
+          "negative": 43,
+          "neutral": 23
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 423,
+          "positive": 387,
+          "negative": 21,
+          "neutral": 15
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 402,
+          "positive": 362,
+          "negative": 33,
+          "neutral": 7
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 229,
+          "positive": 208,
+          "negative": 7,
+          "neutral": 14
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Savoy Central Hotel Apartments",
+      "description": "Stylish apartments in an upmarket hotel with an airy restaurant, a rooftop pool & a health club.",
+      "link": "http://www.savoydubai.com/",
+      "property_token": "ChgIpYOIpY61vP5aGgwvZy8xMXhjbmN4MnoQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChgIpYOIpY61vP5aGgwvZy8xMXhjbmN4MnoQAQ&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.2572676,
+        "longitude": 55.2892237
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0435",
+        "extracted_lowest": 435,
+        "before_taxes_fees": "SAR\u00a0347",
+        "extracted_before_taxes_fees": 347
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,176",
+        "extracted_lowest": 2176,
+        "before_taxes_fees": "SAR\u00a01,734",
+        "extracted_before_taxes_fees": 1734
+      },
+      "deal": "39% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai Frame",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "Raffa 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "6 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "23 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "45 min"
+            }
+          ]
+        },
+        {
+          "name": "Curry Maria Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNB_AU__l65own2DCIIPGyhYOIXpsSWz7DPUsSo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNB_AU__l65own2DCIIPGyhYOIXpsSWz7DPUsSo=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM4Pfu0p_rbTFKnPFJuRIPmQIZjVK8mi0nGzpkC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4Pfu0p_rbTFKnPFJuRIPmQIZjVK8mi0nGzpkC=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOdYmNyVmnU-n5EmiE0Bx4aclSElCEwDWBZwSRs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOdYmNyVmnU-n5EmiE0Bx4aclSElCEwDWBZwSRs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPwFeEt4GkG8UEBJAvPOrv_2FK5Bu-g_xapSrjE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPwFeEt4GkG8UEBJAvPOrv_2FK5Bu-g_xapSrjE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMJrAAr7Qi71ULaP6IiDnFgokD__5_6SGPFdlQg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMJrAAr7Qi71ULaP6IiDnFgokD__5_6SGPFdlQg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNuht4iC8U0-u82Ll55bvsRWLMbne_4UlCeEoxS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNuht4iC8U0-u82Ll55bvsRWLMbne_4UlCeEoxS=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/70Yn900x8g84FZQ7K5vOOqmdhqCenatr7keQAwGn6oUL23Vmp1cOdiT9VMLomOxUqFXqPyPNpSQKGXB38Fbc3oiFfwrfulHO-Fvg78jBRQfbRGIihIVtJTcJUP6zvWbsGt1vjNKoVCnX_F57WO1W1KEc5O0k58s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/6000000/5400000/5395800/5395774/f4ff5567_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPH4KVQveIeopMfWBx0cJnLLXTI-QGhSxwUiOcs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPH4KVQveIeopMfWBx0cJnLLXTI-QGhSxwUiOcs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMVw-yDS5WU3fUYBpOWaY1I_TnRIKhextSQ4923=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMVw-yDS5WU3fUYBpOWaY1I_TnRIKhextSQ4923=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 2303,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1506
+        },
+        {
+          "stars": 4,
+          "count": 503
+        },
+        {
+          "stars": 3,
+          "count": 187
+        },
+        {
+          "stars": 2,
+          "count": 37
+        },
+        {
+          "stars": 1,
+          "count": 70
+        }
+      ],
+      "location_rating": 4.0,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 751,
+          "positive": 703,
+          "negative": 35,
+          "neutral": 13
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 497,
+          "positive": 454,
+          "negative": 22,
+          "neutral": 21
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 181,
+          "positive": 158,
+          "negative": 13,
+          "neutral": 10
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 271,
+          "positive": 238,
+          "negative": 10,
+          "neutral": 23
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 264,
+          "positive": 236,
+          "negative": 20,
+          "neutral": 8
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 136,
+          "positive": 124,
+          "negative": 9,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Golden Sands 5 Hotel Apartments",
+      "description": "Casual accommodations with kitchens in a laid-back hotel with a rooftop pool, a gym & a restaurant.",
+      "link": "http://www.goldensandsdubai.com/",
+      "property_token": "ChcIuZbX94eQlsyOARoKL20vMHBjbHhsMhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChcIuZbX94eQlsyOARoKL20vMHBjbHhsMhAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.251858,
+        "longitude": 55.293991899999995
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0303",
+        "extracted_lowest": 303,
+        "before_taxes_fees": "SAR\u00a0263",
+        "extracted_before_taxes_fees": 263
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,516",
+        "extracted_lowest": 1516,
+        "before_taxes_fees": "SAR\u00a01,315",
+        "extracted_before_taxes_fees": 1315
+      },
+      "deal": "30% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai Frame",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Mankhool, Street 12A-2-1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Gazebo - Al Mankhool",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMKZrFPphddDSxdfBWHBDAMc3WkIfbXbuVHj0Rl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMKZrFPphddDSxdfBWHBDAMc3WkIfbXbuVHj0Rl=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMdR5NdgbCIFZXlKn6etVRsMHbUwtCXh19DfSz7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMdR5NdgbCIFZXlKn6etVRsMHbUwtCXh19DfSz7=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz2G8ukARvJq2u239D0nkyk6dIVAd74zO8vyUEiKaxbX6FTR9RGnvir9RdGljNV-2cub4lLI8MA2Y3Z_xhH_X0OGIeeiE7egdskWtCs4B3bB3Aw7esmIcI2exlQ-38YODv_ERaV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIC_gYGBuQE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMrGymhial-qij02h7p4gnkq3LskgF5mOjQXlTE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrGymhial-qij02h7p4gnkq3LskgF5mOjQXlTE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPBl079Zr4WkhdaioyDBE4K9XDPUBAO-xXWLb7p=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPBl079Zr4WkhdaioyDBE4K9XDPUBAO-xXWLb7p=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/q__2u6fHIjvSYUg1VYqm3HXvDJKX3y6TaMlfLlsS9sz948RPhinrXBqmA-BVXfkTpPwK0JbtjNACOJ-M5ceDhs6kl_sjQwqrcqQcjyxkC3KYqPskpODDIMW-cKtDLE3EYuZ5wdohanmL8gt085wiE4CW7bJ_Sw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/3/0/76/667/393/1210385_162_z_R.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/tDS1YrL_aiikIDhQmG0PFZFhGoW5baGmZ0IT7lWBTMETm913B4V7_EgtE9yHaAZdfSv3Ukxf0rh5bDhTMxBaTlYggXg_Zh67ySh8oF-5pCDsfrctvgTDQmwt2diFLbIiDwCEP-MWeJuLnfJbN_XO_3ZwXTsSdA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/4/0/82/501/963/GSHA_3_RESTAURANT_FULL_BUFFET_VIEW_P.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/eZnVIdhLcp1U-RLaurd2Mam7IQS2es9lH3V2MbGSheMQk7r4057sNmOZRiXQn9PPW_nINwF13UBHpzIzhjz-FTYx54_qHszCxzAsMReWXmy4UNeHIWFASHFZYcRyKpU-ZWOVZdDpKDnhe-GNjH3if0sXdm8_9w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/3/0/76/667/353/1210385_97_z_R.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/IiYRn7maiXoWSBYPMAeSj6sq1S-qDqWkj7HSc82OOCluUqAfXuKTHqYuz7TtC4itcZl5iv7OLNwv988zrCXWl8_6gL4rh3HtXymAoFh3xW-DjX4v0IJHlcjSwbyiay_cFxgTTEfqzJxfjgEMq095GbrpePvyeg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/4/0/82/501/910/GSHA_3_AL_MAJLIS_P.jpg"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 3029,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1526
+        },
+        {
+          "stars": 4,
+          "count": 831
+        },
+        {
+          "stars": 3,
+          "count": 396
+        },
+        {
+          "stars": 2,
+          "count": 87
+        },
+        {
+          "stars": 1,
+          "count": 189
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 553,
+          "positive": 437,
+          "negative": 99,
+          "neutral": 17
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 521,
+          "positive": 439,
+          "negative": 53,
+          "neutral": 29
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 174,
+          "positive": 136,
+          "negative": 19,
+          "neutral": 19
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 198,
+          "positive": 164,
+          "negative": 27,
+          "neutral": 7
+        },
+        {
+          "name": "Family",
+          "description": "Family friendly",
+          "total_mentioned": 96,
+          "positive": 86,
+          "negative": 6,
+          "neutral": 4
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 82,
+          "positive": 58,
+          "negative": 16,
+          "neutral": 8
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Kitchen",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Rove At The Park",
+      "description": "Relaxed hotel offering a restaurant, an outdoor pool & a gym, plus simple rooms with free Wi-Fi.",
+      "link": "https://www.rovehotels.com/en/hotels/rove-at-the-park/?utm_source=google&utm_medium=local-search&utm_campaign=googlemybusiness",
+      "property_token": "ChoI1NyP9aT5nZ_TARoNL2cvMTFnZjlmbnIwbBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChoI1NyP9aT5nZ_TARoNL2cvMTFnZjlmbnIwbBAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 24.910567399999998,
+        "longitude": 55.0138545
+      },
+      "check_in_time": "4:00\u202fPM",
+      "check_out_time": "2:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0351",
+        "extracted_lowest": 351,
+        "before_taxes_fees": "SAR\u00a0273",
+        "extracted_before_taxes_fees": 273
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,754",
+        "extracted_lowest": 1754,
+        "before_taxes_fees": "SAR\u00a01,364",
+        "extracted_before_taxes_fees": 1364
+      },
+      "nearby_places": [
+        {
+          "name": "Legoland\u00ae Dubai",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "48 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 36 min"
+            }
+          ]
+        },
+        {
+          "name": "The daily Rove at the park",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMbdYO0bRsfc20UtulxNHRgmcTyje4L5mr-HL00=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMbdYO0bRsfc20UtulxNHRgmcTyje4L5mr-HL00=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/U2HJB3czaDepyjaHWaalqiNs09ovXbxQ3rJyqrIaQu8C9YiENJaB3D-Iofc_Gy5pbmbbtcX4DeKF4UlJMkJtQ3k6XaUFbP4tyTM55fVIQq1j_KQxWYjMpd5skpwEpwxldQQZA5IHjDPvekEUBE6yncviTx43W8g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJcU0gYFAAxCYQQ78BJ5pFEs0-X1CBk"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwgsLLu8EHpDsad4_y6XCwXKS-5wuGDaU9EWJhKm7FAIStW82Jp1eI3ph1wixnG2ASJax5GewuQv_ZFb1ISzt966gXEnYi9HQAMf5-heGp65m_pbinTKGOpYi_g82bymKowr6riSw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgMDI29am5QE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNBe1BBQWqPe6BBeyrgqCY3T4TA6rE8GBeYQNnl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNBe1BBQWqPe6BBeyrgqCY3T4TA6rE8GBeYQNnl=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN0F6KucDYB_C9zkUARUjo9hm0SBR6Ja2uSQBvr=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN0F6KucDYB_C9zkUARUjo9hm0SBR6Ja2uSQBvr=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP5T020lYdN2XBr-_x4kfJz0hiAEK6jgt7B_Ip8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP5T020lYdN2XBr-_x4kfJz0hiAEK6jgt7B_Ip8=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPABwOGlZKiaQcZpZWmNKXLkuVVlpRMTchxANpX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPABwOGlZKiaQcZpZWmNKXLkuVVlpRMTchxANpX=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7_BzYqeQY4DmeJ0_9bd0vT6DSM9segKvS0OOs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN7_BzYqeQY4DmeJ0_9bd0vT6DSM9segKvS0OOs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPysAI4XKcyUBK5SLIMNMPR8Tj_y-PRxuI50udl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPysAI4XKcyUBK5SLIMNMPR8Tj_y-PRxuI50udl=s10000"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 10575,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 9216
+        },
+        {
+          "stars": 4,
+          "count": 981
+        },
+        {
+          "stars": 3,
+          "count": 181
+        },
+        {
+          "stars": 2,
+          "count": 82
+        },
+        {
+          "stars": 1,
+          "count": 115
+        }
+      ],
+      "location_rating": 2.6,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 4670,
+          "positive": 4538,
+          "negative": 80,
+          "neutral": 52
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 2427,
+          "positive": 2321,
+          "negative": 57,
+          "neutral": 49
+        },
+        {
+          "name": "Family",
+          "description": "Family friendly",
+          "total_mentioned": 781,
+          "positive": 740,
+          "negative": 25,
+          "neutral": 16
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 1375,
+          "positive": 1317,
+          "negative": 37,
+          "neutral": 21
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 553,
+          "positive": 505,
+          "negative": 26,
+          "neutral": 22
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 486,
+          "positive": 443,
+          "negative": 29,
+          "neutral": 14
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "Emirates Stars Hotel Apartments Dubai",
+      "description": "Relaxed apartments with kitchens in an informal hotel offering 24-hour dining & 2 outdoor pools.",
+      "link": "http://www.emiratesstarshotels.ae/",
+      "property_token": "ChcI3JPvoK7gidcWGgsvZy8xdG1wY2RyaxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChcI3JPvoK7gidcWGgsvZy8xdG1wY2RyaxAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.2888517,
+        "longitude": 55.3684197
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0391",
+        "extracted_lowest": 391,
+        "before_taxes_fees": "SAR\u00a0338",
+        "extracted_before_taxes_fees": 338
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,957",
+        "extracted_lowest": 1957,
+        "before_taxes_fees": "SAR\u00a01,688",
+        "extracted_before_taxes_fees": 1688
+      },
+      "nearby_places": [
+        {
+          "name": "Al Salam Pvt School 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "6 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "15 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "34 min"
+            }
+          ]
+        },
+        {
+          "name": "Pak Darbar Restaurant Al Nahda NMC",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMQnVMFA5h3OOn5WRMC6KBpI1ix8v4-WP37Q-8y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMQnVMFA5h3OOn5WRMC6KBpI1ix8v4-WP37Q-8y=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOOSZZDA-YSqtmNqh1kY814ITwcfcdiskrg546N=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOOSZZDA-YSqtmNqh1kY814ITwcfcdiskrg546N=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyP-PNexdh1R5eyRpu-JXiEiTG7qrJ6D4bXFaUWdZZW_VTVHMVxKxAGX2UGpD_waCMAKNy82DUlUc67p_WKvNVJy_4dJbHgspNh36U5Y5ahvmrWNirqpTOv08n_3mFQBjXG5vHEChI1EQoR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhAruxN9oxogZLAUrt4M9Ons=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMCG0Df0dv436Fy6Eq0rsD6iXQMjzCFjZM95ajC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMCG0Df0dv436Fy6Eq0rsD6iXQMjzCFjZM95ajC=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/lcSBnOd_TnTalnYBzVKtVoHmvNp65WPn7WwEdLMALcRwcOoGJCYHOSPrGY8MpuNGIgCNwjLVmplfL-kO2K2503IGYZ3cJ_C1007t4674R8fkwelddVSbh6XuQKO1s3nNR5IhaCdO3PidRUTBE4wIjCGf4m5FOQI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/3/0/180/426/450/one_bedroom_quad_-_kitchen_S.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO2nG5ohkHsSgzi_tYiTbJji2s1bhy-b2RQSaOj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO2nG5ohkHsSgzi_tYiTbJji2s1bhy-b2RQSaOj=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN4O2j2I5vEDR_tQNMmsnpR9zBofDkVEp28IyGu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN4O2j2I5vEDR_tQNMmsnpR9zBofDkVEp28IyGu=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNSMFnLfKc6B3xyxB4YRZubn38S-21wLGFA4Shc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSMFnLfKc6B3xyxB4YRZubn38S-21wLGFA4Shc=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMADE1mfVf35RJSc0dE_fa_0B5CoUCWKJb_wGQn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMADE1mfVf35RJSc0dE_fa_0B5CoUCWKJb_wGQn=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 1521,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1120
+        },
+        {
+          "stars": 4,
+          "count": 233
+        },
+        {
+          "stars": 3,
+          "count": 79
+        },
+        {
+          "stars": 2,
+          "count": 22
+        },
+        {
+          "stars": 1,
+          "count": 67
+        }
+      ],
+      "location_rating": 3.6,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 671,
+          "positive": 629,
+          "negative": 33,
+          "neutral": 9
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 282,
+          "positive": 248,
+          "negative": 21,
+          "neutral": 13
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 107,
+          "positive": 102,
+          "negative": 5,
           "neutral": 0
         },
         {
           "name": "Cleanliness",
           "description": "Cleanliness",
-          "total_mentioned": 17,
-          "positive": 17,
-          "negative": 0,
+          "total_mentioned": 127,
+          "positive": 113,
+          "negative": 10,
+          "neutral": 4
+        },
+        {
+          "name": "Family",
+          "description": "Family friendly",
+          "total_mentioned": 59,
+          "positive": 54,
+          "negative": 5,
           "neutral": 0
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 53,
+          "positive": 51,
+          "negative": 1,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Kitchen",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Al Khoory Courtyard Hotel",
+      "description": "Informal hotel offering a rooftop pool, a gym & a spa, plus 2 restaurants, a lounge & a cafe.",
+      "link": "https://alkhooryhotels.com/courtyard/?partner=9590&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness",
+      "property_token": "ChoIlcnFtbP2u6nqARoNL2cvMTFzaDdkZ2RsYxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChoIlcnFtbP2u6nqARoNL2cvMTFzaDdkZ2RsYxAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.1620413,
+        "longitude": 55.248905
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0424",
+        "extracted_lowest": 424,
+        "before_taxes_fees": "SAR\u00a0383",
+        "extracted_before_taxes_fees": 383
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,119",
+        "extracted_lowest": 2119,
+        "before_taxes_fees": "SAR\u00a01,914",
+        "extracted_before_taxes_fees": 1914
+      },
+      "nearby_places": [
+        {
+          "name": "Al Quoz, Al Waaha Street 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "28 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "57 min"
+            }
+          ]
+        },
+        {
+          "name": "Emerald Restaurant (Al Quoz)",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "9 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQHKnYLHmp8x_xG7kvsv_veskSENLY7pYTejeDhzVUWmiZgXzfGp2LWkO4fdsyxUdEUcX0jiagbNlXHeJVlqwlC-VCT1D73k47d-ES5VOnFrOviw_tl8HFLHxtmNs4CfAP27q7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDRyLSaqgE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMfiv5Z2oS74SslQcFWaYfW-3gXg5e0kxfaUGHe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMfiv5Z2oS74SslQcFWaYfW-3gXg5e0kxfaUGHe=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOE7z0D6ZUrUkAjL9_xm5DTTcckZMCHgRq3g5pH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOE7z0D6ZUrUkAjL9_xm5DTTcckZMCHgRq3g5pH=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPONds3hq0aatL0JkXvS6pX47OPF8-OMjoB5TQt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPONds3hq0aatL0JkXvS6pX47OPF8-OMjoB5TQt=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMKQmjpwbhVUxbFmKVlKFAAEGKvDfGSR-Xe5poe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMKQmjpwbhVUxbFmKVlKFAAEGKvDfGSR-Xe5poe=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPftoF0_pGjVhaTKEzJSW2yfHQJk1cNMgUFjR5Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPftoF0_pGjVhaTKEzJSW2yfHQJk1cNMgUFjR5Y=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNolNG0F5oN5Q1cetGHQuX8uW4xtgzyuoslMC9d=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNolNG0F5oN5Q1cetGHQuX8uW4xtgzyuoslMC9d=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOaNON3H3bZYT_7H36BMQR7O3XY8caUeRpOOsfp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOaNON3H3bZYT_7H36BMQR7O3XY8caUeRpOOsfp=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMavbiWuHl7rqmUx5rlreQsLoiQKwcfpILAqf8n=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMavbiWuHl7rqmUx5rlreQsLoiQKwcfpILAqf8n=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 2442,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2091
+        },
+        {
+          "stars": 4,
+          "count": 167
+        },
+        {
+          "stars": 3,
+          "count": 58
+        },
+        {
+          "stars": 2,
+          "count": 26
+        },
+        {
+          "stars": 1,
+          "count": 100
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1114,
+          "positive": 1048,
+          "negative": 53,
+          "neutral": 13
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 798,
+          "positive": 761,
+          "negative": 23,
+          "neutral": 14
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 166,
+          "positive": 154,
+          "negative": 11,
+          "neutral": 1
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 286,
+          "positive": 258,
+          "negative": 17,
+          "neutral": 11
         },
         {
           "name": "Atmosphere",
           "description": "Atmosphere",
-          "total_mentioned": 9,
-          "positive": 9,
-          "negative": 0,
-          "neutral": 0
+          "total_mentioned": 248,
+          "positive": 246,
+          "negative": 1,
+          "neutral": 1
+        },
+        {
+          "name": "Pool",
+          "description": "Pool",
+          "total_mentioned": 119,
+          "positive": 116,
+          "negative": 2,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "ECOS Dubai Hotel at Al Furjan",
+      "description": "Streamlined rooms in a relaxed, contemporary hotel offering a rooftop pool, dining & a coffee shop.",
+      "link": "https://www.hmhhotelgroup.com/en/brand/ecos-hotels",
+      "property_token": "ChkIu6Oo6MnaocEbGg0vZy8xMXFyMTBybXd0EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkIu6Oo6MnaocEbGg0vZy8xMXFyMTBybXd0EAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.020375899999998,
+        "longitude": 55.1535284
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0423",
+        "extracted_lowest": 423,
+        "before_taxes_fees": "SAR\u00a0387",
+        "extracted_before_taxes_fees": 387
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,116",
+        "extracted_lowest": 2116,
+        "before_taxes_fees": "SAR\u00a01,936",
+        "extracted_before_taxes_fees": 1936
+      },
+      "nearby_places": [
+        {
+          "name": "Al Furjan Green Bridge 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "40 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 22 min"
+            }
+          ]
+        },
+        {
+          "name": "Exotic Shoreline Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNwgNYGLgGgnBVG8JtlkhsRISXmrwF_Du0nEeGN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNwgNYGLgGgnBVG8JtlkhsRISXmrwF_Du0nEeGN=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSywUz27pms8_E6914keM7RQJndbPFNtCz5ZO7jS-F6Wps1_hz_wQJxAl2ic_4oDC3p2NVyiNr6JcI2u7HG-BgTyAp15xjOUXr9QUcPUdZDS5aXrWq5QK3t2rjuKqgf1N2vxFdVB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEKz5grOI6svwGA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMh9FaWzJ6DdMv7cvxWtvDU3fuP9CvnKGNsv87k=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMh9FaWzJ6DdMv7cvxWtvDU3fuP9CvnKGNsv87k=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOQVioO6VHYEgNlhH0mVjm_znv-zSCF3jaPmzC6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOQVioO6VHYEgNlhH0mVjm_znv-zSCF3jaPmzC6=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM2AVeJJTxUdmdVQsT1igFsqPnOmZkcUhLHgJIY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM2AVeJJTxUdmdVQsT1igFsqPnOmZkcUhLHgJIY=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPFarvWaZ8IP3lEyMGs5d5IksjvgTj0N351O8Ca=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFarvWaZ8IP3lEyMGs5d5IksjvgTj0N351O8Ca=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNZARdIgRJiDM7z9P5pB6V6Di4Ot_d3yU-X6OPf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZARdIgRJiDM7z9P5pB6V6Di4Ot_d3yU-X6OPf=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMhBmCkCgM4kRqczlXhq7Q5TVDUHb_Lutz0h4Xe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMhBmCkCgM4kRqczlXhq7Q5TVDUHb_Lutz0h4Xe=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMMYGOqUKgxX1zXzEvHwvr8LfpPCj2IzUYt05AV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMMYGOqUKgxX1zXzEvHwvr8LfpPCj2IzUYt05AV=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 3038,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2453
+        },
+        {
+          "stars": 4,
+          "count": 314
+        },
+        {
+          "stars": 3,
+          "count": 105
+        },
+        {
+          "stars": 2,
+          "count": 46
+        },
+        {
+          "stars": 1,
+          "count": 120
+        }
+      ],
+      "location_rating": 2.7,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1226,
+          "positive": 1150,
+          "negative": 54,
+          "neutral": 22
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 921,
+          "positive": 839,
+          "negative": 41,
+          "neutral": 41
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 641,
+          "positive": 599,
+          "negative": 26,
+          "neutral": 16
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 270,
+          "positive": 255,
+          "negative": 2,
+          "neutral": 13
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 133,
+          "positive": 115,
+          "negative": 11,
+          "neutral": 7
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 125,
+          "positive": 92,
+          "negative": 25,
+          "neutral": 8
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Movenpick Al Mamzar",
+      "description": "Modern suites in a relaxed hotel offering a rooftop pool & a gym, plus a free beach shuttle.",
+      "link": "https://movenpick.accor.com/en/middle-east/uae/dubai/hotel-al-mamzar.html?merchantid=seo-maps-AE-B4J2&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Al-Mamzar",
+      "property_token": "ChkIt5KTt-z-5caJARoML2cvMTJoazk2NjBsEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkIt5KTt-z-5caJARoML2cvMTJoazk2NjBsEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.289980800000002,
+        "longitude": 55.3541471
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0423",
+        "extracted_lowest": 423,
+        "before_taxes_fees": "SAR\u00a0377",
+        "extracted_before_taxes_fees": 377
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,114",
+        "extracted_lowest": 2114,
+        "before_taxes_fees": "SAR\u00a01,886",
+        "extracted_before_taxes_fees": 1886
+      },
+      "nearby_places": [
+        {
+          "name": "Al Mamzar Beach Park",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "14 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Aghwat Al Sham",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxtzTzKTLt0QA4diMxL8c-d2bE5_AYF8g1pQYNMCifh8h5SZN_G7B8JOaJ3TQqXD0mdujpILFn4uoMfzvKIF-dUDQ7ZNgP9ni8cv3DxzEDlxBldtdEvqI4eEJbnVT9xbzCPOsUxyQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID3n-iZ7gE=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/wF-0K2gmts4a4lQn7QInEfL8mYy3kJP2e4JL6U8Byd64E8Sj-Ke77Z-wpvvQupjetVWjyXTMUbmGCifY6kGlVuqNEKZciaYVqXAGuj_be4LYAtk5cLhdi2oqFmAiqnLtbHtv2H8GAJCMIWoCm19GT1knbrKfAkQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/123/208/448/b4j2_ba_00_p_3000x2250_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNVBrCftCLy3NofAhCy_xndzB0CSkyJeyeMIQJO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNVBrCftCLy3NofAhCy_xndzB0CSkyJeyeMIQJO=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPzi_fH63fKglMMM1zgXjbC3D6d8AMS_HIA3txQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPzi_fH63fKglMMM1zgXjbC3D6d8AMS_HIA3txQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPUOUJZkeCzubPsvZwKpKrCymUUKn_BClGaGuVg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPUOUJZkeCzubPsvZwKpKrCymUUKn_BClGaGuVg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNSSsTSukdRcbQpLEJmPoMrx0ujaS0sE3y5IgBD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSSsTSukdRcbQpLEJmPoMrx0ujaS0sE3y5IgBD=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/8HU4VfRbl0x6-SNn4chg6gxurK_gxUmZXwlOpQS8cOAhDw985fV6mlpy8iSAuNWPmZSat2ANdvomojeem4guPoqCQ--I2n0IZtqBn3iixPbmCzlr30R-2wD2cJSaMBQYw2cHAdBqsigEZRdD0L2m35FVHHnGPQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/19/190955/190955a_hb_ro_139.JPG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOjnlQpXcGUQJCj3sP-e73py4PI4NYeBkrwvnUr=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOjnlQpXcGUQJCj3sP-e73py4PI4NYeBkrwvnUr=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/Sekm2mNeFnPP9fvBRuZZAvrD4s2oRxqrv4i4t8rLju0oJ0ZCICxR0pk5Ay942cIh9NS9AUrD0NsKaOHlozrYuCA881R57czUq1dBowb4A62nCqhPGMbBFxe9wbD3-VNvYZZOiIw_BiUgAlV6zfqDJg71wX2E0g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/19/190955/190955a_hb_ro_144.JPG"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 8256,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 6371
+        },
+        {
+          "stars": 4,
+          "count": 970
+        },
+        {
+          "stars": 3,
+          "count": 418
+        },
+        {
+          "stars": 2,
+          "count": 168
+        },
+        {
+          "stars": 1,
+          "count": 329
+        }
+      ],
+      "location_rating": 2.9,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 3782,
+          "positive": 3574,
+          "negative": 160,
+          "neutral": 48
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1709,
+          "positive": 1538,
+          "negative": 128,
+          "neutral": 43
+        },
+        {
+          "name": "Safety",
+          "description": "Safety",
+          "total_mentioned": 436,
+          "positive": 415,
+          "negative": 9,
+          "neutral": 12
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 756,
+          "positive": 616,
+          "negative": 123,
+          "neutral": 17
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 312,
+          "positive": 265,
+          "negative": 30,
+          "neutral": 17
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 383,
+          "positive": 327,
+          "negative": 39,
+          "neutral": 17
         }
       ],
       "amenities": [
         "Free breakfast",
         "Free Wi-Fi",
-        "Parking ($)",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Kitchen",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ],
+      "eco_certified": true
+    },
+    {
+      "type": "hotel",
+      "name": "Grand Excelsior Hotel Bur Dubai",
+      "description": "Polished rooms & suites in an elegant hotel with 5 restaurants & bars, a rooftop pool & a gym.",
+      "link": "https://www.gehotels.com/our-hotels/grand-excelsior-hotel-burdubai/",
+      "property_token": "ChcI4Oeg95aF-bVSGgsvZy8xdGQ3cm5fcBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChcI4Oeg95aF-bVSGgsvZy8xdGQ3cm5fcBAB&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.250868699999998,
+        "longitude": 55.2922491
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0298",
+        "extracted_lowest": 298,
+        "before_taxes_fees": "SAR\u00a0254",
+        "extracted_before_taxes_fees": 254
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,490",
+        "extracted_lowest": 1490,
+        "before_taxes_fees": "SAR\u00a01,269",
+        "extracted_before_taxes_fees": 1269
+      },
+      "deal": "27% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai Frame",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Kuwait Road 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "27 min"
+            }
+          ]
+        },
+        {
+          "name": "Purani Dilli Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/3o08k4g6OVqMrTFQODZaFRUNM2SmqcEGPIsRFGkLUNYRBuJfeLmmzfO4OozFGekpWJs3Ry6_fU1ZoJAOlMQLqRoCzK4DTNLqtlfFqrAA2zjCsFWuUGJbBMi1vcqcJgrHXTDBN_7hAx0M8qwr-5Lz47_0qVJdkKQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/06/062119/062119a_hb_ro_107.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN882iI61hc5J50GCNyqxWaTuVVZLLJraBrl9DJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN882iI61hc5J50GCNyqxWaTuVVZLLJraBrl9DJ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpNCBDTzAgipPrCcG-q8tFCr2dPRHOoUdNmbYy8lEpQE-wubrA58-A8po-YMlQIR4xBzPIkXbf4U3y5av9ABV7zRjF6D6sfaOOiGn_Y0mAZIcWeYRgltoIQFVFZfmneQB3mz09h-LACgVE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhD2U26Ffnt5Nfm6vVZZd9pv=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyRnlUm05WLvazkd5IcC4K0FEzv_4-1wLk97pu51sPt67eHVXxGfxfYFslEOhXRSNzPXfn06_1QvUWn4Kxrm8kjvW-r0sGg78yg31_nqU_VphMfbNGrDP7de3rstqNmVjoE9Dx0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDEr-u0Ww=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/XLkfbHBnbx02SjKxMU1ZmZbJPqDCVwqEY5e5K9TtrOjmZwx1bw4i4-y7V8l9mmdTz6snSlLiJ1WzQu1S-cJtaEXnz-9UF21qpRAxXbsDlU2UlHMyJmmv4y_azU4J9dZx8khpOVob29CczfKUFeicu8OPJn-ECA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/06/062119/062119a_hb_ro_099.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMP_XLdk4ESTCOAMbLFwArR3a_7FhUNVfqpYqaS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMP_XLdk4ESTCOAMbLFwArR3a_7FhUNVfqpYqaS=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/jtKyS_nZtt45lhlRqYMYrkkY-q8K5hX1xsfqqc9We1Wb0NznbNf-1T4wE-g207th_8lYsN9CATDZS2yoOdfBQOl6EcaoBZDSkmP9h59VpW1nJRhb0rhWMIHCQOi0fEt1baYD7LYbEa7ylpHDOu9Xstnvb6mtI6c=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/25/726/719/Suite_P.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMr7n-HD9rTE2XzwR8sgIHePxjhMLh2MN5cR5W-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMr7n-HD9rTE2XzwR8sgIHePxjhMLh2MN5cR5W-=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxzxLqrGebh1Mx8Rm1aUIZs34W5PlAhw9XPqfBDrSauNo0qhd332ZOPJLFt0nxfUFlDhM7wWvKcEi-v9nY6FuJacLIyJJ6ST9uTwWI9JB-gMy6k1f3-yV4z3t9CjjZUojmkN3eJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICFg6OHLg=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 7553,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 3365
+        },
+        {
+          "stars": 4,
+          "count": 1959
+        },
+        {
+          "stars": 3,
+          "count": 1148
+        },
+        {
+          "stars": 2,
+          "count": 349
+        },
+        {
+          "stars": 1,
+          "count": 732
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1209,
+          "positive": 729,
+          "negative": 432,
+          "neutral": 48
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1300,
+          "positive": 874,
+          "negative": 364,
+          "neutral": 62
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 292,
+          "positive": 149,
+          "negative": 104,
+          "neutral": 39
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 255,
+          "positive": 19,
+          "negative": 226,
+          "neutral": 10
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 424,
+          "positive": 170,
+          "negative": 235,
+          "neutral": 19
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 314,
+          "positive": 201,
+          "negative": 94,
+          "neutral": 19
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Luxe Grand Hotel Apartments",
+      "description": "Stylish rooms & suites in a polished hotel offering an outdoor pool, an exercise room & dining.",
+      "link": "https://www.luxegrandapartments.com/",
+      "property_token": "ChkI_PGVlofNn4F-Gg0vZy8xMW55M2Q0eTlkEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkI_PGVlofNn4F-Gg0vZy8xMW55M2Q0eTlkEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.3056651,
+        "longitude": 55.383286299999995
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0325",
+        "extracted_lowest": 325,
+        "before_taxes_fees": "SAR\u00a0284",
+        "extracted_before_taxes_fees": 284
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,623",
+        "extracted_lowest": 1623,
+        "before_taxes_fees": "SAR\u00a01,422",
+        "extracted_before_taxes_fees": 1422
+      },
+      "deal": "44% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "17 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "46 min"
+            }
+          ]
+        },
+        {
+          "name": "Al Mashawi Al Halabya - Aleppo Grills Sharjah",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMKXxoHsz-ZAVyOMKdyuL1PYmVgDKAu3ikL76Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMKXxoHsz-ZAVyOMKdyuL1PYmVgDKAu3ikL76Y=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN4Knh05KvRMfm82lKpE95pUzKZr_PNURdSTHo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN4Knh05KvRMfm82lKpE95pUzKZr_PNURdSTHo=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPkr-IwOyGdesYDNk-2FgQVJmYHG5BmH_mj92I=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPkr-IwOyGdesYDNk-2FgQVJmYHG5BmH_mj92I=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOsEJndMKUKnnCajGIR1vnUAtcC-ioQVQsGC0s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOsEJndMKUKnnCajGIR1vnUAtcC-ioQVQsGC0s=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPTa30i1aFMCWwS7FS7D_rcHPwtkfK5Rjmdshs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTa30i1aFMCWwS7FS7D_rcHPwtkfK5Rjmdshs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMpoZGypWDgljccSIu36lJUI8pNH4amWH6om38=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMpoZGypWDgljccSIu36lJUI8pNH4amWH6om38=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP1eudjWQP69w8LnSc7lBI0Z4FdsQMHPaVAzXI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP1eudjWQP69w8LnSc7lBI0Z4FdsQMHPaVAzXI=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN-JwJXGwmwYatNi2xXDE5EKZmEKa68cSQKQKs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN-JwJXGwmwYatNi2xXDE5EKZmEKa68cSQKQKs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPImGM8OsPJYSfq2I-bINV2QSCcsXWlJERrRIA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPImGM8OsPJYSfq2I-bINV2QSCcsXWlJERrRIA=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 345,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 206
+        },
+        {
+          "stars": 4,
+          "count": 47
+        },
+        {
+          "stars": 3,
+          "count": 20
+        },
+        {
+          "stars": 2,
+          "count": 12
+        },
+        {
+          "stars": 1,
+          "count": 60
+        }
+      ],
+      "location_rating": 2.8,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 22,
+          "positive": 15,
+          "negative": 7,
+          "neutral": 0
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 21,
+          "positive": 12,
+          "negative": 8,
+          "neutral": 1
+        },
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 11,
+          "positive": 3,
+          "negative": 7,
+          "neutral": 1
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 104,
+          "positive": 70,
+          "negative": 31,
+          "neutral": 3
+        },
+        {
+          "name": "Family",
+          "description": "Family friendly",
+          "total_mentioned": 17,
+          "positive": 14,
+          "negative": 3,
+          "neutral": 0
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 58,
+          "positive": 21,
+          "negative": 36,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Room service",
+        "Kitchen",
+        "Airport shuttle",
+        "Accessible",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Queen Elizabeth 2",
+      "description": "Upscale hotel in an iconic ocean liner with bars & restaurants, plus a spa & a theatre.",
+      "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B9L4&merchantid=seo-maps-AE-B9L4&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+      "property_token": "ChkI5YjzyMic_9R2Gg0vZy8xMWYycF9obTEyEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChkI5YjzyMic_9R2Gg0vZy8xMWYycF9obTEyEAE&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.2621669,
+        "longitude": 55.281018499999995
+      },
+      "check_in_time": "3:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0283",
+        "extracted_lowest": 283,
+        "before_taxes_fees": "SAR\u00a0269",
+        "extracted_before_taxes_fees": 269
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,413",
+        "extracted_lowest": 1413,
+        "before_taxes_fees": "SAR\u00a01,346",
+        "extracted_before_taxes_fees": 1346
+      },
+      "deal": "24% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "23 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "36 min"
+            }
+          ]
+        },
+        {
+          "name": "Bayt Al Wakeel Restaurant / \u0645\u0637\u0639\u0645 \u0628\u064a\u062a \u0627\u0644\u0648\u0643\u064a\u0644"
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNHTSQyNqY6ipNS-Y0IAap6ZiXTIE3dFYtgKY7U=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHTSQyNqY6ipNS-Y0IAap6ZiXTIE3dFYtgKY7U=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNHNF3GvTfSKCX33paoAEW0qoIdu5wLvsTWbkQJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHNF3GvTfSKCX33paoAEW0qoIdu5wLvsTWbkQJ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-Ng9vPrAnVMd3TtMAvrVKox_V9WlPOX4kgppj4eVWDzM8GUyWlRX_lW2EhhnMUBFyOcCXxnXyYplo8DGL_75lMNTOQKLkfTpOIa7KbAPKNiA0CY2OQiMhB4T1tJ96XCIwqlYDRQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDW_uqL8AE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMyOR_TJKPuEvV2qUkC8DW8n3IpcWUp7HZDdOe_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMyOR_TJKPuEvV2qUkC8DW8n3IpcWUp7HZDdOe_=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMjGyhNz1MhH0YZnsH7JfHjO-3fGBMnIgi9Fxwd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMjGyhNz1MhH0YZnsH7JfHjO-3fGBMnIgi9Fxwd=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNrt3FKvhSopK0wNnTh6lpYJkqZnqS4ef892FLs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNrt3FKvhSopK0wNnTh6lpYJkqZnqS4ef892FLs=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM6-mBhzf6I-QSuapWdeCfaZbSogvLyQfYq98wf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM6-mBhzf6I-QSuapWdeCfaZbSogvLyQfYq98wf=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMNyPQTm8PQx4hljvYhMqBBFn8or2MRziIyxlkl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMNyPQTm8PQx4hljvYhMqBBFn8or2MRziIyxlkl=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO_HMcmVdpvVz-tDiVg78LIrJYzfvKug4rBsfa3=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_HMcmVdpvVz-tDiVg78LIrJYzfvKug4rBsfa3=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 8838,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 5520
+        },
+        {
+          "stars": 4,
+          "count": 1989
+        },
+        {
+          "stars": 3,
+          "count": 710
+        },
+        {
+          "stars": 2,
+          "count": 221
+        },
+        {
+          "stars": 1,
+          "count": 398
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1590,
+          "positive": 1266,
+          "negative": 266,
+          "neutral": 58
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1245,
+          "positive": 1004,
+          "negative": 152,
+          "neutral": 89
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 601,
+          "positive": 453,
+          "negative": 98,
+          "neutral": 50
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 439,
+          "positive": 341,
+          "negative": 60,
+          "neutral": 38
+        },
+        {
+          "name": "Bar",
+          "description": "Bar or lounge",
+          "total_mentioned": 250,
+          "positive": 177,
+          "negative": 39,
+          "neutral": 34
+        },
+        {
+          "name": "Nightlife",
+          "description": "Nightlife",
+          "total_mentioned": 196,
+          "positive": 125,
+          "negative": 47,
+          "neutral": 24
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Millennium Airport Hotel Dubai",
+      "description": "Upmarket hotel offering refined rooms & suites, plus 8 restaurants & bars, a spa & a pool.",
+      "link": "https://www.millenniumhotels.com/en/dubai/millennium-airport-hotel-dubai/?cid=gplaces-millennium-airport-hotel-dubai",
+      "property_token": "ChgI9sK7gMah7MH_ARoLL2cvMXYzaHlnNHQQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChgI9sK7gMah7MH_ARoLL2cvMXYzaHlnNHQQAQ&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.248436599999998,
+        "longitude": 55.3438762
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0428",
+        "extracted_lowest": 428,
+        "before_taxes_fees": "SAR\u00a0337",
+        "extracted_before_taxes_fees": 337
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,141",
+        "extracted_lowest": 2141,
+        "before_taxes_fees": "SAR\u00a01,685",
+        "extracted_before_taxes_fees": 1685
+      },
+      "deal": "24% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Dubai Frame",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Bustan Rotana Hotel 1",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Public transport",
+              "duration": "10 min"
+            },
+            {
+              "type": "Taxi",
+              "duration": "13 min"
+            }
+          ]
+        },
+        {
+          "name": "Beirut Lounge Restaurant & Cafe",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNgZvXgX2Vi6TnZLk9nlPE-B1FAx1rx40Qaw08z=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNgZvXgX2Vi6TnZLk9nlPE-B1FAx1rx40Qaw08z=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPTSr-KJneQ2ZrA82CTCzFYupGxSc7Q0uIPrcd_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTSr-KJneQ2ZrA82CTCzFYupGxSc7Q0uIPrcd_=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyMJsyWGO55BskR9LGLiEWU4kqwje0keCggPzsHKp3W-puSoVHmUHG6dNDOeue8DVjJnkoCL2J3Ji0wstZhvuuhgaY3P_2VNM0gEaIc91NA6LQvbmmet9kGFhSW-AxK45sbymhSaw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDdlrjMvAE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOJkWHrsAQFF4i4FTTJToV3KN6vF_kCLwenmDl-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOJkWHrsAQFF4i4FTTJToV3KN6vF_kCLwenmDl-=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNG0YHFWUWEY-iUYuAbpUgouHDHm_5F7sav6Hv9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNG0YHFWUWEY-iUYuAbpUgouHDHm_5F7sav6Hv9=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNwer1lbbHl_JoBBmnEdH_-RQj-2oMuqFXQNhJY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNwer1lbbHl_JoBBmnEdH_-RQj-2oMuqFXQNhJY=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMDcGjU0vdUexIF_v6AIZgFIw98rfNY4sCoG7Ss=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMDcGjU0vdUexIF_v6AIZgFIw98rfNY4sCoG7Ss=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOKSIFLxyEj_rXpsX944tUH9va-0OvRLlHxVX38=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOKSIFLxyEj_rXpsX944tUH9va-0OvRLlHxVX38=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/KsdP5SRZ85SMRHARW9ZVVW99epNo8lMiF7eSR2JOFir06b0V7WNCloZzXqdhf-zUu-fx49BBDstZsbf7RWnOS_na5hkwpFMI8hhU-CbnLQu9FFwvrdcG2QKBDnmc5GbprZnf2c_ojOQvrY8ulMzAblMKR1yjnnA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/c7/20/c7201f397b5a2d1cabddc69560186cd08adc13bb.jpeg"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 17847,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 12508
+        },
+        {
+          "stars": 4,
+          "count": 3322
+        },
+        {
+          "stars": 3,
+          "count": 1324
+        },
+        {
+          "stars": 2,
+          "count": 306
+        },
+        {
+          "stars": 1,
+          "count": 387
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 5930,
+          "positive": 5669,
+          "negative": 195,
+          "neutral": 66
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 1614,
+          "positive": 1506,
+          "negative": 73,
+          "neutral": 35
+        },
+        {
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 974,
+          "positive": 812,
+          "negative": 45,
+          "neutral": 117
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 2230,
+          "positive": 2010,
+          "negative": 129,
+          "neutral": 91
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 706,
+          "positive": 642,
+          "negative": 35,
+          "neutral": 29
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 996,
+          "positive": 856,
+          "negative": 37,
+          "neutral": 103
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "La Suite Dubai Hotel & Apartments",
+      "description": "Polished hotel with an all-day restaurant, an outdoor pool & a 24-hour gym, plus Gulf views.",
+      "link": "https://world.nh-hotels.com/nh-collection-dubai-la-suite?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=LaSuiteDubai&utm_content=Home&utm_campaign=Google_GMB",
+      "property_token": "ChgI8f_BxKmgsr0OGgwvZy8xcHAydF8zcXkQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&property_token=ChgI8f_BxKmgsr0OGgwvZy8xcHAydF8zcXkQAQ&q=Hotels+in+Dubai",
+      "gps_coordinates": {
+        "latitude": 25.108083800000003,
+        "longitude": 55.178634699999996
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0452",
+        "extracted_lowest": 452,
+        "before_taxes_fees": "SAR\u00a0357",
+        "extracted_before_taxes_fees": 357
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,262",
+        "extracted_lowest": 2262,
+        "before_taxes_fees": "SAR\u00a01,783",
+        "extracted_before_taxes_fees": 1783
+      },
+      "nearby_places": [
+        {
+          "name": "Dubai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "35 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr"
+            }
+          ]
+        },
+        {
+          "name": "Cartel Restaurant and Cafe",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOg3FbPX1W6pCnTM7FsizVV4QdDifkRu4gCFBai=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOg3FbPX1W6pCnTM7FsizVV4QdDifkRu4gCFBai=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM8ymNWGiidVgPgyk3lgwZe2EDOJ23_SxDt_BiB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM8ymNWGiidVgPgyk3lgwZe2EDOJ23_SxDt_BiB=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOvQKyDWe0ylEEDwVMOGrzmJF2WL_3pr2s2Cqb5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOvQKyDWe0ylEEDwVMOGrzmJF2WL_3pr2s2Cqb5=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw6wzyWLc-KBCUnFCxEvKEbQuBzNd_sEcXyPIFyqP6cVritY0RS04jiYpjLf527AV-J8hisdFZDdeoQeps_2MiuYjE-gWyA_jDYptpR29iHKLbsABpyI-azjFRXhxOeQ7DEr-xjdQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICHtJyFxwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPFa8W1_U_NHZINqTcaSu8tXsJexQnJF_Ku_Scu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFa8W1_U_NHZINqTcaSu8tXsJexQnJF_Ku_Scu=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOHtHX5SdO8rdCLtS6wwK7fVbHVzgtrCGKVoNh9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOHtHX5SdO8rdCLtS6wwK7fVbHVzgtrCGKVoNh9=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP678BwWPDj1kCWYBmEh8TSNjs0AmWSDNTH_1P0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP678BwWPDj1kCWYBmEh8TSNjs0AmWSDNTH_1P0=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNtGR5IWf4RL0ZcSd_bITlg-s0AwDKXBIwa0cY6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtGR5IWf4RL0ZcSd_bITlg-s0AwDKXBIwa0cY6=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipONJlYo7Jyyz-FuNOs9XAaouLCo19cG8dszCGRZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipONJlYo7Jyyz-FuNOs9XAaouLCo19cG8dszCGRZ=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 4078,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2791
+        },
+        {
+          "stars": 4,
+          "count": 791
+        },
+        {
+          "stars": 3,
+          "count": 278
+        },
+        {
+          "stars": 2,
+          "count": 74
+        },
+        {
+          "stars": 1,
+          "count": 144
+        }
+      ],
+      "location_rating": 3.4,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1093,
+          "positive": 993,
+          "negative": 74,
+          "neutral": 26
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 832,
+          "positive": 749,
+          "negative": 48,
+          "neutral": 35
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 478,
+          "positive": 423,
+          "negative": 41,
+          "neutral": 14
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 157,
+          "positive": 139,
+          "negative": 10,
+          "neutral": 8
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 223,
+          "positive": 171,
+          "negative": 35,
+          "neutral": 17
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 264,
+          "positive": 213,
+          "negative": 27,
+          "neutral": 24
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
         "Outdoor pool",
         "Hot tub",
         "Air conditioning",
         "Fitness center",
         "Spa",
         "Restaurant",
-        "Kitchen",
-        "Golf",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
         "Full-service laundry",
         "Accessible",
-        "Smoke-free property"
+        "Business center",
+        "Kid-friendly"
       ]
     }
-  ]
+  ],
+  "serpapi_pagination": {
+    "current_from": 1,
+    "current_to": 18,
+    "next_page_token": "CBI=",
+    "next": "https://serpapi.com/search.json?adults=2&amenities=6&check_in_date=2026-01-10&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&free_cancellation=true&gl=sa&hl=en&max_price=400&min_price=250&next_page_token=CBI%3D&q=Hotels+in+Dubai"
+  }
 }
