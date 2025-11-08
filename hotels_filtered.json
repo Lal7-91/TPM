@@ -1,15 +1,15 @@
 [
   {
-    "id": "ChcI_ef-irGb8J5TGgsvZy8xdGQ5bl9ychAB",
-    "name": "Four Points by Sheraton Bur Dubai",
-    "price": 403,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 3520,
-    "location_rating": 3.9,
+    "id": "ChoI1NyP9aT5nZ_TARoNL2cvMTFnZjlmbnIwbBAB",
+    "name": "Rove At The Park",
+    "price": 351,
+    "stars": 3,
+    "rating": 4.8,
+    "reviews": 10577,
+    "location_rating": 2.6,
     "coordinates": {
-      "latitude": 25.252046099999998,
-      "longitude": 55.2925528
+      "latitude": 24.910567399999998,
+      "longitude": 55.0138545
     },
     "amenities": [
       "Breakfast ($)",
@@ -22,11 +22,295 @@
       "Room service",
       "Airport shuttle",
       "Full-service laundry",
+      "Accessible",
       "Business center",
       "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "https://www.marriott.com/en-us/hotels/dxbdf-four-points-bur-dubai/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "link": "https://www.rovehotels.com/en/hotels/rove-at-the-park/?utm_source=google&utm_medium=local-search&utm_campaign=googlemybusiness",
+    "sponsored": null
+  },
+  {
+    "id": "ChcI3JPvoK7gidcWGgsvZy8xdG1wY2RyaxAB",
+    "name": "Emirates Stars Hotel Apartments Dubai",
+    "price": 391,
+    "stars": 4,
+    "rating": 4.5,
+    "reviews": 1531,
+    "location_rating": 3.6,
+    "coordinates": {
+      "latitude": 25.2888517,
+      "longitude": 55.3684197
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Restaurant",
+      "Room service",
+      "Kitchen",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "link": "http://www.emiratesstarshotels.ae/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI5YjzyMic_9R2Gg0vZy8xMWYycF9obTEyEAE",
+    "name": "Queen Elizabeth 2",
+    "price": 293,
+    "stars": 4,
+    "rating": 4.4,
+    "reviews": 8849,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 25.2621669,
+      "longitude": 55.281018499999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B9L4&merchantid=seo-maps-AE-B9L4&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIzOSvvNqThMebARoML2cvMTIzMmZyZzVqEAE",
+    "name": "Donatello Hotel Al Barsha Dubai",
+    "price": 390,
+    "stars": 4,
+    "rating": 4.1,
+    "reviews": 2840,
+    "location_rating": 4.8,
+    "coordinates": {
+      "latitude": 25.115527,
+      "longitude": 55.193946000000004
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "http://www.donatellodubai.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIrd6Qg8faheJPGg0vZy8xMWZzYjF6Y2J5EAE",
+    "name": "Holiday Inn Dubai al-Maktoum Airport by IHG",
+    "price": 343,
+    "stars": 4,
+    "rating": 4.7,
+    "reviews": 7364,
+    "location_rating": 2.5,
+    "coordinates": {
+      "latitude": 24.8679114,
+      "longitude": 55.1456899
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.ihg.com/holidayinn/hotels/gb/en/dubai/dxbwc/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-AE-_-DXBWC",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIo-PxhoebyIjEARoNL2cvMTFiNmQwODhkMxAB",
+    "name": "Reflections Hotel Dubai",
+    "price": 325,
+    "stars": 4,
+    "rating": 3.7,
+    "reviews": 2136,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 25.2198861,
+      "longitude": 55.323791899999996
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "link": "https://www.reflectionshoteldubai.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIhPm7g7Lg2qflARoNL2cvMTFidjJmM3ZweRAB",
+    "name": "Ramada Plaza by Wyndham Dubai Deira",
+    "price": 399,
+    "stars": 4,
+    "rating": 4.3,
+    "reviews": 4393,
+    "location_rating": 3.4,
+    "coordinates": {
+      "latitude": 25.2700922,
+      "longitude": 55.331124599999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center"
+    ],
+    "link": "https://www.wyndhamhotels.com/ramada/dubai-united-arab-emirates/ramada-plaza-dubai-deira/overview?CID=LC:RA::GGL:RIO:National:54711&iata=00093796",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIwL6O4sXRl_RTGg0vZy8xMXFsZGt5OGo3EAE",
+    "name": "TIME Onyx Hotel Apartments",
+    "price": 383,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 2044,
+    "location_rating": 2.8,
+    "coordinates": {
+      "latitude": 25.2889707,
+      "longitude": 55.402443399999996
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "link": "https://www.timehotels.com/time-onyx-hotel-apartment",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIqKvxlNOL7o9PGg0vZy8xMWtxODh6anNnEAE",
+    "name": "Khalidia Palace Hotel Dubai by Mourouj Gloria",
+    "price": 468,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 2390,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 25.2613244,
+      "longitude": 55.3205148
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://gloria-hotels.com/hotel/khalidia-palace-hotel-dubai/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIzq2k_vTpiYPdARoML2cvMWhjMjFqNHdjEAE",
+    "name": "Mercure Gold Hotel Al Mina Road Dubai",
+    "price": 315,
+    "stars": 4,
+    "rating": 4.3,
+    "reviews": 4530,
+    "location_rating": 4.3,
+    "coordinates": {
+      "latitude": 25.2428904,
+      "longitude": 55.275770099999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": null,
     "sponsored": null
   },
   {
@@ -63,338 +347,93 @@
     "sponsored": null
   },
   {
-    "id": "ChkIwL6O4sXRl_RTGg0vZy8xMXFsZGt5OGo3EAE",
-    "name": "TIME Onyx Hotel Apartments",
-    "price": 314,
+    "id": "ChoI0Z6ZvaTB_pCFARoNL2cvMTFmc2xwa2x0dBAB",
+    "name": "Edge Creekside Hotel",
+    "price": 396,
     "stars": 4,
-    "rating": 4.6,
-    "reviews": 2031,
-    "location_rating": 2.8,
+    "rating": 4.7,
+    "reviews": 1488,
+    "location_rating": 4.2,
     "coordinates": {
-      "latitude": 25.2889707,
-      "longitude": 55.402443399999996
+      "latitude": 25.2589953,
+      "longitude": 55.321890499999995
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
       "Free parking",
-      "Indoor pool",
+      "Outdoor pool",
       "Hot tub",
       "Air conditioning",
       "Fitness center",
       "Spa",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly"
-    ],
-    "link": "https://www.timehotels.com/time-onyx-hotel-apartment",
-    "sponsored": null
-  },
-  {
-    "id": "ChoI89LFxb_C0f3LARoNL2cvMTF0MnowZmdjMBAB",
-    "name": "Damac Hills 2 Hotel - Edge by Rotana",
-    "price": 425,
-    "stars": null,
-    "rating": 4.6,
-    "reviews": 2367,
-    "location_rating": 2.2,
-    "coordinates": {
-      "latitude": 24.9835824,
-      "longitude": 55.3928362
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.rotana.com/edge/unitedarabemirates/dubai/damachills2hotel",
-    "sponsored": null
-  },
-  {
-    "id": "ChkIzq2k_vTpiYPdARoML2cvMWhjMjFqNHdjEAE",
-    "name": "Mercure Gold Hotel Al Mina Road Dubai",
-    "price": 316,
-    "stars": 4,
-    "rating": 4.3,
-    "reviews": 4526,
-    "location_rating": 4.3,
-    "coordinates": {
-      "latitude": 25.2428904,
-      "longitude": 55.275770099999995
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChkIrd6Qg8faheJPGg0vZy8xMWZzYjF6Y2J5EAE",
-    "name": "Holiday Inn Dubai al-Maktoum Airport by IHG",
-    "price": 328,
-    "stars": 4,
-    "rating": 4.7,
-    "reviews": 7356,
-    "location_rating": 2.5,
-    "coordinates": {
-      "latitude": 24.8679114,
-      "longitude": 55.1456899
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.ihg.com/holidayinn/hotels/gb/en/dubai/dxbwc/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-AE-_-DXBWC",
-    "sponsored": null
-  },
-  {
-    "id": "ChgIpYOIpY61vP5aGgwvZy8xMXhjbmN4MnoQAQ",
-    "name": "Savoy Central Hotel Apartments",
-    "price": 435,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 2303,
-    "location_rating": 4.0,
-    "coordinates": {
-      "latitude": 25.2572676,
-      "longitude": 55.2892237
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
       "Restaurant",
       "Room service",
       "Kitchen in some rooms",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly"
-    ],
-    "link": "http://www.savoydubai.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChcIuZbX94eQlsyOARoKL20vMHBjbHhsMhAB",
-    "name": "Golden Sands 5 Hotel Apartments",
-    "price": 303,
-    "stars": 3,
-    "rating": 4.1,
-    "reviews": 3029,
-    "location_rating": 3.8,
-    "coordinates": {
-      "latitude": 25.251858,
-      "longitude": 55.293991899999995
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Pool",
-      "Air conditioning",
-      "Fitness center",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "http://www.goldensandsdubai.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoI1NyP9aT5nZ_TARoNL2cvMTFnZjlmbnIwbBAB",
-    "name": "Rove At The Park",
-    "price": 351,
-    "stars": 3,
-    "rating": 4.8,
-    "reviews": 10575,
-    "location_rating": 2.6,
-    "coordinates": {
-      "latitude": 24.910567399999998,
-      "longitude": 55.0138545
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "https://www.rovehotels.com/en/hotels/rove-at-the-park/?utm_source=google&utm_medium=local-search&utm_campaign=googlemybusiness",
-    "sponsored": null
-  },
-  {
-    "id": "ChcI3JPvoK7gidcWGgsvZy8xdG1wY2RyaxAB",
-    "name": "Emirates Stars Hotel Apartments Dubai",
-    "price": 391,
-    "stars": 4,
-    "rating": 4.5,
-    "reviews": 1521,
-    "location_rating": 3.6,
-    "coordinates": {
-      "latitude": 25.2888517,
-      "longitude": 55.3684197
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly"
-    ],
-    "link": "http://www.emiratesstarshotels.ae/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoIlcnFtbP2u6nqARoNL2cvMTFzaDdkZ2RsYxAB",
-    "name": "Al Khoory Courtyard Hotel",
-    "price": 424,
-    "stars": 4,
-    "rating": 4.7,
-    "reviews": 2442,
-    "location_rating": 3.1,
-    "coordinates": {
-      "latitude": 25.1620413,
-      "longitude": 55.248905
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
       "Full-service laundry",
       "Accessible"
     ],
-    "link": "https://alkhooryhotels.com/courtyard/?partner=9590&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness",
+    "link": "https://www.edgehotels.com/",
     "sponsored": null
   },
   {
-    "id": "ChkIu6Oo6MnaocEbGg0vZy8xMXFyMTBybXd0EAE",
-    "name": "ECOS Dubai Hotel at Al Furjan",
-    "price": 423,
-    "stars": 3,
-    "rating": 4.6,
-    "reviews": 3038,
-    "location_rating": 2.7,
+    "id": "ChgI_M6R5fzh4ejvARoLL2cvMXRmYjBnbmsQAQ",
+    "name": "Concorde Deira Hotel",
+    "price": 345,
+    "stars": 4,
+    "rating": 3.5,
+    "reviews": 1752,
+    "location_rating": 4.3,
     "coordinates": {
-      "latitude": 25.020375899999998,
-      "longitude": 55.1535284
+      "latitude": 25.2597682,
+      "longitude": 55.3260485
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kid-friendly"
+    ],
+    "link": "https://concordedeira.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChgI2Lbw6vWht6eVARoLL2cvMXZibm13cHYQAQ",
+    "name": "Howard Johnson by Wyndham Bur Dubai",
+    "price": 319,
+    "stars": 3,
+    "rating": 4.4,
+    "reviews": 4583,
+    "location_rating": 3.4,
+    "coordinates": {
+      "latitude": 25.2601738,
+      "longitude": 55.2854641
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
       "Free parking",
-      "Outdoor pool",
+      "Pools",
+      "Hot tub",
       "Air conditioning",
       "Fitness center",
+      "Bar",
       "Restaurant",
       "Room service",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.hmhhotelgroup.com/en/brand/ecos-hotels",
-    "sponsored": null
-  },
-  {
-    "id": "ChkIt5KTt-z-5caJARoML2cvMTJoazk2NjBsEAE",
-    "name": "Movenpick Al Mamzar",
-    "price": 423,
-    "stars": 5,
-    "rating": 4.6,
-    "reviews": 8256,
-    "location_rating": 2.9,
-    "coordinates": {
-      "latitude": 25.289980800000002,
-      "longitude": 55.3541471
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
       "Airport shuttle",
       "Full-service laundry",
       "Accessible",
       "Business center",
       "Kid-friendly"
     ],
-    "link": "https://movenpick.accor.com/en/middle-east/uae/dubai/hotel-al-mamzar.html?merchantid=seo-maps-AE-B4J2&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Al-Mamzar",
+    "link": "https://www.wyndhamhotels.com/hojo/dubai-united-arab-emirates/howard-johnson-bur-dubai/overview?CID=LC:q68ryvg9cq3avi8:41191&iata=00093796",
     "sponsored": null
   },
   {
@@ -403,7 +442,7 @@
     "price": 298,
     "stars": 4,
     "rating": 3.9,
-    "reviews": 7553,
+    "reviews": 7557,
     "location_rating": 3.8,
     "coordinates": {
       "latitude": 25.250868699999998,
@@ -430,16 +469,16 @@
     "sponsored": null
   },
   {
-    "id": "ChkI_PGVlofNn4F-Gg0vZy8xMW55M2Q0eTlkEAE",
-    "name": "Luxe Grand Hotel Apartments",
-    "price": 325,
-    "stars": 5,
+    "id": "ChoI0cyxv82IjpyXARoNL2cvMTFsZzN5N19yaBAB",
+    "name": "La Quinta by Wyndham Dubai Jumeirah",
+    "price": 349,
+    "stars": 4,
     "rating": 3.9,
-    "reviews": 345,
-    "location_rating": 2.8,
+    "reviews": 2353,
+    "location_rating": 3.3,
     "coordinates": {
-      "latitude": 25.3056651,
-      "longitude": 55.383286299999995
+      "latitude": 25.2489436,
+      "longitude": 55.2829267
     },
     "amenities": [
       "Breakfast ($)",
@@ -451,85 +490,20 @@
       "Fitness center",
       "Restaurant",
       "Room service",
-      "Kitchen",
-      "Airport shuttle",
-      "Accessible",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "https://www.luxegrandapartments.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkI5YjzyMic_9R2Gg0vZy8xMWYycF9obTEyEAE",
-    "name": "Queen Elizabeth 2",
-    "price": 283,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 8838,
-    "location_rating": 3.1,
-    "coordinates": {
-      "latitude": 25.2621669,
-      "longitude": 55.281018499999995
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B9L4&merchantid=seo-maps-AE-B9L4&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
-    "sponsored": null
-  },
-  {
-    "id": "ChgI9sK7gMah7MH_ARoLL2cvMXYzaHlnNHQQAQ",
-    "name": "Millennium Airport Hotel Dubai",
-    "price": 428,
-    "stars": 4,
-    "rating": 4.5,
-    "reviews": 17847,
-    "location_rating": 3.8,
-    "coordinates": {
-      "latitude": 25.248436599999998,
-      "longitude": 55.3438762
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
       "Airport shuttle",
       "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
+      "Accessible"
     ],
-    "link": "https://www.millenniumhotels.com/en/dubai/millennium-airport-hotel-dubai/?cid=gplaces-millennium-airport-hotel-dubai",
+    "link": "https://www.wyndhamhotels.com/laquinta/dubai-united-arab-emirates/la-quinta-dubai-jumeirah/overview?CID=LC:6ysy27krtpcrqev:55815&iata=00093796",
     "sponsored": null
   },
   {
     "id": "ChgI8f_BxKmgsr0OGgwvZy8xcHAydF8zcXkQAQ",
     "name": "La Suite Dubai Hotel & Apartments",
-    "price": 452,
+    "price": 453,
     "stars": 4,
     "rating": 4.5,
-    "reviews": 4078,
+    "reviews": 4081,
     "location_rating": 3.4,
     "coordinates": {
       "latitude": 25.108083800000003,
@@ -554,6 +528,37 @@
       "Kid-friendly"
     ],
     "link": "https://world.nh-hotels.com/nh-collection-dubai-la-suite?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=LaSuiteDubai&utm_content=Home&utm_campaign=Google_GMB",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIt5KTt-z-5caJARoML2cvMTJoazk2NjBsEAE",
+    "name": "Movenpick Al Mamzar",
+    "price": 426,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 8262,
+    "location_rating": 2.9,
+    "coordinates": {
+      "latitude": 25.289980800000002,
+      "longitude": 55.3541471
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Restaurant",
+      "Room service",
+      "Kitchen",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://movenpick.accor.com/en/middle-east/uae/dubai/hotel-al-mamzar.html?merchantid=seo-maps-AE-B4J2&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Al-Mamzar",
     "sponsored": null
   }
 ]

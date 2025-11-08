@@ -5,9 +5,6 @@
   "check_out_date": "2026-01-15",
   "adults": "2",
   "children": "0",
-  "currency": "SAR",
-  "gl": "sa",
-  "hl": "en",
   "min_price": "250",
   "max_price": "400",
   "free_cancellation": "true",
@@ -15,5 +12,8 @@
     "6",
     "35"
   ],
+  "currency": "SAR",
+  "gl": "sa",
+  "hl": "en",
   "api_key": ""
 }
