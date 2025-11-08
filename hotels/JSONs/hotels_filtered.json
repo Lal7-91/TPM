@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ChoI8LjKyNbu9sfdARoNL2cvMTFsbDNzNHYxXxAB",
+    "name": "Jewel Green Mountain",
+    "price": 295,
+    "stars": 4,
+    "rating": 3.9,
+    "reviews": 422,
+    "location_rating": 3.3,
+    "coordinates": {
+      "latitude": 30.057728699999995,
+      "longitude": 31.300587699999998
+    },
+    "amenities": [
+      "Free breakfast",
+      "Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoIj_iQ4JCM7ZyXARoNL2cvMTFjMzI3Mm10cBAB",
+    "name": "Jewel Al Agouza",
+    "price": 286,
+    "stars": 4,
+    "rating": 4,
+    "reviews": 393,
+    "location_rating": 3.2,
+    "coordinates": {
+      "latitude": 30.0568083,
+      "longitude": 31.211548699999998
+    },
+    "amenities": [
+      "Breakfast",
+      "Wi-Fi",
+      "Free parking",
+      "Hot tub",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible"
+    ],
+    "link": "https://www.yellowpages.com.eg/ar/profile/%D9%81%D9%86%D8%AF%D9%82-%D8%A7%D9%84%D8%B9%D8%AC%D9%88%D8%B2%D8%A9-%D9%84%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9/473948",
+    "sponsored": null
+  }
+]

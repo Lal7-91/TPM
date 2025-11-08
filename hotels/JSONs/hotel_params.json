@@ -1,0 +1,15 @@
+{
+  "engine": "google_hotels",
+  "q": "Hotels in Cairo",
+  "check_in_date": "2026-01-12",
+  "check_out_date": "2026-01-15",
+  "adults": "1",
+  "children": "0",
+  "currency": "SAR",
+  "gl": "sa",
+  "hl": "en",
+  "min_price": "150",
+  "max_price": "300",
+  "hotel_class": "4,5",
+  "api_key": ""
+}

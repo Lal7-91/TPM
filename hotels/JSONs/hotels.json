@@ -1,0 +1,479 @@
+{
+  "search_metadata": {
+    "id": "690f8d474a0898ad8d5fcdde",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5fd618575d5a3ad1/690f8d474a0898ad8d5fcdde.json",
+    "created_at": "2025-11-08T18:34:47.211Z",
+    "processed_at": "2025-11-08T18:34:47.212Z",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=sa&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690f8d474a0898ad8d5fcdde.html",
+    "prettify_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/690f8d474a0898ad8d5fcdde.prettify",
+    "total_time_taken": {
+      "float": 2.967710494995117
+    }
+  },
+  "search_parameters": {
+    "engine": "google_hotels",
+    "q": "Hotels in Cairo",
+    "gl": "sa",
+    "hl": "en",
+    "currency": "SAR",
+    "check_in_date": "2026-01-12",
+    "check_out_date": "2026-01-15",
+    "adults": 1,
+    "children": 0,
+    "min_price": "150",
+    "max_price": "300",
+    "hotel_class": "4,5"
+  },
+  "search_information": {
+    "total_results": 2
+  },
+  "brands": [
+    {
+      "id": 33,
+      "name": "Accor Live Limitless",
+      "children": [
+        {
+          "id": 8,
+          "name": "Fairmont Hotels and Resorts"
+        },
+        {
+          "id": 47,
+          "name": "Novotel"
+        },
+        {
+          "id": 84,
+          "name": "Sofitel"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Four Seasons"
+    },
+    {
+      "id": 28,
+      "name": "Hilton Honors",
+      "children": [
+        {
+          "id": 54,
+          "name": "Hilton Hotels & Resorts"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "IHG Hotels & Resorts",
+      "children": [
+        {
+          "id": 2,
+          "name": "InterContinental Hotels & Resorts"
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Kempinski"
+    },
+    {
+      "id": 243,
+      "name": "Louvre Hotels",
+      "children": [
+        {
+          "id": 245,
+          "name": "Golden Tulip"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Marriott Bonvoy",
+      "children": [
+        {
+          "id": 61,
+          "name": "Marriott Hotels & Resorts"
+        },
+        {
+          "id": 3,
+          "name": "Ritz-Carlton Hotel Company"
+        },
+        {
+          "id": 12,
+          "name": "Sheraton Hotels and Resorts"
+        },
+        {
+          "id": 136,
+          "name": "St. Regis"
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "type": "hotel",
+      "name": "Jewel Green Mountain",
+      "property_token": "ChoI8LjKyNbu9sfdARoNL2cvMTFsbDNzNHYxXxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-12&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&hotel_class=4%2C5&max_price=300&min_price=150&property_token=ChoI8LjKyNbu9sfdARoNL2cvMTFsbDNzNHYxXxAB&q=Hotels+in+Cairo",
+      "gps_coordinates": {
+        "latitude": 30.057728699999995,
+        "longitude": 31.300587699999998
+      },
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0295",
+        "extracted_lowest": 295
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0886",
+        "extracted_lowest": 886
+      },
+      "nearby_places": [
+        {
+          "name": "Al Sekka Al Hadid Sporting Club (Nasr City)",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        },
+        {
+          "name": "Cairo International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "21 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 7 min"
+            }
+          ]
+        },
+        {
+          "name": "\u0645\u0637\u0639\u0645 \u0643\u0627\u0641\u064a\u0627\u0631 \u0644\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMAzE5y_bd-V49kYuTtVnC2nRKjNaSFFIN3lEy7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMAzE5y_bd-V49kYuTtVnC2nRKjNaSFFIN3lEy7=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPzXAJoiBihw5aSwS09C6ftoA8Zl0xef0-AU6GO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPzXAJoiBihw5aSwS09C6ftoA8Zl0xef0-AU6GO=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzu69dlItXY0k1aJXSzHynALNfOH6cPehdeNApxqzwOQTGeA9Xmdc-6LJOOjyym8oLOz9s_pWK6jzjXN1Oq18kQzAgpYIG_r0C5e0QpQRHre89zAd9LXxGUYbIfO0BuRYCTxl6K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICpjc_cRQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/ckbtgJjc4DWFb3bUX1OLkCdaxJQgH6w_yGmaMDmXhRpPN7LaCZRWHFk0nQHFnQVhJmShP-2ljdCombB3R-_s3__vJdadfwT-Xm6RrqhNXR4znhPThfEFaoDP5njNLw5nf3wj3oCHoCEm99T0yaBW-4kqwQIp2g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/96000000/95320000/95312300/95312260/13fc9d77_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/F-u5L_R1LTE0eWLSiFXq9F_78t9l5WGEPaA3shQHPVR0sUqgpnAVWQSNq4MxUNPKsHRY78WH82oP9By5w4ZF4S9xe_Ao32CmZwveFjQL4Tni6j-MRmphEQS7AC3XTEx43UUr-5_sHwzSNI0sAEuxA5T5aczAoOc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/96000000/95320000/95312300/95312260/a0024500_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/9cm_CXWs5N7xmhYe_A1xs2DqRCN6o_ov1OChI9l9_z7TttjvCVXL37947ONw3AHozDE7kCXntJuPl2x9nXh7mz2D852YW387eMNgORoVjnTPFe8XEsB_JxwFbKV-Q_FjSq--vf_GBm3b0pCrU5zQuRLDYNskVA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/d1/00/d100a6c6e12bb8705fa9ca801b2b6f78ce7f7913.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxYfTi682NE5POdJwtlp9LB4ck_tbrAwEZBQ83_vDG1f5B8FZBj-TN076PlSvlMhtXuXfthXsLNJKkTLmpTflx-2cp7vMP4Rxa7v4ssV6lVt2Yuym5pIjyxrYWbk_BWxuBYTyrTeg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDmqeaHmwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzLryRc7RFk6qWokCNs5EWU-aIywudRHNnaksFWBRkCAnyACwxHihHVKPWgE2TUjgLp6b2wvQ9cQlekl8GBzAWZeCMuGrDJf_jfWLfre5vBTCxweEvksnsxSBjnezCovZw7hYko4w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICvjd-N4AE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-A_tp6T5_3HD3WSLc8-OvDaHJWUYb2h0Z_DPG3plScx8AR42YC18TPnK5TZEVKVTNhoZi4HX5hDnjBZDK2JDSLwfxUjCQVLxV4AzNQmnaCsZxQ_tN7Llq51iLthBDvXwZmUCK=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICRwKuWXg=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 422,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 209
+        },
+        {
+          "stars": 4,
+          "count": 79
+        },
+        {
+          "stars": 3,
+          "count": 62
+        },
+        {
+          "stars": 2,
+          "count": 25
+        },
+        {
+          "stars": 1,
+          "count": 47
+        }
+      ],
+      "location_rating": 3.3,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 48,
+          "positive": 32,
+          "negative": 9,
+          "neutral": 7
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 53,
+          "positive": 38,
+          "negative": 14,
+          "neutral": 1
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 14,
+          "positive": 13,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 11,
+          "positive": 3,
+          "negative": 8,
+          "neutral": 0
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 16,
+          "positive": 4,
+          "negative": 10,
+          "neutral": 2
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 14,
+          "positive": 3,
+          "negative": 10,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Jewel Al Agouza",
+      "link": "https://www.yellowpages.com.eg/ar/profile/%D9%81%D9%86%D8%AF%D9%82-%D8%A7%D9%84%D8%B9%D8%AC%D9%88%D8%B2%D8%A9-%D9%84%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9/473948",
+      "property_token": "ChoIj_iQ4JCM7ZyXARoNL2cvMTFjMzI3Mm10cBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-12&check_out_date=2026-01-15&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&hotel_class=4%2C5&max_price=300&min_price=150&property_token=ChoIj_iQ4JCM7ZyXARoNL2cvMTFjMzI3Mm10cBAB&q=Hotels+in+Cairo",
+      "gps_coordinates": {
+        "latitude": 30.0568083,
+        "longitude": 31.211548699999998
+      },
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0286",
+        "extracted_lowest": 286
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0857",
+        "extracted_lowest": 857
+      },
+      "nearby_places": [
+        {
+          "name": "The Egyptian Museum in Cairo",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Al Agouza Hospital",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "Cairo International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "36 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 22 min"
+            }
+          ]
+        },
+        {
+          "name": "Al Aaraby Restaurant \u0645\u0637\u0639\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpYF59Z0inpSXvCevcbekwSmm6ClShbYehAL1otaGyy7CVqyWTJQxKse5piL28ffS6fATU9bmabpcoLep2J_z6wztCwgWpij1jGGZILVD01ntiBtHG2dFGSBCD28QYfLspm6DpOA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICqrbXXsAE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzY1dLbX__I4dSOgrUpZRQHAAqoYg8fNiMSG3wvvhckNVhPsSDSJIFefkcVRgJNj4VbXSiCXuinhwWZ71-s6QnUluZAl2PYfV0FkGUy6MO0UJgjQVgIHK5CnNIl7uLniokbe_8O7Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDBu8HWnQE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwOe5Uhdd6RIOBvRLe8DiVcE-JwEOyMbopN8ZfG9aOy3hcyjjXXTQNTtbS0CNOJaVHPZmGjcjunJ6jPJtr8AexbZ2fWaBfXDorxFjwG1aIo_7nLndfv4cL5A-FolHU04vDI32RM3Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIC24P-XggE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwAuRHYsn8NFbN6pE7dOn1SiSePjrqjwMYPreQnleEYslPi0W1RfVdH24_eXdJ9z7WE2Y8LF6KLr--To2xyhe8OZmETata7-K5Q1DskmH0fIg2zxVbCxMpS1B2_hs6-50BKugARgw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDByYqi_wE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSymWrEy2XLtDX89TEQbfJvmZxsKSqrXr2GKconBCJzhO0Dhnm88YZx0RzZ2AcLsCNtemklu2-PJOYuN1Ke4gf_DlEuHgQ1iRxVD7r5dQ-FqOapzQnvGFbGMX3gguqdHcIIm2ZWc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDFk5G7Hg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzkzGoq4hwJCzYEkoDreOa7BJSSafiroUJFnhty2t-_q1PNtXp2Q6b6Na7yhrfUyUYuNAWcM9nB3HH7U554EK_ZeP7JMAB7BhedTnnmOGN56GkXeb7chCzgJ21-UiR8gkP1DmvI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDBicWARw=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx9aP5cixWkc9F-mFZdOFhDBroAPKMoKN6o5kaZfeo50nCZ37yVOEaCXHXIOrigeqldvBWYzXAaMxT8AignweFg4rgtmfucl_XEJbdeRDongWsZE6nEVbIKWsacsQS0OOLdInjmqQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICJztbfnwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/fW7Jaz0Kl06tZVV-cpY-GTegueq0-nElLjzI9hene29JskO4ubDBaSsiQBEYlutSPbSaW2NS97JNkJpaiHXqi3_z9EfwrHwvR6Kaw3HG0nF96py2mXE8zrsO3kDthhTsgdaPITBf47brMtP54ny_0Wih68KNQQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/45/38/85/capti_r.jpg?w=1100&h=900&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzibZKO2zc6bGYguuhe2WDC65US_yN8INKRifZNv90Jt_n4dXy9lhxWg2qx5GE78AxeiGXg7GKpdU2zX8YRBEWJmWxyz9eETdcpcRHjgzQFC8Kmj7JAPkofDlFX5FGGD9ikJamc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIChwZf6wgE=s10000"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 393,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 224
+        },
+        {
+          "stars": 4,
+          "count": 45
+        },
+        {
+          "stars": 3,
+          "count": 58
+        },
+        {
+          "stars": 2,
+          "count": 23
+        },
+        {
+          "stars": 1,
+          "count": 43
+        }
+      ],
+      "location_rating": 3.2,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 71,
+          "positive": 56,
+          "negative": 14,
+          "neutral": 1
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 57,
+          "positive": 46,
+          "negative": 9,
+          "neutral": 2
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 32,
+          "positive": 24,
+          "negative": 6,
+          "neutral": 2
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 21,
+          "positive": 17,
+          "negative": 2,
+          "neutral": 2
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 13,
+          "positive": 5,
+          "negative": 7,
+          "neutral": 1
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 16,
+          "positive": 16,
+          "negative": 0,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Breakfast",
+        "Wi-Fi",
+        "Free parking",
+        "Hot tub",
+        "Air conditioning",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible"
+      ]
+    }
+  ]
+}
