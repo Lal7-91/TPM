@@ -1,53 +1,33 @@
 [
   {
-    "id": "ChoI8LjKyNbu9sfdARoNL2cvMTFsbDNzNHYxXxAB",
-    "name": "Jewel Green Mountain",
-    "price": 295,
+    "id": "ChoIkYPAr_r5lfewARoNL2cvMTFwNjQ1bWRxdhAB",
+    "name": "Four Points by Sheraton Jeddah Corniche",
+    "price": 654,
     "stars": 4,
-    "rating": 3.9,
-    "reviews": 422,
+    "rating": 4.2,
+    "reviews": 3241,
     "location_rating": 3.3,
     "coordinates": {
-      "latitude": 30.057728699999995,
-      "longitude": 31.300587699999998
+      "latitude": 21.7151122,
+      "longitude": 39.0996807
     },
     "amenities": [
-      "Free breakfast",
-      "Wi-Fi",
-      "Parking",
-      "Air conditioning",
-      "Restaurant",
-      "Room service",
-      "Full-service laundry",
-      "Accessible"
-    ],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChoIj_iQ4JCM7ZyXARoNL2cvMTFjMzI3Mm10cBAB",
-    "name": "Jewel Al Agouza",
-    "price": 286,
-    "stars": 4,
-    "rating": 4,
-    "reviews": 393,
-    "location_rating": 3.2,
-    "coordinates": {
-      "latitude": 30.0568083,
-      "longitude": 31.211548699999998
-    },
-    "amenities": [
-      "Breakfast",
-      "Wi-Fi",
+      "Breakfast ($)",
+      "Free Wi-Fi",
       "Free parking",
+      "Outdoor pool",
       "Hot tub",
       "Air conditioning",
+      "Fitness center",
+      "Beach access",
       "Restaurant",
       "Room service",
       "Full-service laundry",
-      "Accessible"
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
     ],
-    "link": "https://www.yellowpages.com.eg/ar/profile/%D9%81%D9%86%D8%AF%D9%82-%D8%A7%D9%84%D8%B9%D8%AC%D9%88%D8%B2%D8%A9-%D9%84%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9/473948",
+    "link": "https://www.marriott.com/en-us/hotels/jedfo-four-points-jeddah-corniche/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
     "sponsored": null
   }
 ]

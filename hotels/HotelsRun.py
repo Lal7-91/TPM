@@ -190,8 +190,8 @@ def run_hotels(user_text: str):
         if prop.get("property_token") in top_ids
     ]
 
-    if topHotelsFullDetails:
-        print(json.dumps(topHotelsFullDetails[0], indent=2, ensure_ascii=False))
+    # if topHotelsFullDetails:
+    #     print(json.dumps(topHotelsFullDetails[0], indent=2, ensure_ascii=False))
 
     return topHotelsFullDetails
     

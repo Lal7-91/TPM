@@ -16,6 +16,7 @@ Rules:
 - Default currency = "SAR" for GCC users, otherwise USD unless user specifies
 - Default gl = "sa" for GCC, else leave "" if not given
 - Default hl = "en" unless user specifies
+- Default sort_by = "8" unless user specifies ("3": lower price, "8": Highest rated, "13": Most reviews)
 - api_key must always be included and always be ""
 - NO text explanation, NO comments, NO backticks — only the python dictionary
 
