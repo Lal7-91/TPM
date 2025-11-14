@@ -1,0 +1,212 @@
+{
+  "search_metadata": {
+    "id": "691620b4b333ee68c109eb68",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9311d45f4999b119/691620b4b333ee68c109eb68.json",
+    "created_at": "2025-11-13 18:17:24 UTC",
+    "processed_at": "2025-11-13 18:17:24 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhpgEgoyMDI2LTAxLTEwIh8KA0RNTRIKMjAyNi0wMS0xMBoDU0hKKgJHOTIDMTY4Ih8KA1NIShIKMjAyNi0wMS0xMBoDQUxBKgJHOTIDMjUzagcIARIDRE1NcgcIARIDQUxBGmASCjIwMjYtMDEtMjAiHwoDQUxBEgoyMDI2LTAxLTIwGgNTSEoqAkc5MgMyNTQiHwoDU0hKEgoyMDI2LTAxLTIwGgNETU0qAkc5MgMxNjNqBwgBEgNBTEFyBwgBEgNETU1CAgEBSAFwAZgBAQ&tfu=EgIIAg",
+    "raw_html_file": "https://serpapi.com/searches/9311d45f4999b119/691620b4b333ee68c109eb68.html",
+    "prettify_html_file": "https://serpapi.com/searches/9311d45f4999b119/691620b4b333ee68c109eb68.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "sa",
+    "type": "1",
+    "departure_id": "DMM",
+    "arrival_id": "ALA",
+    "outbound_date": "2026-01-10",
+    "return_date": "2026-01-20",
+    "travel_class": 1,
+    "adults": 2,
+    "children": 0,
+    "booking_token": "WyJDalJJV0VKVVNucG1UbGx5UmsxQlJVZFVibEZDUnkwdExTMHRMUzB0ZG5kaVluWXlORUZCUVVGQlIydFhTVXN3UjBaSGFIVkJFZ3RIT1RJMU5IeEhPVEUyTXhvTENLcS9HQkFDR2dOVFFWSTRISENOeEFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dLFtbIkFMQSIsIjIwMjYtMDEtMjAiLCJTSEoiLG51bGwsIkc5IiwiMjU0Il0sWyJTSEoiLCIyMDI2LTAxLTIwIiwiRE1NIixudWxsLCJHOSIsIjE2MyJdXV0=",
+    "currency": "SAR",
+    "sort_by": "2"
+  },
+  "selected_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 17:25"
+          },
+          "arrival_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 19:40"
+          },
+          "duration": 75,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 168",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 144 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 20:45"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 01:55"
+          },
+          "duration": 250,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 253",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 481 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 65,
+          "name": "Sharjah International Airport",
+          "id": "SHJ"
+        }
+      ],
+      "total_duration": 390,
+      "carbon_emissions": {
+        "this_flight": 625000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -10
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-20 02:55"
+          },
+          "arrival_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-20 06:40"
+          },
+          "duration": 285,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 254",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 480 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-20 08:15"
+          },
+          "arrival_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-20 08:45"
+          },
+          "duration": 90,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 163",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 143 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 95,
+          "name": "Sharjah International Airport",
+          "id": "SHJ"
+        }
+      ],
+      "total_duration": 470,
+      "carbon_emissions": {
+        "this_flight": 624000,
+        "typical_for_this_route": 693000,
+        "difference_percent": -10
+      },
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png"
+    }
+  ],
+  "baggage_prices": {
+    "together": [
+      "1 free carry-on"
+    ]
+  },
+  "booking_options": [
+    {
+      "together": {
+        "book_with": "Air Arabia",
+        "airline": true,
+        "airline_logos": [
+          "https://www.gstatic.com/flights/airline_logos/70px/G9.png"
+        ],
+        "marketed_as": [
+          "G9 168",
+          "G9 253",
+          "G9 254",
+          "G9 163"
+        ],
+        "price": 4014,
+        "local_prices": [
+          {
+            "currency": "AED",
+            "price": 3930
+          }
+        ],
+        "baggage_prices": [
+          "1 free carry-on"
+        ],
+        "booking_request": {
+          "url": "https://www.google.com/travel/clk/f",
+          "post_data": "u=ADowPOIT0zcd9zyR3MMbG5jVmNBRdIwf141JqbO04r3nl_bF4ux5Os_lxGMA0s3LHOPmTBtj8L7OSqMcW1MaRKlL4WcOvkMQJCr9SlwyaFUTTmbAQIMNZuE7wPFBRAfiZ-uvqJ27S_lH60EPtGVVY62y816j3gIhLx61wmtB7SjarEhlzi1kBtfWRbAAN-NXkdlAQ5boU0Lp02HTl38f5cplbtwQVTqfxfzmgPpt1i41GHLX5DAOX0H4WNvHsuoVEQ8PeFVzC66SOfzzR5tMHJ1EHp0w68rUwsMUQti79dPYcuGpJpi6E5Vb8iwc9plNBEZnApffqLpgkmcEOJaP7f782rwWniCpScjdAgghfTfJAbpzcJj0rFrYA5favhUEcAufHiRPEaY51dvxzejwcnEydO-6vf-4xzZzfdzeMe3mi8jSuOncQZFxNvHj4bLrbyft5H9jQlIELIQc3VgPGbq76s9yYaLvVilh8JYXscttE1xnaTtMbLLc4A02bRKHfBir2rqI4FxJl8ccPjEMOnMUAhBqWRktSnLeBk3v6CimigBEXPOn54l8nyTCnEOGSwfucWwAzw3Ut-cwd2i05sEWLnzr6KkVRp-OFc5230YXC5jYKoRxqPcBOcD65DzEQhPTymVACEQD4i9G-WaNwz4qO_pRj0K3MMrzaE9AUgUl-E0nef4x4bbp581Xji9wzkFIawsEseO0UVDD9UKe0qKebsP-AWm-scXNGIFfSQZiogZPuDL-SrxERV8h0FtRIIqWlYaJb27xF7YY0_ufHiY14I7tq5sMt1v1LnT73WBnV7C7TiXwzuAIUi9lte05J800E_F6ceIc3PS5kYOxwaqBLN3Or8UI_wVpK-Di8aiKK_e1fn8O9ZObXc4wZFMoGBqZTa2xM-vHupSy7hkB5xvm4UM4eltQ7AK-kRYsFqBkpHW3mwjc74FW5VbKKdwsowIMBUDybyGqPzD9W_JvgCi_SJzWrURM7ihxV0J8PUWrrZ0OTbxhYX4O2MTdt6NBcYQCI-Zh_cSGmx-vUqAsciIBQXHVXXqJhRp3-7hgWeZJlMja7tCWtpq05SzYczZgUmjWLVu9Tibt7klnTunDr-qeMgNog-9NcrjRWoDSBIcnX6I0uPB4lfcKwu_0s5H2ww0Nka34GAUeqxdinZxo8Id-4W2pKYTZMDTwaR5j9RYrpFZD3ysJbN5asFbulMQOGpC6XOrcKmFs9Y7Y-1eBa_rhd_RTdJpCETI-z4VIdNdNqWB8D6IzdRqYS430ZKjSTqwuAfKDH6WVbNCqpfQ9o9H-z3R5pYUBBRMlX0nD55JMdxPBUGDdO4kjrk-MH0cirf4vKIF-fccM0Kzpk_mIfQGr3B8fn6eSABuhnKj831Osgdgz1DQ1I8ra5mjzKiI_yOiEROM63xqbAIgR_bOVWaSuwxELSWEtkN3fqwLx3WkfsC8FUmmxBkWS-u9pVHIgILVQTQAnAcRY7MqB8SQlj3xJzMUh0xaSD__3fLv8I8z2ABLhtk9xJyy0wtuEjDNz-lv_RxmOVo1Q7W9CsotnPUekAYZP9Dc6AjELlDcIPGeBxSnqFSPHEXDycwx_wvsxVgY7jXRtfETGyIENLeUiZRNiy4i7NCENLKnX1WugbPzkESJSxYkVQsp2nKgwcC7_nvuWiL0lez7DFPmgIf7YIg7Zthfu8S_TL7whLYbulUoPVF51J0iC0uXM47QxiWdboj14UZzBZVJV0LHbjWHzP7QZ1F4zE7i4wnCt3biYlk70QMBq0xHtFrDmuWk0aWxaL5aksk6IrwXeJUdn5iKfmsgNVfp9h3a3mH0oYPZnWtuLDjajKAKTnXFduRf2ZfW4R5MaqWBWBwMmaPeBXJD47J_nOGwUYMYKhW2UPs44vuWnxwmMfJfIaZw0s9zX-kmlaEnWCGPNCnbsn7zbR8HDreRmJuG_4lF-_JXgKs8nmPtHWAzRKJyzTHNHpdV9NO_IxdYtpeFRkhkhl50qWqCFmf_CM83lkFNxWr7-qXepS4trcCocALPpNz2sz-oYwHMguOkSElxsVRAiIjmXPSgOfyIR2wG1VRprvZcFadSPMI9o42KsDJairAr0MYrPellsYkaIQMGRj9YYZrtbvD3PtOFbbfurJXls_8BKLhhdA5A2nz52M9zHvoLZF2aurJVEyLHJtnt0MuolGlB5-hHcSXkOoyUe1q8bP2DXOdw977b19OHjkaE0HMXjEbU6AzhwVWPVT3TWdtaiMjdEgMiuIVW7UEqnz14KVGW56uLX8Cvf4qxM4qMP7rOqu4c6NvR3yUhzD1zsketekTFkXWSEOd5PbaIigmXkrAU7A241oaamvb6wCN96yuFUlkKdKLLxq-eL3lPlllnq7AK5NSk1X9xQElhYcIC98Wpk8JOQbM3WAiyA9xoN3-Eu25kG7kiTjtaKSiyTL1wiMXgl9b70tygPt1nf8rUxa3ZYuqCz8tMJsbhfFM10xgb_k-JXY6g1xIUdVShFa4w7Cn0BEoxB_glFGQcmlr3dFkoS_julNtzCZZ2eTPi4C2EBOPed8uJjVWqlTpxBI9E-txBHO5fBskradWcaH-bp25vktXpX1cGEh_xOVbku9LWMYMI3WTq1e6C_Wy-ZGmN-AS6nD8BgtLEGMcDOPw646k_1sLI_DYFiRe5Q8Rt11bSNnO7UMTSPCpZpmsW4Y1FGumnBGZOa5cziV0LLxxrQoQdcQJxiDn_9O83lDp0U5itvJaFr96Q2JIpkmSm7zNOdHobmYNWsQhSl1JzsW5FVk-MT7DBLYafYS7yJFqpRgQIAP5liPHaqLQ7PS7bSFdWfG6yKeZ6z0-SXIowj6jnGgMaqFI9c1-FqzO2EQRQ5J-zz8ktLzFTHR4p2fqR2v2yituc7fmly6yB_GUJ6oJhJx6-pdZ-JgSAUciLJd3z3vv70RFqrYH22TJe3zbV30Hym5vB_PN4yiE31wDta91ODB3-UK0RtpOf_cSXJ9zutVe3x0z4WJ4fwDtiqBeO32aPOPF1nwBpIa-GK7daAgCrjrbXRBU0uIFXOOsGp2WPxJj91MsbwPRcr0OCfU4Lmzi0BvnGTZ8Zdo1aLw7lNf866a0TEOM6oHpNZg-nOyV5QQ-xGAcVqv-UQA0N1GQorYO4wpV34nP8RSfBIc-6FsRC7vkXG5nGZ2z7k52mmtp-wfZi3-j3kf_LwiPo5GwC1DMUVLyXRnLLwon_e1oJQvBnp3_j022m5qh2O8LAmuTcEmey0vN8gAvkHLAmdKUgS725hVDORfs2GQUHpHho-gDvmrOR9oHB4sWrD9lJJyqw-7Dw9us9vsD20TAIoeRrhI1j5yE41ibEjoHOQJN7OgyvDWy4G-rQQjV_eF_Ayv4N2-nYJsnpmn0ItEAWOf9X73l8mKhSOX9xyRfP7gsC4IZlbD7EmdskUcGbrLMoYa7roxSVbAMfe2Tecus9V5X_DvWxQ7r3QlllARbGTydzEivbZOPKnAbR7-SDmTUdbnaSzroQaYogj3B_LZiBqceYMIBg_A0p5-MqfRgOBEAqAg3H3eg2tlQoqQq_wJvpxYS5COL89Lyc9aMOuaaF0hNGl6BBg_e6xhAPGuQk4ebCw_rjQW_JmGcY-t-ZhRoGU5gEI4aBxGOiiHvH6nD_5tQjp4CJddx4ds_vfS5H0grBPEV6oU74rLu4WrWQCXj0uvaRfHQzSbgR6Koe-L7hryr1loiL2hWHTlXw8KP40acpJeDpwpTXF3pQWYYR3kIlttA6bVHdTzvDkIl9SbOOO3Scbof1Avapj-dlyAz8P3aps_LZ0BUQuzfB4LWvSaE_FTFGIesVe2SCRDWDn0mefg0i1d3X_-pHQ-UGK1wDc0IGDPjfAlPJtIBu7OK3scx3q094JX3GyBvbIGWg5UQ--a2HWIzpe_2Ma4dQIyr0HnJWdAdad13LFBbPwoKUcPc6dneUtwnvD9XRrLBKJsUJhbWF0MNViTZv3sbRAHbJ5VvjEwJZho868WECqTkf2406ObhZDGaxUYJehQQZJUDl7ujQb6rABGmtoQEhqkTXMbWG8N7fcsg9mWfX-DIcWvkCL6XNpYjj8xOZ1aveyK66b2xWIKuGT0h96hDTfZqhlNSKuWPUo5Z99yIt6OLObJBIp6cefsFImGP-wY5EwFeoTUDYKapPQlTzbrOGXZ3hkbHLys60QzRp5ep4XrFWQ8Ns5nw_YQfZ6HoJottfz7_e1GJNo4A7AQR35yHZoLtpX1b-myL7db9Z_JaSnINDbtQEFa_tB8OTDwzcNjKYHaVtq87Maytv61spvlZPjlcMBIDUMuVZO_w09pI2VJw"
+        }
+      }
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 4014,
+    "price_level": "typical",
+    "typical_price_range": [
+      3300,
+      4750
+    ]
+  }
+}

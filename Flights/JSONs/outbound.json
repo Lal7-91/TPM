@@ -1,0 +1,931 @@
+{
+  "search_metadata": {
+    "id": "691617513336174752824e80",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0a29f1bab972ead0/691617513336174752824e80.json",
+    "created_at": "2025-11-13 17:37:21 UTC",
+    "processed_at": "2025-11-13 17:37:21 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhoeEgoyMDI2LTAxLTEwagcIARIDRE1NcgcIARIDQUxBGh4SCjIwMjYtMDEtMjBqBwgBEgNBTEFyBwgBEgNETU1CAgEBSAFwAZgBAQ&tfu=EgIIAg",
+    "raw_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691617513336174752824e80.html",
+    "prettify_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691617513336174752824e80.prettify",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "sa",
+    "type": "1",
+    "departure_id": "DMM",
+    "arrival_id": "ALA",
+    "outbound_date": "2026-01-10",
+    "return_date": "2026-01-20",
+    "travel_class": 1,
+    "adults": 2,
+    "children": 0,
+    "currency": "SAR",
+    "sort_by": "2"
+  },
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 15:25"
+          },
+          "arrival_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-10 17:45"
+          },
+          "duration": 80,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 864",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 127 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-10 21:40"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 02:55"
+          },
+          "duration": 255,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 1721",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 435 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 235,
+          "name": "Dubai International Airport",
+          "id": "DXB"
+        }
+      ],
+      "total_duration": 570,
+      "carbon_emissions": {
+        "this_flight": 563000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -19
+      },
+      "price": 3468,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hHV2pnMk5IeEdXakUzTWpFYUN3aXdsUlVRQWhvRFUwRlNPQnh3d3RJRiIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRYQiIsbnVsbCwiRloiLCI4NjQiXSxbIkRYQiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkZaIiwiMTcyMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 04:40"
+          },
+          "arrival_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 06:55"
+          },
+          "duration": 75,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 161",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 144 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 09:00"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-10 14:10"
+          },
+          "duration": 250,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 251",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 481 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 125,
+          "name": "Sharjah International Airport",
+          "id": "SHJ"
+        }
+      ],
+      "total_duration": 450,
+      "carbon_emissions": {
+        "this_flight": 625000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -10
+      },
+      "price": 3752,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3RIT1RFMk1YeEhPVEkxTVJvTENKRHpGaEFDR2dOVFFWSTRISERUalFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjEiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 09:25"
+          },
+          "arrival_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 11:40"
+          },
+          "duration": 75,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 164",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 144 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 20:45"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 01:55"
+          },
+          "duration": 250,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 253",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 481 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 545,
+          "name": "Sharjah International Airport",
+          "id": "SHJ"
+        }
+      ],
+      "total_duration": 870,
+      "carbon_emissions": {
+        "this_flight": 625000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -10
+      },
+      "price": 3950,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3RIT1RFMk5IeEhPVEkxTXhvTENQQ05HQkFDR2dOVFFWSTRISEQydGdZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjQiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 17:25"
+          },
+          "arrival_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 19:40"
+          },
+          "duration": 75,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 168",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 144 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Sharjah International Airport",
+            "id": "SHJ",
+            "time": "2026-01-10 20:45"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 01:55"
+          },
+          "duration": 250,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "travel_class": "Economy",
+          "flight_number": "G9 253",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Stream media to your device",
+            "Carbon emissions estimate: 481 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 65,
+          "name": "Sharjah International Airport",
+          "id": "SHJ"
+        }
+      ],
+      "total_duration": 390,
+      "carbon_emissions": {
+        "this_flight": 625000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -10
+      },
+      "price": 3983,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3RIT1RFMk9IeEhPVEkxTXhvTENMU25HQkFDR2dOVFFWSTRISERkdlFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 04:15"
+          },
+          "arrival_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-10 06:45"
+          },
+          "duration": 90,
+          "airplane": "Boeing 777",
+          "airline": "Emirates",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+          "travel_class": "Economy",
+          "flight_number": "EK 824",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 162 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-10 12:20"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-10 17:30"
+          },
+          "duration": 250,
+          "airplane": "Boeing 737",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 1403",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 499 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 335,
+          "name": "Dubai International Airport",
+          "id": "DXB"
+        }
+      ],
+      "total_duration": 675,
+      "carbon_emissions": {
+        "this_flight": 662000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -4
+      },
+      "price": 4760,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hGU3pneU5IeEdXakUwTURNYUN3amdoaDBRQWhvRFUwRlNPQnh3Mk44SCIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRYQiIsbnVsbCwiRUsiLCI4MjQiXSxbIkRYQiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkZaIiwiMTQwMyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 22:55"
+          },
+          "arrival_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-11 01:30"
+          },
+          "duration": 95,
+          "airplane": "Airbus A350",
+          "airline": "Emirates",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+          "travel_class": "Economy",
+          "flight_number": "EK 822",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 139 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-11 12:20"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 17:30"
+          },
+          "duration": 250,
+          "airplane": "Boeing 737",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 1403",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 499 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 650,
+          "name": "Dubai International Airport",
+          "id": "DXB",
+          "overnight": true
+        }
+      ],
+      "total_duration": 995,
+      "carbon_emissions": {
+        "this_flight": 639000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -8
+      },
+      "price": 4760,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hGU3pneU1ueEdXakUwTURNYUN3amdoaDBRQWhvRFUwRlNPQnh3Mk44SCIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRYQiIsbnVsbCwiRUsiLCI4MjIiXSxbIkRYQiIsIjIwMjYtMDEtMTEiLCJBTEEiLG51bGwsIkZaIiwiMTQwMyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 20:25"
+          },
+          "arrival_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-10 22:50"
+          },
+          "duration": 85,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 868",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 133 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-01-11 12:20"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 17:30"
+          },
+          "duration": 250,
+          "airplane": "Boeing 737",
+          "airline": "flydubai",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+          "travel_class": "Economy",
+          "flight_number": "FZ 1403",
+          "ticket_also_sold_by": [
+            "Emirates"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 499 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 810,
+          "name": "Dubai International Airport",
+          "id": "DXB",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1145,
+      "carbon_emissions": {
+        "this_flight": 633000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -9
+      },
+      "price": 5472,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FZ.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hHV2pnMk9IeEdXakUwTURNYUN3aUFzeUVRQWhvRFUwRlNPQnh3aFBRSSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRYQiIsbnVsbCwiRloiLCI4NjgiXSxbIkRYQiIsIjIwMjYtMDEtMTEiLCJBTEEiLG51bGwsIkZaIiwiMTQwMyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 22:30"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-10 23:35"
+          },
+          "duration": 65,
+          "airplane": "Airbus A330",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 1155",
+          "legroom": "34 in",
+          "extensions": [
+            "Above average legroom (34 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 100 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-11 19:10"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-12 01:30"
+          },
+          "duration": 260,
+          "airplane": "Airbus A320",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 389",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 594 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 1175,
+          "name": "Hamad International Airport",
+          "id": "DOH",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1500,
+      "carbon_emissions": {
+        "this_flight": 695000,
+        "typical_for_this_route": 692000,
+        "difference_percent": 0
+      },
+      "price": 5932,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hSVWpFeE5UVjhVVkl6T0RrYUN3aXdtaVFRQWhvRFUwRlNPQnh3NzlNSiIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxMTU1Il0sWyJET0giLCIyMDI2LTAxLTExIiwiQUxBIixudWxsLCJRUiIsIjM4OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 16:45"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-10 17:50"
+          },
+          "duration": 65,
+          "airplane": "Airbus A320",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 1153",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 100 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-10 19:10"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 01:30"
+          },
+          "duration": 260,
+          "airplane": "Airbus A320",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 389",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 594 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 80,
+          "name": "Hamad International Airport",
+          "id": "DOH"
+        }
+      ],
+      "total_duration": 405,
+      "carbon_emissions": {
+        "this_flight": 695000,
+        "typical_for_this_route": 692000,
+        "difference_percent": 0
+      },
+      "price": 6940,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3hSVWpFeE5UTjhVVkl6T0RrYUN3andyU29RQWhvRFUwRlNPQnh3NzZVTCIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxMTUzIl0sWyJET0giLCIyMDI2LTAxLTEwIiwiQUxBIixudWxsLCJRUiIsIjM4OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 22:45"
+          },
+          "arrival_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-01-11 01:00"
+          },
+          "duration": 75,
+          "airplane": "Airbus A321neo",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 574",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-01-11 02:40"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-01-11 07:30"
+          },
+          "duration": 200,
+          "airplane": "Airbus A320neo",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 212",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 356 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-01-11 12:10"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 15:10"
+          },
+          "duration": 210,
+          "airplane": "Airbus A320",
+          "airline": "Air Astana",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KC.png",
+          "travel_class": "Economy",
+          "flight_number": "KC 908",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 424 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 100,
+          "name": "Zayed International Airport",
+          "id": "AUH",
+          "overnight": true
+        },
+        {
+          "duration": 280,
+          "name": "Indira Gandhi International Airport",
+          "id": "DEL"
+        }
+      ],
+      "total_duration": 865,
+      "carbon_emissions": {
+        "this_flight": 891000,
+        "typical_for_this_route": 692000,
+        "difference_percent": 29
+      },
+      "price": 9692,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFaEZGV1RVM05IeEZXVEl4TW54TFF6a3dPQm9MQ1BDVE94QUNHZ05UUVZJNEhIQ2M0dzg9IixbWyJETU0iLCIyMDI2LTAxLTEwIiwiQVVIIixudWxsLCJFWSIsIjU3NCJdLFsiQVVIIiwiMjAyNi0wMS0xMSIsIkRFTCIsbnVsbCwiRVkiLCIyMTIiXSxbIkRFTCIsIjIwMjYtMDEtMTEiLCJBTEEiLG51bGwsIktDIiwiOTA4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2026-01-10 22:45"
+          },
+          "arrival_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-01-11 01:00"
+          },
+          "duration": 75,
+          "airplane": "Airbus A321neo",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 574",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-01-11 09:20"
+          },
+          "arrival_airport": {
+            "name": "Almaty International Airport",
+            "id": "ALA",
+            "time": "2026-01-11 14:30"
+          },
+          "duration": 250,
+          "airplane": "Airbus A320",
+          "airline": "Air Arabia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/3L.png",
+          "travel_class": "Economy",
+          "flight_number": "3L 781",
+          "ticket_also_sold_by": [
+            "Etihad"
+          ],
+          "extensions": [
+            "Carbon emissions estimate: 502 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 500,
+          "name": "Zayed International Airport",
+          "id": "AUH",
+          "overnight": true
+        }
+      ],
+      "total_duration": 825,
+      "carbon_emissions": {
+        "this_flight": 613000,
+        "typical_for_this_route": 692000,
+        "difference_percent": -11
+      },
+      "price": 12774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3RGV1RVM05Id3pURGM0TVJvTENOajdUUkFDR2dOVFFWSTRISENvNVJRPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkFVSCIsbnVsbCwiRVkiLCI1NzQiXSxbIkFVSCIsIjIwMjYtMDEtMTEiLCJBTEEiLG51bGwsIjNMIiwiNzgxIl1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 3468,
+    "price_level": "typical",
+    "typical_price_range": [
+      3400,
+      4500
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "DMM",
+            "name": "King Fahd International Airport"
+          },
+          "city": "Dammam",
+          "country": "Saudi Arabia",
+          "country_code": "SA",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNpP7PauTMe3Zldzh1PIrKY2jtT2QwSW4sKy0MbyNNQgAcFK8jG-OK4j3-mZBOg_cdXucDBJPL5RqkSA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjRiD_vLDu47tR5Yy0F107GxwXCj_eB48Rl3vmefeYgFmTYscIu2UmsMTlQ9e9KRFzIJl6fkxspDPHIGD9sYs8XExq6sTvcW1EoKXRD44"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "ALA",
+            "name": "Almaty International Airport"
+          },
+          "city": "Almaty",
+          "country": "Kazakhstan",
+          "country_code": "KZ",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1X7ChebI6AZH05L-RbqD2Hx-YcI8fkZtF0QFQ20xz-3Nzhtljktl2URqWDN24x_-h5z1ysTw96UgCA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIZzNr7B6RRSBT6eoF9Cg4zf421yOWNHx44ENJX5bBNHRhOD0Ob7QrLR9RfB_dJTTuED-JH_ke-WegLnHMufohFxY-jxJc4ZttNUDF6Tk"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "ALA",
+            "name": "Almaty International Airport"
+          },
+          "city": "Almaty",
+          "country": "Kazakhstan",
+          "country_code": "KZ",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1X7ChebI6AZH05L-RbqD2Hx-YcI8fkZtF0QFQ20xz-3Nzhtljktl2URqWDN24x_-h5z1ysTw96UgCA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIZzNr7B6RRSBT6eoF9Cg4zf421yOWNHx44ENJX5bBNHRhOD0Ob7QrLR9RfB_dJTTuED-JH_ke-WegLnHMufohFxY-jxJc4ZttNUDF6Tk"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "DMM",
+            "name": "King Fahd International Airport"
+          },
+          "city": "Dammam",
+          "country": "Saudi Arabia",
+          "country_code": "SA",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNpP7PauTMe3Zldzh1PIrKY2jtT2QwSW4sKy0MbyNNQgAcFK8jG-OK4j3-mZBOg_cdXucDBJPL5RqkSA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjRiD_vLDu47tR5Yy0F107GxwXCj_eB48Rl3vmefeYgFmTYscIu2UmsMTlQ9e9KRFzIJl6fkxspDPHIGD9sYs8XExq6sTvcW1EoKXRD44"
+        }
+      ]
+    }
+  ]
+}
