@@ -1,22 +1,30 @@
 import json
 from Flights.travel_flights_pipeline import run_flights
+from Activities.travel_things_pipeline import run_tripadvisor
 import time
 
 if __name__ == "__main__":
     user_text = (
-        "Book me from Dammam to Almaty for 2 adults from Jan 10/2026 to Jan 20/2026 cheapest and best options, "
+        "Book me from Dammam to Almmaty for 2 adults from Jan 10/2026 to Jan 20/2026 cheapest and best options, "
         "in price range of 250 to 400 SAR per night, with free cancellation and pool and Free Wi-Fi."
     )
 
     
     start = time.perf_counter()
     TopFlights = run_flights(user_text)
-    elapsed = time.perf_counter() - start
+    # things_to_do = run_tripadvisor("Almmaty", {"nature": 70, "old": 25, "modern": 5})
+    
+    
 
-    print(f"run_flights took {elapsed:.3f} seconds\n\n")
+    
+    # if things_to_do:
+    #     print(json.dumps(things_to_do, indent=2, ensure_ascii=False))
 
     if TopFlights:
         print(json.dumps(TopFlights, indent=2, ensure_ascii=False))
+    
+
+    
     
     # time tolck to run
     time_taken = time.perf_counter() - start

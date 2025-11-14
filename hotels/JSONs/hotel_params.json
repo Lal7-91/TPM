@@ -1,14 +1,12 @@
 {
   "engine": "google_hotels",
-  "q": "Hotels in Jeddah beach view",
-  "check_in_date": "2026-01-06",
-  "check_out_date": "2026-01-10",
-  "adults": "2",
+  "q": "Hotels in Almaty",
+  "check_in_date": "2026-01-10",
+  "check_out_date": "2026-01-20",
+  "adults": "1",
   "children": "0",
   "currency": "SAR",
   "gl": "sa",
   "hl": "en",
-  "min_price": "200",
-  "max_price": "1250",
   "api_key": ""
 }

@@ -1,33 +1,500 @@
 [
   {
-    "id": "ChoIkYPAr_r5lfewARoNL2cvMTFwNjQ1bWRxdhAB",
-    "name": "Four Points by Sheraton Jeddah Corniche",
-    "price": 654,
+    "id": "ChkI_biDhJCkmrxxGg0vZy8xMWI2Y19yX2w4EAE",
+    "name": "Almaty Grand Erbil Hotel",
+    "price": 50,
     "stars": 4,
-    "rating": 4.2,
-    "reviews": 3241,
-    "location_rating": 3.3,
+    "rating": 4,
+    "reviews": 825,
+    "location_rating": 3.7,
     "coordinates": {
-      "latitude": 21.7151122,
-      "longitude": 39.0996807
+      "latitude": 43.3367042,
+      "longitude": 76.9488525
     },
     "amenities": [
-      "Breakfast ($)",
+      "Free breakfast",
       "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
+      "Parking",
+      "Pools",
       "Hot tub",
       "Air conditioning",
       "Fitness center",
-      "Beach access",
+      "Spa",
+      "Bar",
       "Restaurant",
       "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "link": "http://granderbil.kz/",
+    "sponsored": null
+  },
+  {
+    "id": "ChcI1v6KhPHj7h4aDC9nLzEyamRmOTAyXxAB",
+    "name": "Shymbulak Resort Hotel",
+    "price": 131,
+    "stars": 3,
+    "rating": 4.7,
+    "reviews": 4436,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 43.12846,
+      "longitude": 77.08209649999999
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Pool",
+      "Bar",
+      "Restaurant",
+      "Kitchen in some rooms"
+    ],
+    "link": "http://shymbulakhotel.kz/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI57X4t-3ysYyrARoNL2cvMTFnOTAxYjNsdhAB",
+    "name": "Interhouse Almaty",
+    "price": 34,
+    "stars": 2,
+    "rating": 4.6,
+    "reviews": 242,
+    "location_rating": 3.5,
+    "coordinates": {
+      "latitude": 43.2101269,
+      "longitude": 76.90907109999999
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Restaurant",
+      "Airport shuttle",
+      "Kid-friendly"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkQna3q7pruophfGg0vZy8xMXc4MDR3aGZiEAI",
+    "name": "5:минут до метро",
+    "price": 145,
+    "stars": null,
+    "rating": 4.95,
+    "reviews": 8,
+    "location_rating": 3.3,
+    "coordinates": {
+      "latitude": 43.217838287353516,
+      "longitude": 76.89988708496094
+    },
+    "amenities": [
+      "Air conditioning",
+      "Elevator",
+      "Heating",
+      "Ironing board",
+      "Kitchen",
+      "Microwave",
+      "Oven stove",
+      "Smoke-free",
+      "Cable TV",
+      "Washer",
+      "Wheelchair accessible"
+    ],
+    "link": "https://www.booking.com/hotel/kz/5-minut-do-metro-almaty.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12080490_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12080490;utm_campaign=en",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIqsmc08Kn1ahnGg0vZy8xMXR4ZnN0MHk4EAE",
+    "name": "Wanderlust Hostel",
+    "price": 48,
+    "stars": null,
+    "rating": 4.2,
+    "reviews": 73,
+    "location_rating": 4.6,
+    "coordinates": {
+      "latitude": 43.2491639,
+      "longitude": 76.96019559999999
+    },
+    "amenities": [],
+    "link": "https://www.booking.com/hotel/kz/wanderlust-hostel-riverside.ru.html",
+    "sponsored": null
+  },
+  {
+    "id": "ChkItavWuKyevJw8Gg0vZy8xMXduNnludGNqEAE",
+    "name": "Center Capsule Hostel",
+    "price": 41,
+    "stars": null,
+    "rating": 3.6,
+    "reviews": 24,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 43.263157799999995,
+      "longitude": 76.9310709
+    },
+    "amenities": [],
+    "link": "http://cch.travel/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIz6aJj9LE2PZiGg0vZy8xMWpzazRmdmtfEAE",
+    "name": "AQ Capsule Hotel",
+    "price": 80,
+    "stars": null,
+    "rating": 4.8,
+    "reviews": 75,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 43.2631387,
+      "longitude": 76.9389395
+    },
+    "amenities": [],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkI8cuCstyYhaiHARoML2cvMTF4ZDZwdG1sEAE",
+    "name": "Astana Hotel",
+    "price": 79,
+    "stars": 3,
+    "rating": 3.4,
+    "reviews": 302,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 43.252439599999995,
+      "longitude": 76.9030198
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Restaurant",
+      "Kid-friendly"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoIx-7d6bOzjrSUARoNL2cvMTF5NDN2a2M2dxAB",
+    "name": "AYKUN Terrenkur Almaty",
+    "price": 248,
+    "stars": null,
+    "rating": 4,
+    "reviews": 22,
+    "location_rating": 3.6,
+    "coordinates": {
+      "latitude": 43.2282338,
+      "longitude": 76.9645118
+    },
+    "amenities": [],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChkQkq6FnZTjjLUtGg0vZy8xMW1ja3RmN2ZnEAI",
+    "name": "Downtown",
+    "price": 139,
+    "stars": null,
+    "rating": 4.95,
+    "reviews": 8,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 43.261138916015625,
+      "longitude": 76.92363739013672
+    },
+    "amenities": [
+      "Air conditioning",
+      "Airport shuttle",
+      "Kid-friendly",
+      "Crib",
+      "Elevator",
+      "Fitness center",
+      "Heating",
+      "Ironing board",
+      "Kitchen",
+      "Microwave",
+      "Oven stove",
+      "Smoke-free",
+      "Cable TV",
+      "Washer",
+      "Wheelchair accessible",
+      "Free parking"
+    ],
+    "link": "https://www.bluepillow.com/search/65c9f205671b07d23c68e698?dest=bkng&cat=Apartment&lat=43.26114&lng=76.92364&language=en",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI6bPLnr6YpPo4Gg0vZy8xMWJ3MXh0eXZ2EAE",
+    "name": "Ramada by Wyndham Almaty",
+    "price": 407,
+    "stars": 4,
+    "rating": 4.4,
+    "reviews": 2316,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 43.2560085,
+      "longitude": 76.9240832
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
       "Full-service laundry",
       "Accessible",
       "Business center",
+      "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "https://www.marriott.com/en-us/hotels/jedfo-four-points-jeddah-corniche/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "link": "https://www.wyndhamhotels.com/ramada/almaty-kazakhstan/ramada-almaty/overview?CID=LC:wmcic5n98gs1g0r:46427&iata=00093796",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIucPMrPnHlO_rARoNL2cvMTFmeTUzcmI1YhAB",
+    "name": "Rabat Hotel",
+    "price": 108,
+    "stars": 3,
+    "rating": 4,
+    "reviews": 124,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 43.2551547,
+      "longitude": 76.91928109999999
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Kid-friendly"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChgI9di5raLs5Mc9GgwvZy8xMXhrYjM5ZGgQAQ",
+    "name": "Uyut",
+    "price": 316,
+    "stars": 4,
+    "rating": 4.5,
+    "reviews": 1811,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 43.2599148,
+      "longitude": 76.9337451
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.hotel-uyut.kz/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI9vKB2tPqrrpPGg0vZy8xMXRoaDR5NXpoEAE",
+    "name": "Almaty Backpackers",
+    "price": 36,
+    "stars": null,
+    "rating": 4.2,
+    "reviews": 222,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 43.2321625,
+      "longitude": 76.9280922
+    },
+    "amenities": [
+      "Free Wi-Fi"
+    ],
+    "link": null,
+    "sponsored": null
+  },
+  {
+    "id": "ChoIpcmc5uqe8_b5ARoNL2cvMTFnMGduMmhjMhAB",
+    "name": "Resident Hotel Almaty",
+    "price": 183,
+    "stars": 3,
+    "rating": 4.4,
+    "reviews": 297,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 43.2898189,
+      "longitude": 76.9330887
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://resident-hotels.com/resident-hotel-almaty",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI9NL9u93uwcvlARoNL2cvMTFqMHMyMDRqZhAB",
+    "name": "Resident City Hotel",
+    "price": 258,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 519,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 43.268709,
+      "longitude": 76.9376228
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Smoke-free property"
+    ],
+    "link": "https://resident-hotels.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIoqyAvbqYvOafARoNL2cvMTFjbV9odDY3dBAB",
+    "name": "Tau House Spa Dastarhan Hotel",
+    "price": 452,
+    "stars": 4,
+    "rating": 4.6,
+    "reviews": 160,
+    "location_rating": 3.0,
+    "coordinates": {
+      "latitude": 43.1176927,
+      "longitude": 76.913814
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Spa",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "link": "https://tau24.kz/hotel/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIiuzO4qr89bKyARoNL2cvMTF5MmNyd3I1ZxAB",
+    "name": "Regardal Hotel",
+    "price": 194,
+    "stars": 4,
+    "rating": 3.2,
+    "reviews": 163,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 43.236748,
+      "longitude": 76.92712399999999
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Spa",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "link": "http://regardalhotel.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI366vkJuhmZnCARoML2cvMTF4YzY1NHc5EAE",
+    "name": "Alma Hotel",
+    "price": 197,
+    "stars": 3,
+    "rating": 4.2,
+    "reviews": 451,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 43.243919299999995,
+      "longitude": 76.9612121
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "http://www.hotelalma.kz/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIi_Tlvdj1m_alARoNL2cvMTFkXzFubjB4eBAB",
+    "name": "Salut Hotel Almaty",
+    "price": 215,
+    "stars": 4,
+    "rating": 4.2,
+    "reviews": 681,
+    "location_rating": 2.7,
+    "coordinates": {
+      "latitude": 43.2402606,
+      "longitude": 76.8199424
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pool",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "link": "http://www.saluthotel.kz/",
     "sponsored": null
   }
 ]

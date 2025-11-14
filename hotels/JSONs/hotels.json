@@ -1,32 +1,30 @@
 {
   "search_metadata": {
-    "id": "6912de1b7af899519a4bcb07",
+    "id": "691775b35604337b6cf4db76",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/5fd618575d5a3ad1/6912de1b7af899519a4bcb07.json",
-    "created_at": "2025-11-11T06:56:27.160Z",
-    "processed_at": "2025-11-11T06:56:27.161Z",
+    "json_endpoint": "https://serpapi.com/searches/5fd618575d5a3ad1/691775b35604337b6cf4db76.json",
+    "created_at": "2025-11-14T18:32:19.006Z",
+    "processed_at": "2025-11-14T18:32:19.007Z",
     "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=sa&rt=c&soc-app=162&soc-platform=1&soc-device=1",
-    "raw_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/6912de1b7af899519a4bcb07.html",
-    "prettify_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/6912de1b7af899519a4bcb07.prettify",
+    "raw_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/691775b35604337b6cf4db76.html",
+    "prettify_html_file": "https://serpapi.com/searches/5fd618575d5a3ad1/691775b35604337b6cf4db76.prettify",
     "total_time_taken": {
-      "float": 2.1613717079162598
+      "float": 4.75625205039978
     }
   },
   "search_parameters": {
     "engine": "google_hotels",
-    "q": "Hotels in Jeddah beach view",
+    "q": "Hotels in Almaty",
     "gl": "sa",
     "hl": "en",
     "currency": "SAR",
-    "check_in_date": "2026-01-06",
-    "check_out_date": "2026-01-10",
-    "adults": 2,
-    "children": 0,
-    "min_price": "200",
-    "max_price": "1250"
+    "check_in_date": "2026-01-10",
+    "check_out_date": "2026-01-20",
+    "adults": 1,
+    "children": 0
   },
   "search_information": {
-    "total_results": 1
+    "total_results": 7776
   },
   "brands": [
     {
@@ -34,24 +32,16 @@
       "name": "Accor Live Limitless",
       "children": [
         {
-          "id": 15,
-          "name": "Adagio"
-        },
-        {
           "id": 21,
           "name": "Ibis"
         },
         {
-          "id": 276,
-          "name": "M\u00f6venpick"
+          "id": 91,
+          "name": "Mercure"
         },
         {
           "id": 47,
           "name": "Novotel"
-        },
-        {
-          "id": 268,
-          "name": "Raffles"
         },
         {
           "id": 5,
@@ -74,48 +64,12 @@
       ]
     },
     {
-      "id": 20,
-      "name": "Choice Hotels",
-      "children": [
-        {
-          "id": 29,
-          "name": "Clarion"
-        },
-        {
-          "id": 27,
-          "name": "Comfort"
-        }
-      ]
-    },
-    {
       "id": 28,
       "name": "Hilton Honors",
       "children": [
         {
-          "id": 151,
-          "name": "Curio Collection"
-        },
-        {
-          "id": 54,
-          "name": "Hilton Hotels & Resorts"
-        },
-        {
-          "id": 41,
-          "name": "Waldorf Astoria"
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Hyatt",
-      "children": [
-        {
-          "id": 120,
-          "name": "Hyatt House"
-        },
-        {
-          "id": 118,
-          "name": "Park Hyatt"
+          "id": 81,
+          "name": "DoubleTree by Hilton"
         }
       ]
     },
@@ -124,20 +78,26 @@
       "name": "IHG Hotels & Resorts",
       "children": [
         {
-          "id": 42,
-          "name": "Crowne Plaza"
-        },
-        {
           "id": 64,
           "name": "Holiday Inn"
         },
         {
-          "id": 2,
-          "name": "InterContinental Hotels & Resorts"
+          "id": 56,
+          "name": "Holiday Inn Express"
         },
         {
-          "id": 298,
-          "name": "Voco"
+          "id": 2,
+          "name": "InterContinental Hotels & Resorts"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Louvre Hotels",
+      "children": [
+        {
+          "id": 244,
+          "name": "Royal Tulip"
         }
       ]
     },
@@ -146,38 +106,8 @@
       "name": "Marriott Bonvoy",
       "children": [
         {
-          "id": 256,
-          "name": "Edition"
-        },
-        {
-          "id": 135,
-          "name": "Four Points by Sheraton"
-        },
-        {
-          "id": 61,
-          "name": "Marriott Hotels & Resorts"
-        },
-        {
           "id": 3,
           "name": "Ritz-Carlton Hotel Company"
-        },
-        {
-          "id": 12,
-          "name": "Sheraton Hotels and Resorts"
-        },
-        {
-          "id": 143,
-          "name": "The Luxury Collection"
-        }
-      ]
-    },
-    {
-      "id": 353,
-      "name": "OYO",
-      "children": [
-        {
-          "id": 99,
-          "name": "OYO Rooms"
         }
       ]
     },
@@ -186,26 +116,8 @@
       "name": "Radisson Hotel Group",
       "children": [
         {
-          "id": 132,
-          "name": "Park Inn by Radisson"
-        },
-        {
-          "id": 79,
-          "name": "Radisson Blu"
-        },
-        {
           "id": 391,
           "name": "Radisson Individuals"
-        }
-      ]
-    },
-    {
-      "id": 436,
-      "name": "Rotana Hotels",
-      "children": [
-        {
-          "id": 440,
-          "name": "Centro Hotels"
         }
       ]
     },
@@ -222,165 +134,130 @@
   ],
   "ads": [
     {
-      "name": "Crown Town Hotel",
+      "name": "Hostel 64",
       "source": "Booking.com",
       "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQCxoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YASABEgJUUvD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_0nDGmZgdv5QIa-DFvjhRIcB88m3Q&adurl=",
-      "property_token": "CgsI6P-vsdLokaatARAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgsI6P-vsdLokaatARAB&q=Hotels+in+Jeddah+beach+view",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQDRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YASABEgK4NPD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_05QPsfLSLSLf_mB2-H3-im1KYFiw&adurl=",
+      "property_token": "CgoIpcm9hcGxj-QIEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgoIpcm9hcGxj-QIEAE&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.502557,
-        "longitude": 39.165863
+        "latitude": 43.254649,
+        "longitude": 76.945717
+      },
+      "hotel_class": 2,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/9nua6EPzACZFWmr6PFsl2fO-P4670nTqDXLZuNU_njZymX-EjLB5katkM4njinvbDIGc3et4XfQR3MlQkw3It3W6nreDj48BCdkm1vWTbQXEzE_JIKr3U2TCtXiOskyi5dXsU-gI-o3HDnqty5PSKAoD17gQow=w273-h150-k-no",
+      "overall_rating": 4.5,
+      "reviews": 173,
+      "price": "SAR\u00a039",
+      "extracted_price": 39,
+      "amenities": [
+        "Air conditioning"
+      ]
+    },
+    {
+      "name": "Golden Palace Hotel Almaty",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQBxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YAiABEgKxpPD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_1M8t212Jdr_FRWMECZQ_AsHcfveA&adurl=",
+      "property_token": "CgoI3Myvgq3Tot4dEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgoI3Myvgq3Tot4dEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.250477,
+        "longitude": 76.926536
       },
       "hotel_class": 4,
-      "thumbnail": "https://lh4.googleusercontent.com/proxy/FAVxgHDVZPRRYZnqMvzjWQs3frgqN2eYihhZmf1oDzwT4tjQCMvpbnSR2OslWTJNnDJosWox8UUrIXRyPqhJtoPti9fkx6G9_RJEPe0pCY6wBrYUIbQggPRUZmDYqkiX9NCMI3hDcZJ9rStq362-XCpg88fOYO4=w247-h150-k-no",
-      "overall_rating": 4,
-      "reviews": 2658,
-      "price": "SAR\u00a0293",
-      "extracted_price": 293,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/v8Iuv_urim9czkpmLQ7UsdSyfPFILTruUpXmB9VHy-ldv6YrarL4xr8Ua71fHqRCSersZ_gDtwUbWYyKzI1E8dSkWgPal0DJDf1Elde29A5E-PtQ1eLeZ5Y0c-fed8Qf9pHBHbEF9P59H5XNQGU2UOgeSum7JcY=w273-h150-k-no",
+      "overall_rating": 3.9,
+      "reviews": 509,
+      "price": "SAR\u00a0206",
+      "extracted_price": 206,
       "amenities": [
-        "Pool",
         "Kid-friendly",
         "Restaurant",
+        "Bar",
+        "Airport shuttle",
+        "Free breakfast",
+        "Air conditioning"
+      ]
+    },
+    {
+      "name": "Grand Hotel Tien-Shan",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YAyABEgK_8fD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_3T4oAyoNKFM99pn-8OAagqaAh6Mg&adurl=",
+      "property_token": "CgoIy_ql_tGlgakDEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgoIy_ql_tGlgakDEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2536,
+        "longitude": 76.94894
+      },
+      "hotel_class": 4,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/ayVQDoOmx9hk8Wcae0FvxLP4F4J9ZPt2AwjaWYeGV5qTstzs7yDPSpyeQWeZDbpHzHAsbiJ020jeEDQMpGb2xj7C6nvS_ndKjPyD06g26r0R06S7flK3JywIwr86FnTMtVAgyfc_E5mJ4v7e4A3JCNklHKsFpQ=w226-h150-k-no",
+      "overall_rating": 4.5,
+      "reviews": 1107,
+      "price": "SAR\u00a0245",
+      "extracted_price": 245,
+      "amenities": [
+        "Hot tub",
+        "Spa",
+        "Pool",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
         "Room service",
         "Airport shuttle",
         "Fitness center",
-        "Outdoor pool",
         "Free breakfast",
         "Air conditioning"
       ],
       "free_cancellation": true
     },
     {
-      "name": "Holiday Inn Jeddah Corniche by IHG",
-      "source": "Holiday Inn Jeddah Corniche by IHG",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/4864225593847480026.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQBRoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YAiABEgLNSfD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_3SMP8gh8oexIvzFCeRy7aL0v7yaQ&adurl=",
-      "property_token": "CgoIiPHciIWHhOIEEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgoIiPHciIWHhOIEEAE&q=Hotels+in+Jeddah+beach+view",
+      "name": "Holiday Inn Almaty",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQERoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YBCABEgK1GPD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_33asrKWaicfj0PPu1qMptcV65GrA&adurl=",
+      "property_token": "CgsIzeSVicKrvpK1ARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgsIzeSVicKrvpK1ARAB&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.506054,
-        "longitude": 39.165822
+        "latitude": 43.233242,
+        "longitude": 76.939229
       },
       "hotel_class": 4,
-      "thumbnail": "https://lh3.googleusercontent.com/proxy/SjE7TCFWrmm5U22QE_kHJ0BZnIK6IJmMO_aOEWowTV0MGGE38x8l_ET-ekROicFgGb8G3NpdZQzwGJp0t6gf3dAYktZMc727PUMYuPKCnGQLSYKtAtcrzTZjI4XjYacyjPkyO-iHb2HHGoONXiGNrg7NdE7PLw=w267-h150-k-no",
-      "overall_rating": 4.6,
-      "reviews": 1102,
-      "price": "SAR\u00a0509",
-      "extracted_price": 509,
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/KimpxZgWArfXC2eUXYDwTcNqZcoi7-lc8VjcAtPZ5C5XwIySa84l5qPONgv14QtbAMAP0SSljj7LgbdH6LpZy9dC-cEd3B9mUKnU2DUis2ECDOiiiHvzTNvzFgpxPe9UvrDuXFJ1WTCJSgL63Lz_Fck6RcXAakc=w265-h150-k-no",
+      "overall_rating": 4.3,
+      "reviews": 2597,
+      "price": "SAR\u00a0302",
+      "extracted_price": 302,
       "amenities": [
-        "Pool",
         "Kid-friendly",
         "Restaurant",
-        "Room service",
-        "Fitness center",
-        "Outdoor pool",
-        "Air conditioning"
-      ]
-    },
-    {
-      "name": "voco Jeddah Gate by IHG",
-      "source": "voco Jeddah Gate by IHG",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/5654877513765806273.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQDRoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YAyABEgJkyvD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_31KXLV7Qv6uZ3tHukbOEdwwNLb-g&adurl=",
-      "property_token": "CgsIsPDKw6X2nfHUARAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgsIsPDKw6X2nfHUARAB&q=Hotels+in+Jeddah+beach+view",
-      "gps_coordinates": {
-        "latitude": 21.50593,
-        "longitude": 39.20654
-      },
-      "hotel_class": 4,
-      "thumbnail": "https://lh3.googleusercontent.com/proxy/ZHtbRGuNjtCdOSEM__u6B_6zEmI9lxBQckig03CGgcJtTNKlIysjsFH7UYDomfPEycv7xw9GKRiujP-AHU0cBJrKngpvyU1ETFNlcucTfR-bJKR3LFZWz8AsrG6G-t_wNThTlPD1O9xAZPxQpa2wkbyXECKMEHA=w203-h150-k-no",
-      "overall_rating": 4.7,
-      "reviews": 1540,
-      "price": "SAR\u00a0442",
-      "extracted_price": 442,
-      "amenities": [
-        "Hot tub",
-        "Pool",
-        "Kid-friendly",
-        "Restaurant",
-        "Room service",
-        "Fitness center",
-        "Outdoor pool",
-        "Air conditioning"
-      ]
-    },
-    {
-      "name": "Crowne Plaza Jeddah al Salam by IHG",
-      "source": "Crowne Plaza Jeddah al Salam by IHG",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/10240345193364607657.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQAxoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YBCABEgL1p_D_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_2GPH2hx0cg4OtfBVnZK_YKo6Cq0Q&adurl=",
-      "property_token": "CgoIyczItPThw8J0EAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgoIyczItPThw8J0EAE&q=Hotels+in+Jeddah+beach+view",
-      "gps_coordinates": {
-        "latitude": 21.667645,
-        "longitude": 39.122034
-      },
-      "thumbnail": "https://lh4.googleusercontent.com/proxy/yb2ssmOfqyW9e0BwS_dsT2qwOS3vjYAx8IWes2SQdD6JC65usBNAfRqa_-lbA_ZrA8-oHOr8-e1qZbZUApFNqqhIklOhGfzSjVu5fXDFFSjBj_aKTonu1lCYbJktqiyhXT9n8Gg489QrvNiNyMbafcjXNN3LFvE=w225-h150-k-no",
-      "overall_rating": 4.9,
-      "reviews": 11262,
-      "price": "SAR\u00a0704",
-      "extracted_price": 704,
-      "amenities": [
-        "Spa",
-        "Pool",
-        "Kid-friendly",
-        "Restaurant",
-        "Room service",
-        "Fitness center",
-        "Outdoor pool",
-        "Air conditioning"
-      ]
-    },
-    {
-      "name": "Crowne Plaza Jeddah by IHG",
-      "source": "Crowne Plaza Jeddah by IHG",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/10240345193364607657.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQBxoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YBSABEgJsWfD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_35cryrsaeH9s6y4JfqGBZO2hGRwA&adurl=",
-      "property_token": "CgoI6pbdg-7AifxzEAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgoI6pbdg-7AifxzEAE&q=Hotels+in+Jeddah+beach+view",
-      "gps_coordinates": {
-        "latitude": 21.517424,
-        "longitude": 39.155826
-      },
-      "hotel_class": 5,
-      "thumbnail": "https://lh6.googleusercontent.com/proxy/uT3hQL6Fqy5-eh-5IvkXqsBUbtjAaSq7yzC3WMskRvf1OFLw9BGBgOuDhBVMrHRwBw8uxvk9R66gQw10s1LxqAgxVJgsJLeNYZ_l3zDHc0FONSRJEb8l-COgtEw0Jn9ibng5SaOT3cmpvVY7R5rKq5XdXmHPE2Q=w225-h150-k-no",
-      "overall_rating": 4.5,
-      "reviews": 8682,
-      "price": "SAR\u00a0537",
-      "extracted_price": 537,
-      "amenities": [
-        "Hot tub",
-        "Spa",
-        "Pool",
-        "Kid-friendly",
-        "Restaurant",
+        "Bar",
         "Room service",
         "Airport shuttle",
+        "Golf",
         "Fitness center",
-        "Outdoor pool",
         "Air conditioning"
-      ],
-      "free_cancellation": true
+      ]
     },
     {
-      "name": "InterContinental Jeddah by IHG",
-      "source": "InterContinental Jeddah by IHG",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/8621728485584542106.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQERoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YBiABEgLOCfD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_3TNwV4jFeez6Oqr2mvebxcfEXJnQ&adurl=",
-      "property_token": "CgsI0p-Foc2U0ZSfARAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgsI0p-Foc2U0ZSfARAB&q=Hotels+in+Jeddah+beach+view",
+      "name": "Almaty Grand Erbil Hotel",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YBSABEgLbbvD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_2LDLyo37TFGpF-7Ol2cKeZNA6sPA&adurl=",
+      "property_token": "CgoI_biDhJCkmrxxEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgoI_biDhJCkmrxxEAE&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.515629,
-        "longitude": 39.155746
+        "latitude": 43.336704,
+        "longitude": 76.948852
       },
-      "hotel_class": 5,
-      "thumbnail": "https://lh3.googleusercontent.com/proxy/7B1AuldXE2adWoOx_MXMmmlrehHoA-mpftm8z-CDkfgP5jpKE9N4yfzEx4g2hyvKagc8ZMOKz_Rf4YfvfMGzosaNR6YMiWaXB1n8GZbg7MAkuuK-E3xI0fzqYcOGJaE2PlCQ0tWkvSy_Wx8UC6V88wZpn0rdzw=w225-h150-k-no",
-      "overall_rating": 4.4,
-      "reviews": 9088,
-      "price": "SAR\u00a0744",
-      "extracted_price": 744,
+      "hotel_class": 4,
+      "thumbnail": "https://lh3.googleusercontent.com/proxy/QBvvZFsKpcqtRayPiOjujbdntJgKnXXjMo4HWOllv8i4blcNaTwuUntFADOUNTdALObHEEQYWqjX7eaXUVJXXwV8T6trsVNCcyBhVYwfgiM4mQ31kdn_Mz3KI6oV-yO8nTIqfeESKC9d3D7G-oCnAxNjEsm2tPU=w200-h150-k-no",
+      "overall_rating": 4,
+      "reviews": 825,
+      "price": "SAR\u00a0200",
+      "extracted_price": 200,
       "amenities": [
         "Hot tub",
         "Spa",
@@ -394,88 +271,106 @@
         "Outdoor pool",
         "Free breakfast",
         "Air conditioning"
-      ]
+      ],
+      "free_cancellation": true
     },
     {
-      "name": "Palm Boutique Hotel",
-      "source": "Hotels.com",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQCRoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YByABEgID3_D_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_3q7Sjf9R-CcaTP2ivFHEI8g3KsFA&adurl=",
-      "property_token": "CgoI0PHA-86n9YM_EAE",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgoI0PHA-86n9YM_EAE&q=Hotels+in+Jeddah+beach+view",
+      "name": "Premier Alatau hotel and business center",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQAxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YBiABEgI4gvD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_1sPyRVhPsYyHHDSkww8VyggMFGgA&adurl=",
+      "property_token": "CgsI9tqEhMiGrerIARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgsI9tqEhMiGrerIARAB&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.619671,
-        "longitude": 39.147689
+        "latitude": 43.225547999999996,
+        "longitude": 76.961002
       },
       "hotel_class": 3,
-      "thumbnail": "https://lh4.googleusercontent.com/proxy/k9MNiLeVYNWs0OrOZLSX-a99WBl_OM_4eqk8nDGtHiLAPSWeuJDvBNAJ1yskt9HBiEuXjvvPeUz30uxMNhnEKK1CaXadw9X6CTmlKh2o4ZnT-1twp-IgE54QVOxoy-PmxZairjLgpCLyGOUM-l3SB-EoorSfzI4=w226-h150-k-no",
-      "overall_rating": 4,
-      "reviews": 992,
-      "price": "SAR\u00a0201",
-      "extracted_price": 201,
+      "thumbnail": "https://lh4.googleusercontent.com/proxy/fq-uYIJDuSjd8-p-i7wMarqm4QxzMMeKd90b_j7HMHN116FZVO_lfSjdWff-5krAuyLwn2qsJpTZ3X1u7Nu0DraNzJmoiZZs2W2P4xPy2bd59SffRlKisodaerPP7Aq7AWPs9zYJGgK-tKIulBrXunltYtUXVqk=w225-h150-k-no",
+      "overall_rating": 4.1,
+      "reviews": 989,
+      "price": "SAR\u00a0278",
+      "extracted_price": 278,
       "amenities": [
         "Kid-friendly",
         "Restaurant",
-        "Room service",
+        "Airport shuttle",
+        "Free breakfast",
         "Air conditioning"
       ],
       "free_cancellation": true
     },
     {
-      "name": "Radisson Blu Hotel, Jeddah Plaza",
-      "source": "Hotels.com",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQDxoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YCCABEgLk7_D_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_0g0w49BQaqIfuOWcgxjLC1OZW_vA&adurl=",
-      "property_token": "CgsI6JabusWa5_zAARAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgsI6JabusWa5_zAARAB&q=Hotels+in+Jeddah+beach+view",
+      "name": "Astana International Hotel",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQBRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YByABEgKqzvD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_3Vvu1TUoHKuJO4sB8IYt8dEbc6-A&adurl=",
+      "property_token": "CgsIp4rP28qp6LCzARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgsIp4rP28qp6LCzARAB&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.511266,
-        "longitude": 39.22747
+        "latitude": 43.237615999999996,
+        "longitude": 76.92710799999999
       },
       "hotel_class": 4,
-      "thumbnail": "https://lh4.googleusercontent.com/proxy/RhJBkUQtVPkUbIYDvC0N1K5wKJvLcoLDBLcMOqSLyLSe5iZVeHTON8nwn0PpiBs7hd4A7ccQnj05kvfX9CZZ-Ke332brk50UmBH-AEANwwUSBfpgd0NB50jcrqqnE9rze_-e4rByBjurGBmAIkt9se91cKNjYHw=w225-h150-k-no",
-      "overall_rating": 4.3,
-      "reviews": 5507,
-      "price": "SAR\u00a0390",
-      "extracted_price": 390,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/my51L1TOFNx8fuIZ14wBKSfWe2BPP8JE02-HAW3xzVFXzKuNL7kl7gV0ZOAM2S75JSrTS2mny2W6prmWiNzUw7O3XdsE7P2RvA80PVqu2dEE24jRNpkyoBWyw5KFi_dovGqWUXjwmExTauCahWKlVm8te2ONMQ=w150-h225-k-no",
+      "overall_rating": 3.9,
+      "reviews": 1154,
+      "price": "SAR\u00a0196",
+      "extracted_price": 196,
       "amenities": [
-        "Spa",
-        "Pool",
+        "Pet-friendly",
         "Kid-friendly",
         "Restaurant",
-        "Room service",
+        "Bar",
         "Airport shuttle",
         "Fitness center",
-        "Outdoor pool",
+        "Free breakfast",
         "Air conditioning"
       ],
       "free_cancellation": true
     },
     {
-      "name": "Four Points by Sheraton Jeddah Corniche",
-      "source": "Hotels.com",
-      "source_icon": "https://www.gstatic.com/travel-hotels/branding/f358dd45-ebd1-4af8-988d-d53154b73975.png",
-      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjn-amtwumQAxX4Cq0GHYXUFaMYACICCAEQARoCcHY&co=1&ase=2&gclid=EAIaIQobChMI5_mprcLpkAMV-AqtBh2F1BWjEA0YCSABEgIRKfD_BwE&cid=CAASuwHkaBet08IDf959J9pP97n2Lf1Mk9MAT1z4rz9K7RwY0uPJfxB8-JRfxibXA4ovGfYkZ4PzVmhpkooYJE-_mYYi1S2cPbTMDAlcgN3wr7fO5iy-mHkx5CTN2QC1MbTAy6XXkQfBEv-nzdG9gwzQmBkJTt6KR0HKCuhhJVOE1T-Asp3psLsI8njYlUmWdlUsrvtm7SfsS-5nNDAHyzA2FV9HKCAwM4FMCFdWHopqipKSqmvNn2z4xY7nyGiO&category=acrcp_v1_48&sig=AOD64_3tyABQ6HBzKBKmN0hu1wBAMM-EdQ&adurl=",
-      "property_token": "CgsIkYPAr_r5lfewARAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=CgsIkYPAr_r5lfewARAB&q=Hotels+in+Jeddah+beach+view",
+      "name": "Silk Way",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQDxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YCCABEgKyOPD_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_1PnFNk9sN7KvwPKAdmaobZj-Fl-g&adurl=",
+      "property_token": "CgsIysz8qa7LoYqQARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgsIysz8qa7LoYqQARAB&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.715111999999998,
-        "longitude": 39.099681
+        "latitude": 43.253975,
+        "longitude": 76.936989
       },
-      "hotel_class": 4,
-      "thumbnail": "https://lh4.googleusercontent.com/proxy/cVuKtxS8claSQq5jT8Wn_iEns2ZSBPBW3jy5dYsajpNo0kqvgG3pIkDVV6LUQzsM7DEDZi5CBq3piJTifassrCB45PoeE6UZK0Zq_OE_b1VeZ1ZF3OUAzXDfS-sLwhYuT1yCdh506Ogwam1ZRvtba7IEaCgKql4=w150-h225-k-no",
-      "overall_rating": 4.2,
-      "reviews": 3241,
-      "price": "SAR\u00a0542",
-      "extracted_price": 542,
+      "hotel_class": 3,
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/LPPYMijiCk5RjLhdzTr-pWNkfb05XtVxqnn29MerkDPy6nXyJcoEa5BOAB-DVq38iSpTKxhfgNYC2D5EYF5I5tK9dK6B95TRkaznHOZM_kkvmtvjNRZ1hgWU-qqcNEbfzliJzyjYUXjCKXyimnwA3lY29tZ6ew=w273-h150-k-no",
+      "overall_rating": 4.3,
+      "reviews": 222,
+      "price": "SAR\u00a0143",
+      "extracted_price": 143,
       "amenities": [
-        "Hot tub",
-        "Beach access",
-        "Pool",
+        "Kid-friendly",
         "Restaurant",
-        "Room service",
-        "Fitness center",
-        "Outdoor pool",
+        "Free breakfast",
+        "Air conditioning"
+      ],
+      "free_cancellation": true
+    },
+    {
+      "name": "Esentai Hostel",
+      "source": "Booking.com",
+      "source_icon": "https://www.gstatic.com/travel-hotels/branding/icon_184.png",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChsSEwjXk5y_o_KQAxUZcX8AHd1HFPEYACICCAEQCxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI15Ocv6PykAMVGXF_AB3dRxTxEA0YCSABEgLHS_D_BwE&cid=CAASlwHkaHMjfa1F1c_uQbKttNv7lsdyaRW-FuLy9wOR0qJfXc961LcrAtCNcdHpurI46_0uDG2uHpRWKgghcXteqsu-eyoqhA6Wo2uFYpq4jqivepJZhApAwd9GyGlAwxGRppGWPeFVUWRJDt_5LBCeIloqOc2mz8PVp5GI17qCGJ7VcNJcvnY8HS9OnWw3JUNTBPfrbjwVkqdy&category=acrcp_v1_48&sig=AOD64_3E1xaeC85KeQOHOdNsE9AKPnRGig&adurl=",
+      "property_token": "CgsI35Wkjcfll96NARAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=CgsI35Wkjcfll96NARAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.246855,
+        "longitude": 76.918297
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/proxy/JTG5XiuBcNUs8IOWaDiX9iB4udgDLodLaoKNYnQTagSHH5xUev6LjmpIdvhXHzfVqvaiDJ6LlzsMLDY8q5HsmAxm22tpX0DEMV-yEOq3Z7WV0B2UuBoSCzz4pqDAXa-wmyrdXj-OQgq2Joc3geZMuqXYjdmZwA=w273-h150-k-no",
+      "overall_rating": 4.2,
+      "reviews": 145,
+      "price": "SAR\u00a037",
+      "extracted_price": 37,
+      "amenities": [
         "Air conditioning"
       ],
       "free_cancellation": true
@@ -484,41 +379,2510 @@
   "properties": [
     {
       "type": "hotel",
-      "name": "Four Points by Sheraton Jeddah Corniche",
-      "description": "Polished quarters in an upmarket hotel offering an outdoor pool & a gym, plus a cafe & a restaurant.",
-      "link": "https://www.marriott.com/en-us/hotels/jedfo-four-points-jeddah-corniche/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-      "property_token": "ChoIkYPAr_r5lfewARoNL2cvMTFwNjQ1bWRxdhAB",
-      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2026-01-06&check_out_date=2026-01-10&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&max_price=1250&min_price=200&property_token=ChoIkYPAr_r5lfewARoNL2cvMTFwNjQ1bWRxdhAB&q=Hotels+in+Jeddah+beach+view",
+      "name": "Almaty Grand Erbil Hotel",
+      "description": "Relaxed hotel featuring a restaurant & a free airport shuttle, plus a spa with a sauna & a pool.",
+      "link": "http://granderbil.kz/",
+      "property_token": "ChkI_biDhJCkmrxxGg0vZy8xMWI2Y19yX2w4EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkI_biDhJCkmrxxGg0vZy8xMWI2Y19yX2w4EAE&q=Hotels+in+Almaty",
       "gps_coordinates": {
-        "latitude": 21.7151122,
-        "longitude": 39.0996807
+        "latitude": 43.3367042,
+        "longitude": 76.9488525
       },
-      "check_in_time": "3:00\u202fPM",
+      "check_in_time": "2:00\u202fPM",
       "check_out_time": "12:00\u202fPM",
       "rate_per_night": {
-        "lowest": "SAR\u00a0654",
-        "extracted_lowest": 654,
-        "before_taxes_fees": "SAR\u00a0542",
-        "extracted_before_taxes_fees": 542
+        "lowest": "SAR\u00a050",
+        "extracted_lowest": 50,
+        "before_taxes_fees": "SAR\u00a050",
+        "extracted_before_taxes_fees": 50
       },
       "total_rate": {
-        "lowest": "SAR\u00a02,617",
-        "extracted_lowest": 2617,
-        "before_taxes_fees": "SAR\u00a02,168",
-        "extracted_before_taxes_fees": 2168
+        "lowest": "SAR\u00a0502",
+        "extracted_lowest": 502,
+        "before_taxes_fees": "SAR\u00a0502",
+        "extracted_before_taxes_fees": 502
       },
       "nearby_places": [
         {
-          "name": "King Abdulaziz International Airport",
+          "name": "Almaty 1",
           "transportations": [
             {
-              "type": "Taxi",
-              "duration": "24 min"
+              "type": "Walking",
+              "duration": "8 min"
             }
           ]
         },
         {
-          "name": "Al Seqala Restaurant",
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "25 min"
+            }
+          ]
+        },
+        {
+          "name": "MARZO",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "9 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/fP2Ye0Z2g86m-oasiZ0bS0DZr09v2bWO9grkckt0_eqGV_pbpcxNvq_BTS1DI0fTfYGcg0kyaj_NS0w4VRP40lcPD-V5cpr70toZLPmdsbOWKMcq8OnE8VnOrkM-bwy755eCKSy0G7EhrZXYfh7dld48AnwCAhU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_005_20250416_143833.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/IoO8RWzjws0aAoEUBM_UQdrgT2KxiZDHGwsbHatdmcnTn_6a6I9ZGW4Ah892hss8wmq9JPgyz3g1OIeVRRY4iMmZMWNrKh6ArqQUUiwSVwLXPtLIPbuH5N_-jIuoy3RTZaNkMuQ7if5ljvyXQ-2EtxikcK8s7AM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/db/2e/db2e366e5b60f40ec4d59518375a5cf0f82f08d2.jpeg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzT00U3QfpD_70y2OcS_EuDUNhMIwwHfUhnqzl190gAy5hs-Hf--tCCvpiK2sn10SaJQQ_ppVe_1NYMz82UJ_ZrRbNB4g6qFf76jwl_a8eYztcLf2mdMi21iSpZkCrxSG8_ZjIy=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICukKeScw=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/UOcUaNVEsQfH3MMUUvdg3uT-JYSh-LID4bD6p5PzFSKrrMuyW6GNpfbLBM8kBOgR-CC2EtJbB0Wrbkud9gHkvZUBwy8-UFRXTIBTV_2MOwzcTEOGhrzbFJ3p4QQcUUNpS_p35fb7Aov_IbNpol93EYBrX5Lj2g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/82/c8/fc/caption.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/SBE3ecp_oKsB_OsFgx1s2tmlXqL4cMg3a1pFxE_EulXwz0YgyUSlZuySC4khAl5dGFz_cjKisqi2qDpBSM122dnSq4uB1nDQlkwVrS2LMC5BENS5Lw_A0lZYAMB2P71MJo6AWJLrKlskeOh_rp3o1sdj12iDJQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_001_20250416_143537.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/NSgsGen1HIBGTfDOIA-NPZRyhccxrgPsYkL7IyrHLn6Ef7V_gk-cHjE-Q9jxa7n4tembmJpKt_wxdrBOf8yr7vaq7ka8zUUqRd6iqMfJRh05ikNHsGuxRJQDgbK_CZbEQviaZbK8I-EM6Y1gqGzW6ERzL-1gVv8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_046_20250515_122100.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/DWjPY0Hbl4Dc3yosOsusSIXwqglRkCjOSaZlmleRGsjRzUc_UJmKkcaIQZ5Jh0nS6Ey-pnpOADfPBG48SjJ2H9ScWZcA3ykPcq1Se9qG8iEj-zr4P-rHEE_VO__j8E_nh25fHJI8_htH5rf_Eb9ipbQvYnvHlK0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_024_20250416_143707.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/9sND0rQKVFO5DED4JUkTQk3N0-K81He67-CQPL8Fo-8SFWl5xvI6z9DGgzP6HcdQHCwDrDSYygTCtyzf4XL0X9VWEUnaeb69SBEvjgrAx15RrwiOHM0ZUe4E_VkkV4n9vtzSqC-4LWQflUxOyY9FawyfmKYJ3A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_012_20250515_122214.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/kgM3AHKkRQb4P3dScZSQw8JDWJNYLXwqn-gjThG0axfvN-WlzM2sYhw7ic_icMphcjT9UsZku3pilhCqolYn20KCWo0O28SiZkGvj9n66Z2WrSn_72BQDAvhO02zJXpf-NtP4doxLDtzBmknAythesrBicX9Hg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/85/855929/855929a_hb_ro_001_20250416_143757.jpg"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 825,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 491
+        },
+        {
+          "stars": 4,
+          "count": 115
+        },
+        {
+          "stars": 3,
+          "count": 76
+        },
+        {
+          "stars": 2,
+          "count": 40
+        },
+        {
+          "stars": 1,
+          "count": 103
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Nightlife",
+          "description": "Nightlife",
+          "total_mentioned": 17,
+          "positive": 12,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 55,
+          "positive": 22,
+          "negative": 29,
+          "neutral": 4
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 49,
+          "positive": 26,
+          "negative": 23,
+          "neutral": 0
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 20,
+          "positive": 1,
+          "negative": 19,
+          "neutral": 0
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 21,
+          "positive": 2,
+          "negative": 19,
+          "neutral": 0
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 10,
+          "positive": 0,
+          "negative": 10,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Shymbulak Resort Hotel",
+      "description": "2,260-m. ski resort offering spectacular views over the Ile-Alatau National Park valley.",
+      "link": "http://shymbulakhotel.kz/",
+      "property_token": "ChcI1v6KhPHj7h4aDC9nLzEyamRmOTAyXxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChcI1v6KhPHj7h4aDC9nLzEyamRmOTAyXxAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.12846,
+        "longitude": 77.08209649999999
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0131",
+        "extracted_lowest": 131,
+        "before_taxes_fees": "SAR\u00a0131",
+        "extracted_before_taxes_fees": 131
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,306",
+        "extracted_lowest": 1306,
+        "before_taxes_fees": "SAR\u00a01,306",
+        "extracted_before_taxes_fees": 1306
+      },
+      "nearby_places": [
+        {
+          "name": "Furmanov peak",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "56 min"
+            }
+          ]
+        },
+        {
+          "name": "Big Chefs",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPE_enfoBmqLaYqQ5puCNT-wv_baALPZ4SoHxtH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPE_enfoBmqLaYqQ5puCNT-wv_baALPZ4SoHxtH=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzAYTfFiGDTZHx7M6I4rxE7orcjnI4Z_3Jsn4OngMrZRqATerMg0wqRrc5KZUhy4PPwUoTsMSv5EG5x8VCYQnefRVgiYRlWQ5J5-KJ0HesRccV59yQnCMxXuxhym9DA2DOdcWCd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDOk87FDA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxXQuQj-lVjbeBF6ZP8yWFYhv_wyVL0o7AgqKOXn-GDTqHNxjKgMTb_6q2fqTOFwWM5cddbqVuXG_BAYmMNWSWb6MQbQAT05QsQTN0NP9zLNzsxSX4mlB6hv5KZTlxrkMdoZpj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICOl6ebUg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNuIKly2F7IUA8hq_CpN2uMAheSv8ZhrFIdSdIN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNuIKly2F7IUA8hq_CpN2uMAheSv8ZhrFIdSdIN=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN4VlvTG7USVvJNJ_CRmASVK05Lpdg0r92p5ish=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN4VlvTG7USVvJNJ_CRmASVK05Lpdg0r92p5ish=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP2eYBU6PlEKK9N8EBrwhtrBlkWXr-H5njNxMbK=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP2eYBU6PlEKK9N8EBrwhtrBlkWXr-H5njNxMbK=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNGRGCQMW6Hm9qHNTg3dWn6DaYwxzqgmYJf0KLd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNGRGCQMW6Hm9qHNTg3dWn6DaYwxzqgmYJf0KLd=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMzNkg30uRG81vlnhmXwcSMRsxwdMcAmIM52K98=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMzNkg30uRG81vlnhmXwcSMRsxwdMcAmIM52K98=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNJChSRUTmU_VHDL2U4I30WFaKMxplxPQxj9keN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNJChSRUTmU_VHDL2U4I30WFaKMxplxPQxj9keN=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 4436,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 3636
+        },
+        {
+          "stars": 4,
+          "count": 511
+        },
+        {
+          "stars": 3,
+          "count": 150
+        },
+        {
+          "stars": 2,
+          "count": 45
+        },
+        {
+          "stars": 1,
+          "count": 94
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 199,
+          "positive": 181,
+          "negative": 7,
+          "neutral": 11
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 121,
+          "positive": 98,
+          "negative": 10,
+          "neutral": 13
+        },
+        {
+          "name": "Family",
+          "description": "Family friendly",
+          "total_mentioned": 40,
+          "positive": 29,
+          "negative": 8,
+          "neutral": 3
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 36,
+          "positive": 31,
+          "negative": 2,
+          "neutral": 3
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 32,
+          "positive": 29,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 29,
+          "positive": 25,
+          "negative": 2,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Pool",
+        "Bar",
+        "Restaurant",
+        "Kitchen in some rooms"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Interhouse Almaty",
+      "property_token": "ChoI57X4t-3ysYyrARoNL2cvMTFnOTAxYjNsdhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoI57X4t-3ysYyrARoNL2cvMTFnOTAxYjNsdhAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2101269,
+        "longitude": 76.90907109999999
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a034",
+        "extracted_lowest": 34,
+        "before_taxes_fees": "SAR\u00a034",
+        "extracted_before_taxes_fees": 34
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0341",
+        "extracted_lowest": 341,
+        "before_taxes_fees": "SAR\u00a0341",
+        "extracted_before_taxes_fees": 341
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Tito Arcanum",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "2-star hotel",
+      "extracted_hotel_class": 2,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy3yrqun-_VPj9ikhvoY8gta23zWbxVukAjm__8ZiSeCQ2xodiZuqw_7Lam4EwsLvHYIpIVvUGbklzbxIvwl4E80E1uj7_RI-GNBdEYOfx5-o-GRbncM_5eCF_ZgDG8zI-tjew=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDtrevlOA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwVDUTbCx5UaciuG0lsXXKGhvN56HOQkrTbfEfIqoRWsEYbKI63ZyIrj7FI1hNxCXyb1qyTQlJ6QFEvl68iM8nzKZ032N68zfVIKeHrw2VKHsftFdSmhada6RSXqT95R9evGM28IQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDk66SZ6gE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxOkePLPT1LGf0axsYbcEN_qPnvY5OqFRXrXp4lYqMS5HN7U_0V5Iqa1kFUHb_gXsREZexWbT_ItVvDhs5bwS2hpNuwiVfGhPc7evM2OVCx7r2WdpDh7XFsTBwqtr9ijeBmuYEAAA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICEva_yhwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/2xnTTkbWadXYBGXuqOudBImoBVTAzk_UDsWFyDvTTj757uzbRv2f7kbucvFS-AS3kHpZGwGB-eB9cWDyHkhSu2d8dOngn8n7HIhjcKCaOrBMME-VjAjMGTrKRgjO0Lny9hENg_voBJHUctK43W9ZtYlExyiflQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6f/4b/57/interhouse-almaty.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/YwqPo1U4243Ga4hzSAoihYmbLmq3X3xiSpWudSCtGfxfJmKYAUsanOAfSB3y6klziJzlGLEQxFk3vs3fzWm5QW4c_WALEdvyJq0k1voIXFhnfHSDD4RKDSLohY5JJ0Vh3VEesRzI8_7E4VH7H36H9yCllYnz0_c=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6f/4c/16/interhouse-almaty.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxnqmaJfbZvwqcEKhJ0Xn74IY85vY9mY6VbYdlH62mXfjhMrfuxaacnWR8x1fUFlKJRLtUvY0zst-KApYwozooXZo6ytS9rZ7qwBBBzQWk-1hDcPBGXT_wp18FrIGfiYc5ARxTxaQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDZw5fVpQE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpGQ9bOaQRMS3hnRakr93KNwRX7oo6t-1RDRNKxyh5z2y_YqJylXcJGLljyFRs5e-XAHzMmlZfK7x7cDjX5EY9M0N232bZ_5i60lMwcXfFJPSqYyOel72o_9WRh4G0_w9ahqaq4g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICEva_ymwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx9jCCpcz6bK4NTVvHY6P4cqrQJZDOD7gQ3efQ3Sf7QDyU7RmzICJRuTBVIpYpZzMM6lX671C8UmRGBelSG9aBhe-9okIeFMI8LNJB709DoXbazKwICJ4VlS47oHtntX4fKvxqU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDtrZu2HQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxM73isEbYyWsHl7WEt9vx00uVoLOooX-loAagXf541HzyqvXDlc8gAsVL7RX9qcd0hZkT9oW3qOqlS9jLc_52--mSaXGG7akmFc2-4RCU2bcPth-tACnaO1H_x9YZBGKSCvTnu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID5pv-idQ=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 242,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 194
+        },
+        {
+          "stars": 4,
+          "count": 24
+        },
+        {
+          "stars": 3,
+          "count": 10
+        },
+        {
+          "stars": 2,
+          "count": 2
+        },
+        {
+          "stars": 1,
+          "count": 12
+        }
+      ],
+      "location_rating": 3.5,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 27,
+          "positive": 24,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 28,
+          "positive": 22,
+          "negative": 4,
+          "neutral": 2
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 12,
+          "positive": 11,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 12,
+          "positive": 5,
+          "negative": 6,
+          "neutral": 1
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 12,
+          "positive": 5,
+          "negative": 5,
+          "neutral": 2
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 29,
+          "positive": 26,
+          "negative": 3,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Restaurant",
+        "Airport shuttle",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "vacation rental",
+      "name": "5:\u043c\u0438\u043d\u0443\u0442 \u0434\u043e \u043c\u0435\u0442\u0440\u043e",
+      "link": "https://www.booking.com/hotel/kz/5-minut-do-metro-almaty.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12080490_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12080490;utm_campaign=en",
+      "property_token": "ChkQna3q7pruophfGg0vZy8xMXc4MDR3aGZiEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkQna3q7pruophfGg0vZy8xMXc4MDR3aGZiEAI&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.217838287353516,
+        "longitude": 76.89988708496094
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "11:30\u202fAM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0145",
+        "extracted_lowest": 145,
+        "before_taxes_fees": "SAR\u00a0125",
+        "extracted_before_taxes_fees": 125
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,447",
+        "extracted_lowest": 1447,
+        "before_taxes_fees": "SAR\u00a01,247",
+        "extracted_before_taxes_fees": 1247
+      },
+      "prices": [
+        {
+          "source": "Booking.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/61aadbe1-e141-4d2e-a831-b6a18727e130.png",
+          "num_guests": 1,
+          "rate_per_night": {
+            "lowest": "SAR\u00a0145",
+            "extracted_lowest": 145,
+            "before_taxes_fees": "SAR\u00a0125",
+            "extracted_before_taxes_fees": 125
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "35 min"
+            }
+          ]
+        },
+        {
+          "name": "Noni",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/gU9W3TYkbcvt9aOZycex6Gw67V5YeueDV8BoURv7-HgVUo-I8tcnI3UmfTqFU-sm9AmstZfUJuynWrIpFYyPCSDedK4Lt3p3XvSXhOiLdP-JXBipEUBkkKyWf5tBKuz9_A0ClDZsINnoSztCxddswJMTyb6VHg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard/UlZFsp563N_OGM7ATDcPVUHy9nweKTBO2mi30g-ytrmTPplqac8uqZpESM2lNGxKGyrK6DspR76k_T7u08hWVWIArNoO5rnTbndDTtGA-cnZey9_-3b2IA==.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/yCqWwjAGThSgZf3--IyHgBITiQdwDmN7a7DePyIPaFDNa9QprL4mpG_q6pHRs4A8lUi7v79ZKPsM8LBtcj_r00M-H4uPnAdPkmCYoU2InJJGl55B82Hv4L8b5gT3Jih_aJe_6kC9owYKRYyEc9N_lMbmmBsRH7Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard/UlZBBopCc2ozhZmRbmmk-MUY1Nxijidtlp6-v2wtytHbuL1WdAuUrcyVrUb1OFBGG3y-0pK_Ej_rFkPsWSDjuKziejCHRzeEYTMuGRonB2ycz6cNHljZ_Q==.jpg"
+        }
+      ],
+      "overall_rating": 4.95,
+      "reviews": 8,
+      "location_rating": 3.3,
+      "amenities": [
+        "Air conditioning",
+        "Elevator",
+        "Heating",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Oven stove",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Wheelchair accessible"
+      ],
+      "excluded_amenities": [
+        "No crib",
+        "No fitness center",
+        "No outdoor grill",
+        "No patio",
+        "Not pet-friendly"
+      ],
+      "essential_info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bedroom",
+        "1 bathroom",
+        "2 beds",
+        "40 sq m"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Wanderlust Hostel",
+      "link": "https://www.booking.com/hotel/kz/wanderlust-hostel-riverside.ru.html",
+      "property_token": "ChkIqsmc08Kn1ahnGg0vZy8xMXR4ZnN0MHk4EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkIqsmc08Kn1ahnGg0vZy8xMXR4ZnN0MHk4EAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2491639,
+        "longitude": 76.96019559999999
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a048",
+        "extracted_lowest": 48,
+        "before_taxes_fees": "SAR\u00a041",
+        "extracted_before_taxes_fees": 41
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0477",
+        "extracted_lowest": 477,
+        "before_taxes_fees": "SAR\u00a0411",
+        "extracted_before_taxes_fees": 411
+      },
+      "nearby_places": [
+        {
+          "name": "Central State Museum of the Republic of Kazakhstan",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            }
+          ]
+        },
+        {
+          "name": "Tarkhun national cuisine",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNZjR4Bpl9nq2SdvYj8PSyTnyhpBRt7EHvV8_Uw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZjR4Bpl9nq2SdvYj8PSyTnyhpBRt7EHvV8_Uw=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOozUi7WV5CKr9GYGDm8R_OcRwIq8jZjyDMJwxR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOozUi7WV5CKr9GYGDm8R_OcRwIq8jZjyDMJwxR=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPL52oIgyzjTZXR8cqzK_uUw0kwGn2sPc3E3FlZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPL52oIgyzjTZXR8cqzK_uUw0kwGn2sPc3E3FlZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN4W4THN-3UCTY3AI-binp4CpGamezLSQTOE0Oc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN4W4THN-3UCTY3AI-binp4CpGamezLSQTOE0Oc=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM7Qzpr2XG1xAhRO9ZulBywXGN2-Xq7g7dARpv_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM7Qzpr2XG1xAhRO9ZulBywXGN2-Xq7g7dARpv_=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMqn_79-Kk7XVTEAlFNltY027sXdwc598MW4Y2S=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqn_79-Kk7XVTEAlFNltY027sXdwc598MW4Y2S=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO4dyN9_rc4fhmY7lmchoAr5-ISLT5l8CHW0aGn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO4dyN9_rc4fhmY7lmchoAr5-ISLT5l8CHW0aGn=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMWzRHjzzGqpH_HVGTZJvBv_UwycuIvRemQ8mtU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMWzRHjzzGqpH_HVGTZJvBv_UwycuIvRemQ8mtU=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/irAASgMubIwYGcDz4-sDZ4EQrE9rAOjl0gu71T5pRh30Joalp4eUEkqu3XPiJVGATt6gE2I6rPaKNB5f_r_ht4xD_bs3WyUCeR8KxbaReUv6d7x_D_EJV8j2kbslSS-ML4q1XGDR8q7Zeo5DvIO6mdjfLDOpEQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/bd/d3/bdd3fe1500596290c597ceb0354f9c851b650ae8.JPEG"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 73,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 48
+        },
+        {
+          "stars": 4,
+          "count": 10
+        },
+        {
+          "stars": 3,
+          "count": 5
+        },
+        {
+          "stars": 2,
+          "count": 5
+        },
+        {
+          "stars": 1,
+          "count": 5
+        }
+      ],
+      "location_rating": 4.6,
+      "reviews_breakdown": [
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 9,
+          "positive": 5,
+          "negative": 2,
+          "neutral": 2
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 16,
+          "positive": 14,
+          "negative": 1,
+          "neutral": 1
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 10,
+          "positive": 3,
+          "negative": 6,
+          "neutral": 1
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 9,
+          "positive": 3,
+          "negative": 1,
+          "neutral": 5
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 19,
+          "positive": 13,
+          "negative": 5,
+          "neutral": 1
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 7,
+          "positive": 4,
+          "negative": 3,
+          "neutral": 0
+        }
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Center Capsule Hostel",
+      "link": "http://cch.travel/",
+      "property_token": "ChkItavWuKyevJw8Gg0vZy8xMXduNnludGNqEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkItavWuKyevJw8Gg0vZy8xMXduNnludGNqEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.263157799999995,
+        "longitude": 76.9310709
+      },
+      "check_in_time": "2:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a041",
+        "extracted_lowest": 41,
+        "before_taxes_fees": "SAR\u00a036",
+        "extracted_before_taxes_fees": 36
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0412",
+        "extracted_lowest": 412,
+        "before_taxes_fees": "SAR\u00a0355",
+        "extracted_before_taxes_fees": 355
+      },
+      "nearby_places": [
+        {
+          "name": "Ascension Cathedral",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "Alma Ata 2",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "29 min"
+            }
+          ]
+        },
+        {
+          "name": "NY HELL'S KITCHEN",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/LEyn2Q_Be3ug1hRg4XGdpsPZ3QM4Rp2JeExJ4GaGUOm8w5vDfG1dmoeAE3c4G-k5BiB5SWVoeorTVd78egm3GNjT8hgPE5sgyXQwhf8ebOGcg0iP2BzgSZLhhr4LPE0cGwKMHJh6GoPf5TOLrD_3Xp058D1Pf-s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/38/8d/388d5622e4f0a9ed7c777f84ee59d775bad02952.JPEG"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/b7q7pcusBesqvDz2eAp11z-_TL2mbIGz-HJX-NCWTCD1m9tPobGPEN0EEZwau--qUPuuhAUsiFZP_RdhbKBMPjhmkKMv1keD5gESYy8by4YUtV6xC2BPD_JdXE3AqxYRvvtczgxCTnFiePNHXsmsNHQvEk2MnLo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/30/ab/30abf5ae6bc3896068fd4e82a0d7d43dfb861228.JPEG"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Ca6dxTW5iDv6iZv8a2_U4oonVymzgQxlcyLYbWvP5P-d3MqnTLL2NT--jub9sES4cpD7-EuYt1iwufAhKVhrTi8DEpdocbNgNQtL5Hv-weqw4geGtjgETlEnXwxDR86UJbeNgF-V3NZyyXvHbe8r8v9-KQEk2Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/13/09/13097e51af5f64abeb5081010a4f08c5e3390f7f.JPEG"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/UZsz2j2QKC-zgTu8PJbm3ts8kL2DjraYM9GfHA7eQDwq-rBBVCe7RTQJ7poCOk5eJI5bLJ5W-OXEfHaE9CDzDQFnwmh8k2R4Kg6Gt-DjNZAq730feBmxVm6ist4fy9XeqWvJnQk7-0ZUyLm6_wBBhtug38_Li2Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/65/3d/653d9484bf8835ba0e4948a0d91f98a4b39eb638.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyJubXu4H3DFJpRApy-pcf6-9jEMLwDQzkfVHE4-79bSTYPiiIuxgtLpWrzdaWGNpPXf8AdD6ZCOjZld5-DeAP1vGcCe2pYG1VhDN-KSrxW2IufFI6CWXiUbPkhqieSAhYDidfv=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICfmf7vngE=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/-6Zb_XBhDkYtr1i71Zhd7UYM9vzIIdLUCxLrpkbKIFQ8LJPzZnktRFgpfG7u72Lg6o14-z1jyQWxKBKZVLjUnzq7Ll2WNH8aIlai4ARHpp3d8OIzA8TZU9yP3eBEVXcRP1u9TIZXP9zCBydsd86VqSDylToBBAQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/0e/99/0e9970c95ab3de202b24b88e4b06fec8a44a5116.JPEG"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/PRHDEBeEhbaMRIJVUEzsfPzfECvm7HQCRfjSRcRhgl-9vNlJsMpMFH2O5KsfG0x4bccd7QYVsDG-zIUPU8L3fDBO-LmBjnRcPjP7Pas2LKEETLgyVAw3hpO8u8cv9P7QPh85SjdVLRJYTvismJo0TXePK-rG0g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/fe/55/fe5552309fa708b23fbaf980091d13958d34e879.JPEG"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/GQT38KXH8w_fOyb_mIk9Zy_hIKrh5G9-xeAeZC5v5yQIa7lXVwXUyxq364IrFsFXNs9Y1Vniaaq_nMNH1WpSRJH7g2kbuw9cRxzgF3azMZUE2OWbMQ_MdhlZiegGZRPk6Ery7ZmCpQMg38q3aOPN-ecSu3ROY2Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/e5/1c/e51c13cd87d1dc18084ac60b42ae6bfe3f52075d.JPEG"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/ovUzc5pn5hbcc_gCeEangmnX7eRP1u_5RFh66CgF9xnzpDAcglWvYG1PsiKc8qLkL-dRamNjoeH78oInaQKXYW-ZG6oO2ZHimEbmmKblNECewhdG-aBZNefE1ejyI6beKm1k5QWWHDJTJqjfUREkeMhIiU7t6d0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/61/39/6139a49af1b367f32c5ce32225d162046fe58e1b.JPEG"
+        }
+      ],
+      "overall_rating": 3.6,
+      "reviews": 24,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 14
+        },
+        {
+          "stars": 4,
+          "count": 2
+        },
+        {
+          "stars": 3,
+          "count": 0
+        },
+        {
+          "stars": 2,
+          "count": 0
+        },
+        {
+          "stars": 1,
+          "count": 8
+        }
+      ],
+      "location_rating": 4.2,
+      "reviews_breakdown": [
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 6,
+          "positive": 1,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 7,
+          "positive": 6,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 7,
+          "positive": 2,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 6,
+          "positive": 1,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 10,
+          "positive": 5,
+          "negative": 4,
+          "neutral": 1
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 6,
+          "positive": 4,
+          "negative": 1,
+          "neutral": 1
+        }
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "AQ Capsule Hotel",
+      "property_token": "ChkIz6aJj9LE2PZiGg0vZy8xMWpzazRmdmtfEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkIz6aJj9LE2PZiGg0vZy8xMWpzazRmdmtfEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2631387,
+        "longitude": 76.9389395
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a080",
+        "extracted_lowest": 80,
+        "before_taxes_fees": "SAR\u00a069",
+        "extracted_before_taxes_fees": 69
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0804",
+        "extracted_lowest": 804,
+        "before_taxes_fees": "SAR\u00a0693",
+        "extracted_before_taxes_fees": 693
+      },
+      "nearby_places": [
+        {
+          "name": "Arbat Almaty",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Alma Ata 2",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "27 min"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant Sandyq",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzVP4g0SpT8siLE5uFgBEdZvs6RnSo3YqAe9safGpL7aZdhi_qhFGgZPKcn6AMtL96qW_DPPYz7grgPuWDO20LvzbTu3c-h951Q76KRsdyXoitt4zmOVbiNUmpvvSg8Lsn2ET-rHw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDTkMvyzAE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwZkZ_ezUf8ZKKpT0_fwINimPXeX9yzZpAQdlFlGMcb2rZFl9c1n-dyOZwuEFdpWGOUKLver8qjbutE7f87_iwVvJ3gQKrSKbZE4hN5IkBoYkVz0hZE2sd5LbGIGgWD7DacuTQDaQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICV8tuV0gE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwBQ5YT4pa_fHMcNVz6v8QfgPnuE3srJtdMxqZHkREBqqIe5VwEfb724toVX05scWNQVZY9b5b7LdXfVgW4Rl3DOm7Mxcmx0DzfTbchQLn56QUFDHlKQN9pbRDnZuNt21Byen-QGE6Ip6Dv=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhDQjK8jBp9mvL76Zi7YjzxZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz1ygzecTwgI-5N_U8OjcmeJ13FxwMiyGKPHKjP8brPITu4z0zxEBILSYUy-BzxZwSKHL-71pwFas-ZvKoDKw0TxuBSi_z41G9Z1aP57wSL7ls0TAHOJW0V8Vy8Cl4Dkay7z7wOYNXGIsk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhD9T5_hCquyYrI7w0yNPTR2=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz_gLg1fyGoPIWIxgcaJmYboFQruT_KDjzqzP_lbtY_6ecNectYMq88a8P8DYb5FETUBN7iJaNfQ5wD9rtpiFNVUBvnudH-4xgnnhhLpib3e3d3to2TAsDM8HH0YQEm9tVZm1jT6XcTueg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhA2JZyQ3CWbvzl0IxUZSyb1=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz3xbfpn_2cbWmr05rcOvJeZ17jS8C0AqAebzCYiktAUfW8Wprbo5uW-A_yYM4wbJhJUTSGRHPSMIV2w1-_eBHjUCfsuXgdbx3537aCVd5poxe69QN7m6xPj9o75uf-fN0zqXQWZyXqzZeM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhDUKPTSFWrg4PliKRJV8nyn=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzqVtaoNsS1xC5UXdkpRCsOMARUQlgtLJDI-sFPzMi67JoC-nAyWHy9EwbaFCI4oJbStrDlhIIylaB781ka_vt0K0NtiAmNsAd1VTSxt1WqgMpeqz4dR6kkbMXg5LP8UfCpRJXF3GBnodbe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhAA3ilWHiVegGgGMfMACr2D=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzNrpdrrv8OwcNaxydjYifDl2YO2MvSASZ10StlTNLf1vz9XScQDx1FTUFEzSU_luz_Cv15D84tsiqC77X7rFx-AWnOcVzX_oeD3jTi87l2elZVnMfitFbGoKKXQAB75Bg0W3iQM7_1V84-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhCau6D9lNh3UJ5tXhwdmmc3=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1y4wBewSBgiUGi1i5ubpXMeMmoePB-mZJZceiRh_Ak7jFNZ3cLF5ZlkBSknRtfDUAIY3JL8sbWMT2dM6EM5_Su4vJ7S_3xwhmx7OiRAK1KgcWOYXAxXin1yro7oMVr7DUAk2S=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICjyuOasgE=s10000"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 75,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 65
+        },
+        {
+          "stars": 4,
+          "count": 5
+        },
+        {
+          "stars": 3,
+          "count": 4
+        },
+        {
+          "stars": 2,
+          "count": 1
+        },
+        {
+          "stars": 1,
+          "count": 0
+        }
+      ],
+      "location_rating": 4.4,
+      "reviews_breakdown": [
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 22,
+          "positive": 20,
+          "negative": 0,
+          "neutral": 2
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 8,
+          "positive": 7,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 24,
+          "positive": 23,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 11,
+          "positive": 8,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 6,
+          "positive": 4,
+          "negative": 0,
+          "neutral": 2
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 20,
+          "positive": 20,
+          "negative": 0,
+          "neutral": 0
+        }
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Astana Hotel",
+      "property_token": "ChkI8cuCstyYhaiHARoML2cvMTF4ZDZwdG1sEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkI8cuCstyYhaiHARoML2cvMTF4ZDZwdG1sEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.252439599999995,
+        "longitude": 76.9030198
+      },
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a079",
+        "extracted_lowest": 79,
+        "before_taxes_fees": "SAR\u00a079",
+        "extracted_before_taxes_fees": 79
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0789",
+        "extracted_lowest": 789,
+        "before_taxes_fees": "SAR\u00a0789",
+        "extracted_before_taxes_fees": 789
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "32 min"
+            }
+          ]
+        },
+        {
+          "name": "Dom-Restoran Schast'ye",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwNhXPBrGDkrUjsggNbZMIVWC6KmaDU81gckHNJHFudWBzrVv_s9leKoFNUrj6OEzCVyRU6n8gPnZf8LgEXWK5nsjfWLdDMew8X6OJPJtJq7IcLJk6nmsCxoC00lxL3_G3AawUKAg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDM3rGDgAE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/4lua16vOGDrYKeFGV1mWDNMz2QWOwuvR2m5-7XWMfbJkstAmBGUeyVOG4hR0oNw_eUeSIDTgZQoiTvqE8cfgJZ7mRZJnJW_faC1WkGCqBIEjbtwqIlWILD6wt5vA4sEADcEFm0Z6J5ObOIbi4qtr3efL_fvprA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/12/f8/ba/astana.jpg?w=1000&h=700&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSysqo7tdpjSmYjvlPQV2c68sNTeAofFbKFafsSQWZQ2qeu2BrLVkRP0uMmjEwwcG2ProBSw4rF_AdzaLJyAQimoSTFB5md9onmkn7vD5Jlmg_WqbhDPvRJu86qecSVr-6qC_YvM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDp_cGEjwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwNI2IQSjyobJCuSO3XMaUgbkEqmaat2Sq_iFYUQGHdkWROIWCKCBGqVt3xevx0xzczfEWZOimeGf81aUoQjb_DWQGgAb-XwP3jhRiSkrEgCoQY0av3ZqgLm3xUhT4Ifvic3nA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDM3rHVlwE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzUuZ7Rc5pePcPOyhqQxTbzdPHKgTZZyrTsN8YQCIlrpTeE3FouBnqNsYbbNb2Qrk28ED7MG65YFhFkgFharoe9lZtmzSN2_nfyx7M0x2X8JCdXABRCfYwbtR3CjlLg6RZ5LtThrA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID58d-u-AE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy0Zt3PaOpi9_cTITrMrQvkBSonRVQ_0-8DoOv9-BJ8zaPdaILIOS1LEoNJ9Mnuo1mXba_1Mj6-kiO8Wtc0Da0q48utai55lKjBdXc3Vqx_spNTeVwdEPatyXJ8Vd9OtUaR9hb_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDM3rHtVg=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/0f8QbhWWVLVaNtZfquz8dq5Mgoxb5AQPZsMjn6aJO2rs3NSpqt7sJhl3MKnqzRI8o6b-2tso8rsv4fOWc1dVDyo4qoqwly1aU6f4z86jkT4qb1SIZbpVC0nL-1iJUtRGjEBTtqmBohj7wLdiEbqqupMollaynzc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/12/f8/89/astana.jpg?w=1000&h=700&s=1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/hIhNKC66cawDSzDTvkC9JrB5-ivlFVW1QM-85f5-h4-H6BtFAatD3FzgXD44_YqUJPgvE0l5j_AvKFqi2kXQiFIc-vtobCb5bhuVz0mAkV8tgTgfvG1VmiGar6Exqj2KfkMxON0VNc1Pxs7Wt11RW70o9rTKbgc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/12/f8/a7/astana.jpg?w=1000&h=700&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/ZN6yzB-OpIqzhBEecc1WOE75THI7esBiDWhZPAY7_9LErtOYLsf-8S9RLGUlCwTaDxIZPPG9HQQCohofoswbyHiv_w6YxWH-WACpa52XU7jXvYe0gBeNQsxcIgwzmn6tRYVHw7MYaeEweZGbSi8dJ14Xj-ceu1w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/34/e8/b2/caption.jpg?w=1000&h=700&s=1"
+        }
+      ],
+      "overall_rating": 3.4,
+      "reviews": 302,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 117
+        },
+        {
+          "stars": 4,
+          "count": 37
+        },
+        {
+          "stars": 3,
+          "count": 59
+        },
+        {
+          "stars": 2,
+          "count": 29
+        },
+        {
+          "stars": 1,
+          "count": 60
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 20,
+          "positive": 4,
+          "negative": 14,
+          "neutral": 2
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 34,
+          "positive": 15,
+          "negative": 17,
+          "neutral": 2
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 13,
+          "positive": 3,
+          "negative": 9,
+          "neutral": 1
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 10,
+          "positive": 3,
+          "negative": 7,
+          "neutral": 0
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 12,
+          "positive": 6,
+          "negative": 2,
+          "neutral": 4
+        },
+        {
+          "name": "Wi-Fi",
+          "description": "Wi-Fi",
+          "total_mentioned": 5,
+          "positive": 1,
+          "negative": 4,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Restaurant",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "AYKUN Terrenkur Almaty",
+      "property_token": "ChoIx-7d6bOzjrSUARoNL2cvMTF5NDN2a2M2dxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIx-7d6bOzjrSUARoNL2cvMTF5NDN2a2M2dxAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2282338,
+        "longitude": 76.9645118
+      },
+      "check_in_time": "2:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0248",
+        "extracted_lowest": 248,
+        "before_taxes_fees": "SAR\u00a0214",
+        "extracted_before_taxes_fees": 214
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,481",
+        "extracted_lowest": 2481,
+        "before_taxes_fees": "SAR\u00a02,139",
+        "extracted_before_taxes_fees": 2139
+      },
+      "nearby_places": [
+        {
+          "name": "Central State Museum of the Republic of Kazakhstan",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            }
+          ]
+        },
+        {
+          "name": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d Dragonfly Izakaya",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/EMgeiPsHK5BfOord8gKI3qqA07h4BPDPQvdsGLIYlZhXNq2amW4jw-vBKAIMsr8hEit0Bx5B5-Md1DdcB7QhmXl-UbCYjmhcxX5C_ujfiPt8P1Ii5SjhRBPqNfflH5ZPAPvzFrnPTcOyoRQqStxezUMhcd4u8iM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/ee/16/ee16962463802ebb1ec5b091daceee8f2534f463.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/I23Dr9R8Zx8IqClYjX6GERnOixEWmu1dSN-hobYnfIYOKc4ob6W16PeGLA4-TEidDhTM5XdKFAkEDaqqoPvFijLwOANPER2OlEFKxtJ121AgcHzFg-E9dcmqh8x9tq-8YpnWjBw6Vt-VwErm5ox05zHq-CFGSQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/c0/64/c0646a61f5fc329d81bca18f27e7ad4d0e9c3d88.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Lzsu-_BXHnfsNOcHL4xwdclRVHB8P29YGxhrfc9QnGq_ampCwO1POOy-AirxX02COEuZ1TiriZdszdWsDBc0z0FNTIkp2gfNTtcT7WBvj-KNYCx9zwzInnuyqXiT8N6rkEw27L_HTmZmNBJ_ym04HlaG9hg7VQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/e2/17/e217fcbc86c0d1bb5c67be20d042cee04a3de8f9.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/B51GYHzGccjQedc0neXUjEjNirk1Y7mhZQKQf3GU5EcGyCB_LWo1ch2PF5nE681RMhnDNECVR-DagfjItZFVs_5b_qBvqR9tKGdWaACF_ICzo4UDxY02_EJdh7X9_CT9q7AyA7VjKtJCrYwFIwL0o9A6pSP7b74=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/09/2d/092dddcd7cadbce20bbae7f4366e55058eef7984.JPEG"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/MeXR_gB7Np2kWAmXZ3kflde0XspuH8u09oMXnoofYMBGbfeVzdahYFtYNw-Cgtb1-vEkPKZyatv5O_3QhXm3pyf8VnOyzl23on4o9KyHHPvxeOWTGpdlvkeebMT_YC7T8imyIJUIGltJhOC4e73XRv3ebtwqVg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/93/zz/93ad220a5b7956d216fbdd03e3763434a1168188.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/fTBN5VnpfBNkni8wAZEtEGepCzEJmCNxFMs5yn6nosbZGe-euNdE5Lp-lxdCD89zZ8R_zIJYTP5xEfyVpiosHLRE78C-xJcvS-K-15g2fQUllg6atyQCN5j-bGbQVfAujSpOYzR8pM-CSxyLZuD4ze-dejyfqkU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/f8/5b/f85b86fc868dcbee02f6bcadf23656b30d27836a.JPEG"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/ndsYTb8V6NwWGe_1dveVGxQSEwzs8zAYVLQz_DkkXNRENL29KTSZlDv95lraruauCmVuF5YtYQhWSAPJF3zggoibOdvdynW5iOuRqoTBqSSddXK5gOeRnJehpbgZm-osLGT5-Kgg__5QguKaCu_3tB5GMspVRUs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/48/5c/485c59659dd94f9ee2395e21c4c196965f185865.JPEG"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/xzCYF7mtapg4jjFv94KzwfnQHsYW_6-788W_JdpvXfABzQmVZ8oLiS2zIfzi69gE61xcfDY-v5u1feHw0bFBnwnAEfHm3gdKoDVLhz5To0DzD56Baeqap7rPBjZQlEwh2WKw29Bio3gpiz3QjyZ2In6LDxg2Og=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/1e/80/1e8039ca9118cfb5295dffea2faaf089bf9bc091.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/OTgL_0yD8AOopdBBukvREZzi6HDYxL8QJqdYFBW0WJuLt5A9Xl537to-_9pbrQG_tJhF-f8w8syIxQcfBFFSLfQDz1o_ufyLtzVM3Qm0XDMxdzBQCgYkXvEiwJwlgcLYwbq828rdYZ37K_0trUiv4vfFvtr4iJU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/d5/39/d5394bea64edee893a9f1a775ae9409c186fb243.JPEG"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 22,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 13
+        },
+        {
+          "stars": 4,
+          "count": 4
+        },
+        {
+          "stars": 3,
+          "count": 0
+        },
+        {
+          "stars": 2,
+          "count": 1
+        },
+        {
+          "stars": 1,
+          "count": 4
+        }
+      ],
+      "location_rating": 3.6
+    },
+    {
+      "type": "vacation rental",
+      "name": "Downtown",
+      "link": "https://www.bluepillow.com/search/65c9f205671b07d23c68e698?dest=bkng&cat=Apartment&lat=43.26114&lng=76.92364&language=en",
+      "property_token": "ChkQkq6FnZTjjLUtGg0vZy8xMW1ja3RmN2ZnEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkQkq6FnZTjjLUtGg0vZy8xMW1ja3RmN2ZnEAI&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.261138916015625,
+        "longitude": 76.92363739013672
+      },
+      "check_in_time": "1:00\u202fPM",
+      "check_out_time": "11:00\u202fAM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0139",
+        "extracted_lowest": 139,
+        "before_taxes_fees": "SAR\u00a0139",
+        "extracted_before_taxes_fees": 139
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,389",
+        "extracted_lowest": 1389,
+        "before_taxes_fees": "SAR\u00a01,389",
+        "extracted_before_taxes_fees": 1389
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.ca",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 1,
+          "rate_per_night": {
+            "lowest": "SAR\u00a0139",
+            "extracted_lowest": 139
+          },
+          "free_cancellation": true,
+          "free_cancellation_until_date": "Jan 6",
+          "free_cancellation_until_time": "6:59\u202fPM"
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Vahtanguri Georgian Restaurant",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/FjL4WKUj8NXPUYv23-OZrQMfnhJfuuGR7GZPZBaeh59zJpXphnNlr0xbzUJG1Fugf1DhLbMg9vWh51-7MCHjtCGN-di5MknKgoQXUwMVtGeXwAE8DcPU5iQqm_iSwo7YhUpuNPgTmQp8grM3hANYEV5f_2o2DxI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/531517374.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/T_UAy_C6ZADazGgzpptuEqqwjVtXiBgEJqzE12FJBlXgrZD_RISWfi7ePmduk8pI-ydMZQ3jbA6SY4eqAok4XWe4WFoDbB_E2vuTKBE70OzuKfGB4hSDo24XSerlITdFgmDhZXnhOJK-wamLlE3-kDvrH7nOJg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/531517409.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/OaIAqOD1tNqAWpfsaORVEaS_YDnregktfQwx7bZhq0tUQeD7d2OFsaOthKkQPdeyrbVQTBJk2iJofvdBP5so53bWTli90LKHLzx6Zh4sRFWtJbHF-MPn1SgU_Uby-ctKlrlAtdrvBdxONoh_v60OJhEiY7SlZA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/528434227.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/VBfPd4MCQ40tdUG3i-p8ATY-BXpdTRp-toV22TFo5xFTHGfzXuT8kysxSHWSx3VIDDG4o3Vif8sWDKmkhWopHvORriMnGsdCa-ll-EZiVHVq3gsnuo9j7GVCiAGYKHC6UXbyoYY-7tZ8Dr7LjQ3srI_GcTGdBq0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x683/493024875.jpg?k=a1c1e55e8aa4fc178158469a26b8287bfce16b946f6c4d719dafc0cb16a6f537&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/x4fSWevV9pvpWV49HCgOz4csPW-yh-y3RR9mcR_Kqw7ToCtSYxgr4RTDNRzeCINpilV8kChLqLryg9pYR5vRiCzNCOeR3syEDby1W8VxObKrtLO2unn0Ck-v1Nv7FRFINEkD_tdEKWnaYDGJKCyE3CCQFkYhcn8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x683/528434240.jpg?k=587d9c3deaca7a2301ad00b9759278d578c7f470784a036a84d9a26e24be5888&o="
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/_pjqdSyEqctZGKFmg6QgILroi89Mqod8RmEhWiKlCplYWulWT_JHiuk0ZUkfh18Lrr1aRn6-ezFe72s2Ur96-tdNhAtV7f-4YaYB7gCtkhHZT95N7a0fQlViZoy00Vw3Y2G1v3_N26ttF9rTlBt9WXAHBFg2mA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/531520303.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/957zV-tn7kFtTsGThlmRgVze_POIm6n5zrT5OnzXQFC9_hLDiNlDTnCO1c5NAXz72DMuw_YeOdVjUR4eZqUy8mRUOjD1rKbbLKzIdJCIsdJ6-41k1Koni6aMbt3yBXGulJoVw21LHKZSb1zJDfbJXPhnn5MqQPg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/528434209.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/wSj9VWa32YTW8FK-hWxqrZzDl0XaSN5pGi2Dpm0R-IMKVJmjCMa27zlwjN1EbNcqUpv6CJihwQexPj32J8_AhZ4MZPebAXgm1pAZO9Hq0CHbUbqetd6DyKHd2tozVBQHraBToy5335Hcyp4pY_7zVWNGVFxwQMg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/493024868.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/cnYSoeavb7RH5fWpIhZJ2YV-y2_KW1dd3hVhvs8iWWADrJjBnrzO9M4jIxpOeeFH4PWQ4B_zoPLpK0roIRBTdsBrioegfk9uVooD-GuZDj1QAeNtTPDwO3gEy987XLh2Om2GQAkKN_pP74IxgKNFVfIaaKOM-Rs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://static.cupid.travel/hotels/613828151.jpg"
+        }
+      ],
+      "overall_rating": 4.95,
+      "reviews": 8,
+      "location_rating": 3.8,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Kid-friendly",
+        "Crib",
+        "Elevator",
+        "Fitness center",
+        "Heating",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Oven stove",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Wheelchair accessible",
+        "Free parking"
+      ],
+      "excluded_amenities": [
+        "No Wi-Fi"
+      ],
+      "health_and_safety": {
+        "groups": [
+          {
+            "title": "Minimized contact",
+            "list": [
+              {
+                "title": "No-contact check-in and check-out",
+                "available": true
+              }
+            ]
+          }
+        ]
+      },
+      "essential_info": [
+        "Entire apartment",
+        "Sleeps 3",
+        "1 bedroom",
+        "1 bathroom",
+        "1 bed"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Ramada by Wyndham Almaty",
+      "description": "Relaxed quarters in an elegant hotel offering free breakfast, plus a restaurant, a spa & a pool.",
+      "link": "https://www.wyndhamhotels.com/ramada/almaty-kazakhstan/ramada-almaty/overview?CID=LC:wmcic5n98gs1g0r:46427&iata=00093796",
+      "property_token": "ChkI6bPLnr6YpPo4Gg0vZy8xMWJ3MXh0eXZ2EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkI6bPLnr6YpPo4Gg0vZy8xMWJ3MXh0eXZ2EAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2560085,
+        "longitude": 76.9240832
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0407",
+        "extracted_lowest": 407,
+        "before_taxes_fees": "SAR\u00a0407",
+        "extracted_before_taxes_fees": 407
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a04,068",
+        "extracted_lowest": 4068,
+        "before_taxes_fees": "SAR\u00a04,068",
+        "extracted_before_taxes_fees": 4068
+      },
+      "nearby_places": [
+        {
+          "name": "Ascension Cathedral",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "32 min"
+            }
+          ]
+        },
+        {
+          "name": "Vahtanguri Georgian Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP4oKaOHaj2WsBe0ND5HPyiHk9G-siYzhq-5vwo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP4oKaOHaj2WsBe0ND5HPyiHk9G-siYzhq-5vwo=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-lSCVrVXTiXC7aQMTOyeI3eQeoXuGtMpfZt8T2HoEUH3xN0dmrJC5AxDx8ncG-XFwFY_aJO0FzqwJCwVfsBx2HxrGkfrFxG138cWVrIeURXKkvaFCwS5kX85bFvr6iz2SLi0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgMDQ3-2cHg=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/x9cADcfcRCkKwWbIyVvYXp9l_GKKqKlDxROf-z6PIEqOWMdZTyMvank-pG1SOrg6y4pBwb4q_JJF68-LSnHW8UGAT4Dvb32Qo8D49UJMXT3zLav3Pcc4wvJw-fKr64Dr_OrizTzie0PkVi-M6Dx_Txq03SbljA8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/6c/e9/6ce9c845f24a251038ac149d43357b52a438cff5.JPEG"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBo_4pOlA6caG8fHzh5GNYU1OHUmdKwc5N8o7uZU0NS2uiy4tkZ3jWBGcf-AAuZJzTxnjo0qgs7WgDhDRjGgR1nDK0sh3FHnU0uuP45hMijoFLXuotaDpOsbl_T4XfhnDGOEK8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDEiZbMSg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM7FmFVEhnliKlWf7WT0DhkEK-QGLToy-BJE_H6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM7FmFVEhnliKlWf7WT0DhkEK-QGLToy-BJE_H6=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzXjaIVv9i5hGmeyeEJMBhaJrge1wEQHRb-LlrCk38puxelAzLRwzYNJu8f9z-oOwl_8SaG4e8nSqJawNhC3VmY1ourGbo2-cundDFkxisO7DI0lWLCHozknPgtEtXyQ_pMzGBE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICRzuXvJg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyjh9GcWd27RvopZO2h10RZjhKmFO7KlszK5yGzUvXhlJ39rs-kTlS2atW5dgzG9PqoeLQ039fFB20XZHkymiRotPgTN9zdbAhWn00ej0PqiIrsBSp9fMSXiAsTBE2NNMMUP2WT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICHhozCRw=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwAPaiulPIdQMvgBQY9lk8rOUMETMXxHqOvVLzuPMI0FwL6y22D4EdAOca1N1ivhZQ2t0yD_Pcak4T6XTJco4qY8_r__F6SNdcJdcOFetV0TsSF9V_QOscolQUzrncMuSPMXzUUBuM5UmhZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIABIhD9OIoT9xkERkcoU6FsnXzX=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzUTFjG9e6r43U7O5Fb8CdXBOGhqAb2FnXN4K58bq6KDxWCIa1s7tf_Fn2YPBdlImMNj9fATtNYkSd7tzSJYspiTYHpp3eXtYPlrX9g9BaytymYsH2YlNzWArvLSOypP-pjepY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICEhcfxPQ=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 2316,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1501
+        },
+        {
+          "stars": 4,
+          "count": 461
+        },
+        {
+          "stars": 3,
+          "count": 162
+        },
+        {
+          "stars": 2,
+          "count": 53
+        },
+        {
+          "stars": 1,
+          "count": 139
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 180,
+          "positive": 108,
+          "negative": 66,
+          "neutral": 6
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 219,
+          "positive": 161,
+          "negative": 48,
+          "neutral": 10
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 85,
+          "positive": 54,
+          "negative": 23,
+          "neutral": 8
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 32,
+          "positive": 26,
+          "negative": 3,
+          "neutral": 3
+        },
+        {
+          "name": "Business",
+          "description": "Business",
+          "total_mentioned": 30,
+          "positive": 24,
+          "negative": 5,
+          "neutral": 1
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 47,
+          "positive": 29,
+          "negative": 15,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Rabat Hotel",
+      "property_token": "ChoIucPMrPnHlO_rARoNL2cvMTFmeTUzcmI1YhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIucPMrPnHlO_rARoNL2cvMTFmeTUzcmI1YhAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2551547,
+        "longitude": 76.91928109999999
+      },
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0108",
+        "extracted_lowest": 108,
+        "before_taxes_fees": "SAR\u00a0108",
+        "extracted_before_taxes_fees": 108
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,076",
+        "extracted_lowest": 1076,
+        "before_taxes_fees": "SAR\u00a01,076",
+        "extracted_before_taxes_fees": 1076
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "34 min"
+            }
+          ]
+        },
+        {
+          "name": "Vahtanguri Georgian Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "9 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx--0zV3Ll3Fthg5H4bXhZsSggncffC0_-QkHtIXLLN6mdiTeloUXRvMvGPBT4kxRNMk1HErV2hhCcSj16APyr8_NOQMuACd2jJfafYVtqiEjg0W8yq2T39m-conqisg61H8Bc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDT2-6Meg=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzCbE-mguQF1zbB6wJXLj40xZXhmjzFANG39amFxKUZItyvh22J-ZIwTyrEpkACdPyZnDEMPeZzmmigtRVB5jJyLWL6CIv7C-zIUdSLq0ZwWhjcapGEfQS-uMKn2KY3NmnV4GKf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIC47_D7Kg=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/5Cw2zcV5fIDeMbWz0DlezfS-Gg6JLk7Tlb-pinvUIRw0JkQjN-sGwU1-ROjciUDzHSA4KUPdIo3Aegm9ULmVMI7eAhznlSgvgfWBhnIp7dQhwu4GpLyFygmmeJgZ-jT8tamb5Y3H_Mn3V08xAiGEVQbbkiWAVA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7RZtdYX2eZQvPa-z6WzT535h-Z5UhxL1fsSRYvDrvneuzrki8wOpw18XN3P5Q6NW33gFa5ifehzx-zdgyhZx9Y2KS_zv8CXt7Wy2-oWgYoPPVr70ajjQMf7HWkYnz4.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/dJKozcmbbC3i_IBHPngGhfN3et7vnX7DJE7LgdxXz2otf9a7mfNRL-1dENYqIgj6FPWbLg6YCz6Rm0gGXMJT996AwdztC6An1pD2Co4hvdsvic8EasQ8YZhph5Nbh-SPJPLRuijUQrDT7RCG6E96JQRkEkBrkg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7RZtdYX2eZQueMcL0mJT8ev_9EXP5mEuACANv_-hsz83jaWqtC2R5LDBRo5AKVyVCQBNUgA4MAjh12MavOUKeMnyXSy-OZM8A7sAVjQxZqKHvoACqR4_Y-VUsBF9-T.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/0MFT0tj_edjg3SBylnGA_k__hMxjjLP7LQYcgEcqxUmtL12bVMYzEPfWvjgJbBE_9SPLgB49MVjBDuQJuSlJFNLYvnqOL-soMcE_LQJtcn7UfGKCvC7xJBr6iZgunwfk80BXev-uwO3_190Nzw_ITYkQeYBOgQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7RZtdYX2eZQqp3VWzveZq8faghkTlQIueJchaAkCvYUEfx6JtuqGxKg4EBASAwar0PADPNhMmT73-aPyJKIuPs_Q9OlqpDBNhVgJUQdYne-45NFEg4JdUY5ogsDZGt.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/dgvB55-cSp9Cjj7xaJoDV0tMeEutBKX9Ob_vM5uQ9F0ez2dHm08t8lWwDcW5UiTahNioqqir52mdOjf6JHjkBj5jQegFEUsDymVd97kTr2Zvx_inappUaLY5CJVn6Ts49AhRdGUDxH_6XSeYiBGy9CxtsNMgpNY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7GFXIqlsbzoaVnJbAaeYMKhFZzaa33Rrpx3RWF2-ek64sEkIDTfExKLAtOXyTroukm2LCbP9GEkS-3X1hxuBT9p4-QkqLjZubJCPKlmeWV-rr9pZSxdn8LmohbSJA2.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/i_fot7V5ZtAF0xfOVujB6-WpI0BnxMhjyarQ6R5cyDVKhN9nKL5fT6kat1vBOptEk6GBZyxq9Hbxab_VEBDlzedYbNYIlMlseEeAiff7jeih9RGZycq5bhiPcVROUTqqXJCV52phYsXE0AmNZu7FIFkqxkgZAw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7RZtdYX2eZQheo0vkt3csD2cWu4ZyFuuM3LOH_z-IPfu6v4Ii58wC3gqs1_wBo7yj5zNhqHwUFOaTrnOGnKtDobv9QocE6cwOwv7TnGFAWDWInWrWhQDqD3tb-gL1K.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/02fSwYuaotNS4zEbAK9gWJ4SO3vFlhinFP4nfjp-osrxn7sXlQaOJCcj447MrWopowzFn-F01ZDZgMI_Ho0vPPoe_78p0KfU29cQauOorft-XFRziG2LvahehBxHGkqigMkB16dNMhV4QxY5KFsaOrMVe-CBfzU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7RZtdYX2eZQvkLFTusGXv8G2y8DDMV-1CysrTFLqbjhspzR3-9DdQg9a9T2RRzsLMJyNir8-UYRH5hsLmBz-ZHU7kO_VmhCD7wRyUZ45jm6fPS_anYx8y4dlzRyezL.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/MWqTwPdLJaeP0EFY0IXa7UI5ZUm18X3CI3wGLszVqJINRZAYG2IQ9rABEEVS6DhalX5j_HNCszl1QV7bsOYj1PTD9p0HcbMMftvvqWD8_odzMCEARWQfU7eFbXSNi0o1o3WAhoQFp3eEIdG2Sg3jxwnXjB8qhkU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul7GFXIqlsbzod3jw7R8-9bacVUeXp-m4B7QssWYvyGtRhYXLBYyWvt5Odn9WyzKPZDOdHXHuhu4QeI7JJ4CR4KxWo81LbX92VhFtcLawnVNU0ZW2ffL02vYhtEzQnWu.jpg"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 124,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 67
+        },
+        {
+          "stars": 4,
+          "count": 26
+        },
+        {
+          "stars": 3,
+          "count": 9
+        },
+        {
+          "stars": 2,
+          "count": 4
+        },
+        {
+          "stars": 1,
+          "count": 18
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 10,
+          "positive": 9,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 12,
+          "positive": 8,
+          "negative": 3,
+          "neutral": 1
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 5,
+          "positive": 5,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 6,
+          "positive": 3,
+          "negative": 3,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Uyut",
+      "description": "Warm quarters in a sophisticated hotel featuring a restaurant, a fitness center & meeting space.",
+      "link": "https://www.hotel-uyut.kz/",
+      "property_token": "ChgI9di5raLs5Mc9GgwvZy8xMXhrYjM5ZGgQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChgI9di5raLs5Mc9GgwvZy8xMXhrYjM5ZGgQAQ&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2599148,
+        "longitude": 76.9337451
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0316",
+        "extracted_lowest": 316,
+        "before_taxes_fees": "SAR\u00a0316",
+        "extracted_before_taxes_fees": 316
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a03,157",
+        "extracted_lowest": 3157,
+        "before_taxes_fees": "SAR\u00a03,157",
+        "extracted_before_taxes_fees": 3157
+      },
+      "nearby_places": [
+        {
+          "name": "Ascension Cathedral",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "6 min"
+            }
+          ]
+        },
+        {
+          "name": "Alma Ata 2",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "29 min"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant Sandyq",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNolTVyT9Qznv9gA8PTuJT06zUl5tTXDFHRFg6s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNolTVyT9Qznv9gA8PTuJT06zUl5tTXDFHRFg6s=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM-sjwxUmS3ItTYTvnvFNzhMywV4KzgBV4Rv9Co=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM-sjwxUmS3ItTYTvnvFNzhMywV4KzgBV4Rv9Co=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNAlOH8Uvx98xYwC1-7jaQl4CRWEgLVCfKG8TV4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNAlOH8Uvx98xYwC1-7jaQl4CRWEgLVCfKG8TV4=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOO6FaFUsmHk8l3hPx4bcRjRfzkNrYnER16NZ4b=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOO6FaFUsmHk8l3hPx4bcRjRfzkNrYnER16NZ4b=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN9yw1VoNUg8rJ_xEtBUXkPtKDsPGGHjI7dBFQV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN9yw1VoNUg8rJ_xEtBUXkPtKDsPGGHjI7dBFQV=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN31e2r2PqV2Hr1815Ra5hSg3vZ_KKIr9SBfb7w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN31e2r2PqV2Hr1815Ra5hSg3vZ_KKIr9SBfb7w=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO_aIU1EVdCyhPghDfXCgJ2cdE9uc_vTN_yJn9h=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_aIU1EVdCyhPghDfXCgJ2cdE9uc_vTN_yJn9h=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNLDYs906Z75cH1a2o6arknedVtHyj2-xW4WEvC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNLDYs906Z75cH1a2o6arknedVtHyj2-xW4WEvC=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMZ2odWP5p9LMT865j1Nr_xBnEucnFniQsqvBIm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZ2odWP5p9LMT865j1Nr_xBnEucnFniQsqvBIm=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 1811,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1320
+        },
+        {
+          "stars": 4,
+          "count": 283
+        },
+        {
+          "stars": 3,
+          "count": 109
+        },
+        {
+          "stars": 2,
+          "count": 37
+        },
+        {
+          "stars": 1,
+          "count": 62
+        }
+      ],
+      "location_rating": 4.2,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 191,
+          "positive": 159,
+          "negative": 28,
+          "neutral": 4
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 91,
+          "positive": 67,
+          "negative": 18,
+          "neutral": 6
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 181,
+          "positive": 152,
+          "negative": 21,
+          "neutral": 8
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 109,
+          "positive": 100,
+          "negative": 5,
+          "neutral": 4
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 132,
+          "positive": 116,
+          "negative": 13,
+          "neutral": 3
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 26,
+          "positive": 19,
+          "negative": 4,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Business center",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Almaty Backpackers",
+      "property_token": "ChkI9vKB2tPqrrpPGg0vZy8xMXRoaDR5NXpoEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkI9vKB2tPqrrpPGg0vZy8xMXRoaDR5NXpoEAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2321625,
+        "longitude": 76.9280922
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a036",
+        "extracted_lowest": 36,
+        "before_taxes_fees": "SAR\u00a031",
+        "extracted_before_taxes_fees": 31
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a0359",
+        "extracted_lowest": 359,
+        "before_taxes_fees": "SAR\u00a0309",
+        "extracted_before_taxes_fees": 309
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty Museum",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "28 min"
+            }
+          ]
+        },
+        {
+          "name": "Goose",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "6 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNDJ3uUX2yAXt0NBHvDjHaYyUuTyNm0ueGRIhhi=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNDJ3uUX2yAXt0NBHvDjHaYyUuTyNm0ueGRIhhi=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMrmYSWVpeRRvH2MoBBy9MzGKy-zV70bqYNlDvN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrmYSWVpeRRvH2MoBBy9MzGKy-zV70bqYNlDvN=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNc8QCQfQUku_g6mpb2n23kHLsOFeUeyAoAwYhW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNc8QCQfQUku_g6mpb2n23kHLsOFeUeyAoAwYhW=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM_3hVJ4-8j4mfGzC1YNMrZ4se8TVrgGwvCOpH-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM_3hVJ4-8j4mfGzC1YNMrZ4se8TVrgGwvCOpH-=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3iAyMC48LK9yOoyOmipS01dryL8sonDpZIYsSdmSYv6ErzZRzHly0EAXJxaHvoa_BuJuF5YvVYS_iYRLsygVqPpdBqOJgWtUcuTdj3ri-GXEVClMnm3KmKALv5sVZuAvzO_g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIChg7jnZA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMrSut5AKa70UEGUAPYzzihNDOTv-m9jw-tQ-iI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrSut5AKa70UEGUAPYzzihNDOTv-m9jw-tQ-iI=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/zlJrK0whP8q74LBzUtGPAUCDg4djBpD61CcqYJjqZi8AeIO8oOLFINgX5K2sjtPGgRZAQ1Pw0-LmxfgZg8Pn0E096B7lr_BPsemOww9h-JqLKdzPkS7BbcxteohXD5GU8VNXOnNGpVD06UAZFCw2xBib0kohIAc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/00/b6/00b66c1cf96e835c4a425451bf465b43386941fb.jpeg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMsXypRO8vnw4BP0oUURDHHGi3GG2OSL1mzTGHU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMsXypRO8vnw4BP0oUURDHHGi3GG2OSL1mzTGHU=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOMAAnbR2rQZNgwMlEoniqaqXB7tIzEJkW8BDEh=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOMAAnbR2rQZNgwMlEoniqaqXB7tIzEJkW8BDEh=s10000"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 222,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 143
+        },
+        {
+          "stars": 4,
+          "count": 31
+        },
+        {
+          "stars": 3,
+          "count": 16
+        },
+        {
+          "stars": 2,
+          "count": 15
+        },
+        {
+          "stars": 1,
+          "count": 17
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 57,
+          "positive": 38,
+          "negative": 16,
+          "neutral": 3
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 25,
+          "positive": 7,
+          "negative": 15,
+          "neutral": 3
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 51,
+          "positive": 35,
+          "negative": 11,
+          "neutral": 5
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 26,
+          "positive": 7,
+          "negative": 15,
+          "neutral": 4
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 28,
+          "positive": 15,
+          "negative": 6,
+          "neutral": 7
+        },
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 10,
+          "positive": 5,
+          "negative": 3,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Resident Hotel Almaty",
+      "link": "https://resident-hotels.com/resident-hotel-almaty",
+      "property_token": "ChoIpcmc5uqe8_b5ARoNL2cvMTFnMGduMmhjMhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIpcmc5uqe8_b5ARoNL2cvMTFnMGduMmhjMhAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2898189,
+        "longitude": 76.9330887
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0183",
+        "extracted_lowest": 183,
+        "before_taxes_fees": "SAR\u00a0158",
+        "extracted_before_taxes_fees": 158
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,827",
+        "extracted_lowest": 1827,
+        "before_taxes_fees": "SAR\u00a01,575",
+        "extracted_before_taxes_fees": 1575
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty Central Mosque",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Alma Ata 2",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "22 min"
+            }
+          ]
+        },
+        {
+          "name": "Ilnarus",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPziaJiTz3_0t-shbb-eaO7C645MkaL6bQKBk5R=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPziaJiTz3_0t-shbb-eaO7C645MkaL6bQKBk5R=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNIUR47CfAg9g7PwHZ5kcoBckGYoV_NkWoCCtFz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNIUR47CfAg9g7PwHZ5kcoBckGYoV_NkWoCCtFz=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO9zdv3xVJnpD0mT-vLBKeyAGZsTb-7lMrMmTpU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO9zdv3xVJnpD0mT-vLBKeyAGZsTb-7lMrMmTpU=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOnPVPciZwTyujO5FHdw2360WK4dpMVxxw4rWRk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOnPVPciZwTyujO5FHdw2360WK4dpMVxxw4rWRk=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNpYdlmakj8w_9-iRUTaMX4PkDIaow38th27Jui=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpYdlmakj8w_9-iRUTaMX4PkDIaow38th27Jui=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOCqa9My37YY558ujRMXSNsgxjMRwtzj3JJWOj8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOCqa9My37YY558ujRMXSNsgxjMRwtzj3JJWOj8=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipObPb2nQxL5gtex160z6EMqSGoqnVtyUElzgM9c=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipObPb2nQxL5gtex160z6EMqSGoqnVtyUElzgM9c=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNzPmY9Th11dsxsUhApqQ9tdOWkhdx3tAVGnJLr=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNzPmY9Th11dsxsUhApqQ9tdOWkhdx3tAVGnJLr=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM6MIqz0OX0vxzz90UCj4PcBCk6Bd3CPA9NkDvu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM6MIqz0OX0vxzz90UCj4PcBCk6Bd3CPA9NkDvu=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 297,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 199
+        },
+        {
+          "stars": 4,
+          "count": 56
+        },
+        {
+          "stars": 3,
+          "count": 24
+        },
+        {
+          "stars": 2,
+          "count": 9
+        },
+        {
+          "stars": 1,
+          "count": 9
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 8,
+          "positive": 7,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Spa",
+          "description": "Spa",
+          "total_mentioned": 7,
+          "positive": 6,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 26,
+          "positive": 23,
+          "negative": 3,
+          "neutral": 0
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 18,
+          "positive": 15,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 19,
+          "positive": 16,
+          "negative": 2,
+          "neutral": 1
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 7,
+          "positive": 4,
+          "negative": 3,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Air conditioning",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Resident City Hotel",
+      "description": "Warm rooms & suites in a contemporary hotel offering mountain & city views, plus dining & a sauna.",
+      "link": "https://resident-hotels.com/",
+      "property_token": "ChoI9NL9u93uwcvlARoNL2cvMTFqMHMyMDRqZhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoI9NL9u93uwcvlARoNL2cvMTFqMHMyMDRqZhAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.268709,
+        "longitude": 76.9376228
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0258",
+        "extracted_lowest": 258,
+        "before_taxes_fees": "SAR\u00a0258",
+        "extracted_before_taxes_fees": 258
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,583",
+        "extracted_lowest": 2583,
+        "before_taxes_fees": "SAR\u00a02,583",
+        "extracted_before_taxes_fees": 2583
+      },
+      "nearby_places": [
+        {
+          "name": "Ascension Cathedral",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "27 min"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant Sandyq",
           "transportations": [
             {
               "type": "Taxi",
@@ -531,134 +2895,833 @@
       "extracted_hotel_class": 4,
       "images": [
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwvufKShmmOXz8SCmL7nZ000Aj4SoLAvjtb0vC48f852DgbYEdxKrkiYYJP1t8gpn-wuPWSEZDI_qI7q2qqRfpSNdj0V3l8STNTrV4f-BaJoL8gOCQIoKZL1K48TnswUriA4n7IlA=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDh-d_t1QE=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPbe2QvjNOhpo4wcQ0gci4czFSIZ9em6GftCM2C=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPbe2QvjNOhpo4wcQ0gci4czFSIZ9em6GftCM2C=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMSZtSrIgkWhpkTeiMR4nxjwSJAqpJz6-LZzdhS=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMSZtSrIgkWhpkTeiMR4nxjwSJAqpJz6-LZzdhS=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO7fVT8FwAvX1UlReyzl1gsr96mZa2Vla73UMlL=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO7fVT8FwAvX1UlReyzl1gsr96mZa2Vla73UMlL=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxzJ0XLHyKNB-OXsJ2RADCR_wTDzd1s4YWan0LMSZgxbMlcOrbzptnmBH-QKRgf1PGpPYTzKinoV1ci8K7cUg9MqSWc3b9TGJwxdX58TmER9IsRhShjlcer4nvv9FrDZbjDfRcd=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIC9jIO51wE=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP1HXAHsDim9Iy5r881pfRzlTKu_Ky597yN8E3g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP1HXAHsDim9Iy5r881pfRzlTKu_Ky597yN8E3g=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipORUzzavOEkXLwqfIwty6FO9HaUaV2uBDvQ479z=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipORUzzavOEkXLwqfIwty6FO9HaUaV2uBDvQ479z=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKAYrbPbK3ISPg0182yNbDj7j_yLQTElapLbWt-qDIpkeN5d8GLQrFfEpGDiDfRz7urKAdpG9HivDjWHou6FhmyAtsKrtN5R6hatRjNaAU_ZnsdbHkAdRokqM0lBU4HLaCE25uUA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICcyp_zmwE=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP-abyxiYtdfXhZcKgfh_3rEq2MYzn1g0miOc8S=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP-abyxiYtdfXhZcKgfh_3rEq2MYzn1g0miOc8S=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwul9AbWwVPEKa98KNIA9ON_GpBlSvMm-SYHTxSgC4wKHO1QKBK8TMajLxUHnWchXKZUpIBL9SWJ8ezIzavtJDo0VHTpFtgp2RnREaMPbunXMdvBJpXrDn23VavkyWBXZ1qwqLf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICcyp_zJw=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOJLRLhYrwwI0_GtG4A7Eu_Z-LTIVWKqCjMAnua=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOJLRLhYrwwI0_GtG4A7Eu_Z-LTIVWKqCjMAnua=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMqBY1vN8mKq2vt8L4-pCYvV-iHJboCwHJ0EOTn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMqBY1vN8mKq2vt8L4-pCYvV-iHJboCwHJ0EOTn=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNonZSsDkYkDqD7L_HyElxqjJ_qvZCU3L3c4aIw=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNonZSsDkYkDqD7L_HyElxqjJ_qvZCU3L3c4aIw=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPLD4x0pKaAojliLG61XrSzgr8RPvOAB8Dp3KkZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPLD4x0pKaAojliLG61XrSzgr8RPvOAB8Dp3KkZ=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO2dTUYA5JeJkY3DHJdxKowAP9SLwubf-vWlsGE=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO2dTUYA5JeJkY3DHJdxKowAP9SLwubf-vWlsGE=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNw9A96xK85OFzI6uOmmjGg_Aeekbjc7u3vIVeb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNw9A96xK85OFzI6uOmmjGg_Aeekbjc7u3vIVeb=s10000"
         },
         {
-          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOqBnC9S8G_J9Ecg5P79sKk9cOjnLsP6XsgPChl=s287-w287-h192-n-k-no-v1",
-          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqBnC9S8G_J9Ecg5P79sKk9cOjnLsP6XsgPChl=s10000"
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPMQCR7k1_-d-AK52rEDJNJkeHcodE8cxj3y9PA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPMQCR7k1_-d-AK52rEDJNJkeHcodE8cxj3y9PA=s10000"
         }
       ],
-      "overall_rating": 4.2,
-      "reviews": 3241,
+      "overall_rating": 4.6,
+      "reviews": 519,
       "ratings": [
         {
           "stars": 5,
-          "count": 2192
+          "count": 388
         },
         {
           "stars": 4,
-          "count": 403
+          "count": 85
         },
         {
           "stars": 3,
-          "count": 198
+          "count": 26
         },
         {
           "stars": 2,
-          "count": 106
+          "count": 10
         },
         {
           "stars": 1,
-          "count": 342
+          "count": 10
         }
       ],
-      "location_rating": 3.3,
+      "location_rating": 4.4,
       "reviews_breakdown": [
         {
-          "name": "Dining",
-          "description": "Food and Beverage",
-          "total_mentioned": 160,
-          "positive": 131,
-          "negative": 23,
-          "neutral": 6
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 36,
+          "positive": 29,
+          "negative": 5,
+          "neutral": 2
         },
         {
-          "name": "Nature",
-          "description": "Nature and outdoor activities",
-          "total_mentioned": 74,
-          "positive": 65,
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 53,
+          "positive": 46,
           "negative": 6,
+          "neutral": 1
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 50,
+          "positive": 43,
+          "negative": 3,
+          "neutral": 4
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 32,
+          "positive": 21,
+          "negative": 6,
+          "neutral": 5
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 18,
+          "positive": 14,
+          "negative": 3,
+          "neutral": 1
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 23,
+          "positive": 14,
+          "negative": 4,
+          "neutral": 5
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness center",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Tau House Spa Dastarhan Hotel",
+      "link": "https://tau24.kz/hotel/",
+      "property_token": "ChoIoqyAvbqYvOafARoNL2cvMTFjbV9odDY3dBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIoqyAvbqYvOafARoNL2cvMTFjbV9odDY3dBAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.1176927,
+        "longitude": 76.913814
+      },
+      "rate_per_night": {
+        "lowest": "SAR\u00a0452",
+        "extracted_lowest": 452,
+        "before_taxes_fees": "SAR\u00a0452",
+        "extracted_before_taxes_fees": 452
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a04,520",
+        "extracted_lowest": 4520,
+        "before_taxes_fees": "SAR\u00a04,520",
+        "extracted_before_taxes_fees": 4520
+      },
+      "nearby_places": [
+        {
+          "name": "Kok Tobe",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "44 min"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant Avlabar",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/wGQfCxZtGMQ__i_rG0hPERnX4G5RHCvIHpLG3JYNiOQLdl85onGqOCp2LI6M00PeNtiYRPwSWDPS6ORUlxt7dzhnBi0197f8HTm63b7ZlaPn4iDTkuIIZDSZePIKF8ZKxI-cnJKtKfCYq6VCBf7n060ODcxEFT8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8b/ad/a8/photo5jpg.jpg?w=1900&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwwQFpFbuqwtC4PNv2yM91cStQSrNvWo9pQ4SMXecGLL_7HB76y9apjhmE7ktoKx3nbWPYWz93mxYbiCc3atzmIiIdq05Dj9vlhjHSNR8aH3rfkHgWMerkw6RDz1EaL4COa_Oo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDU5b7iKA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyDQ3ddAKwYIj3jdcOEz2E6tltlPDNuJk7W2BHJu7YMAKEieFcqIdU2xM6iJX1wGHtvWjQ1Lg2ONLvGAgbty2Dd7FT8R-zAOpINZiIwLJiJbZhQCVohX7DroJuxfYBH6Uo64wJdoQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDU5b7KlQE=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/1wN6BEu4rqa_-s3SsTIgHNHjUKhkToMlNe4IFAxDZ_50QvumWoiRfo1bSgAqfE6rYzwFSibtSDyZxA8Rr2nDBAJvoK2SPiMl-jO8LhnTwNdR3XkoFUZMLtN-vlYXsutwFY_BAEt2zgHKi81d3z8Dwj-m2EsgZg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/42/0e/e2/tay-house-hotel.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/NkytO8h1Rqt36awNmN3m9OMsJlNrWOEJ2WXXCCywxtPghnVB4i4Uf7vbNyw4MGrHWQ-WZ9I3sX_mBgXzpENB_UE2_Jzetm9WNPbEDX0JqsRzQ1QTIIrvGF9l41vVNCb7RIx79D_BKzOHBlGTluuJ5iF84TpOQ9A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a9/5a/24/house.jpg?w=2100&h=1200&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/KN_RIpSmpfexZl5DIh8UkwAoXUFaMMfzBXfrpu204A2LvKiaSG3Nf4jQprlTBmgYZpfLrhdvJnrsUX2Lc6sY04eDuHew5a4ybnZKxqlVK-mfFq-lUObjKSWk4QMvCZ9d8e2lKUCalZPytEftjYm5SoBIVTiXKhs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8b/ad/ab/photo7jpg.jpg?w=1900&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwTpn5VDAmbOmXhGzlKq9YAPq4YITsl_XVtdet41gIOAqLiKVzmWF27MF-Zf5hY1ZLGux6mzVmgDLJtZonCjfaYzQ5ZbWoBmB5FkaIueCHq5-AsnS7_JYm9Gfj4Lf-VmU8h7ZPm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDWhp2J_AE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbQdQQHz1OS2Ak4zeUgyXTySYfF4V1X4hs88x19wKvkVQoEx6eHWwWypx05UjjuybHZM5CkNU_pUHyVCyoe0gxKRzLUzLu6PW3DacTXasUScK3cReSjg7ZTXv5g3uTUMG-vlzm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDc79SVSw=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypMyq-PEIZnjDjkqW0F_aTAJ7N0Q6uJKkYayotC1-lC29zp7AialkZ5tfvhFA6kjfTH5Nw6ulncSbqpwWPEX5hJMF-hL9Zw8u5xwPDhRNpP_7NFtLdT0Vhq7VJ16ubhB-0YUZB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDcm7OU4QE=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 160,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 122
+        },
+        {
+          "stars": 4,
+          "count": 20
+        },
+        {
+          "stars": 3,
+          "count": 11
+        },
+        {
+          "stars": 2,
+          "count": 2
+        },
+        {
+          "stars": 1,
+          "count": 5
+        }
+      ],
+      "location_rating": 3.0,
+      "reviews_breakdown": [
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 6,
+          "positive": 5,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 5,
+          "positive": 2,
+          "negative": 3,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 5,
+          "positive": 4,
+          "negative": 0,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Spa",
+        "Restaurant",
+        "Full-service laundry",
+        "Kid-friendly"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Regardal Hotel",
+      "link": "http://regardalhotel.com/",
+      "property_token": "ChoIiuzO4qr89bKyARoNL2cvMTF5MmNyd3I1ZxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIiuzO4qr89bKyARoNL2cvMTF5MmNyd3I1ZxAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.236748,
+        "longitude": 76.92712399999999
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0194",
+        "extracted_lowest": 194,
+        "before_taxes_fees": "SAR\u00a0194",
+        "extracted_before_taxes_fees": 194
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,937",
+        "extracted_lowest": 1937,
+        "before_taxes_fees": "SAR\u00a01,937",
+        "extracted_before_taxes_fees": 1937
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty Museum",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "28 min"
+            }
+          ]
+        },
+        {
+          "name": "Kamchatka",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOFO_vv7gHufkmh7BbFyfP3_50OzlAwso_BLPKD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOFO_vv7gHufkmh7BbFyfP3_50OzlAwso_BLPKD=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwddFswQY-nvUZhVw6iL4if6f6o-BXx-NFUZAQb1cYiNisYv5L4HicC1ntFYgpGfQrVrQQGymsjMK6OjFtkmQefAQaKGSZoz8pPgiQaW_GhUMGT2ca4ZC9lwprqfcm-nmpPRok=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICHuZbNeg=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/EJnwzI0GTqQbwJDc9xDt7vq_T16tj3uRRvrgni-TnUYDXciqMgQzUdsqryIEIaOnKstnaTlohnmnK6bAR0amxZU-7sKq8jZJhd8JlmAMiiPbOynv9KUiAma4VSm_m0tPuGou4jMYOEADED2RibQFHwCuZxsx1A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/10/1009638/1009638a_hb_r_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/yE7htI4N3MpEB3awVaZ1rklFzB7eZ8swrK9LlTnvVfH_2ME69tvvNsCq7nU4PM8eafTtwj2a_A4uwz9kFYjrEr9VYZXJmSrWwVikbqX6c5Vd9izaeXvrTfNpdr1wX8l-h4nJeKc6b1gBZpVzPGYBxIsTsqMmKac=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/10/1009638/1009638a_hb_ro_031.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOloUouPeN5fEoMbxSa4kuQYtM5_AREsRdj88o7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOloUouPeN5fEoMbxSa4kuQYtM5_AREsRdj88o7=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNs50_2w_WtYd7oX2ttnJTfSdXUcZ4xt_f0_Pno=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNs50_2w_WtYd7oX2ttnJTfSdXUcZ4xt_f0_Pno=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/lEBBtEsDJKTAgKGYaofIwTAjfGcPX3P7_RtmG1DC-LVklXYmr9KAPhFOLQs8UbniUd0uPLZ7ymcbJGjqmbPtYX518KQK_2DByJAx6mJ4JeBz2HT0KC0MfFIL3xXowU87Vav_lAAo3gi5wX9SYxBXAH-jlpLDUA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/10/1009638/1009638a_hb_ro_027.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/tPPkZOMhZQP5JgdEPrroY7rwj7-cokF5jGdS3oPZQP2l8cqpcyiKWk2vqXMIniSMHZ-yzLMMnJUgaJ64UEcRizOzoOw7uRxPy6UxyJz6wsvhEqz5WpjAwB3d3sdyns2g2V_NW1panC827XjCMOKbSkaeHg65IQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/10/1009638/1009638a_hb_ro_033.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOm7TZj1SRvlg2XxdkB26hfG8RzdiGCPDPtaGUb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOm7TZj1SRvlg2XxdkB26hfG8RzdiGCPDPtaGUb=s10000"
+        }
+      ],
+      "overall_rating": 3.2,
+      "reviews": 163,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 71
+        },
+        {
+          "stars": 4,
+          "count": 15
+        },
+        {
+          "stars": 3,
+          "count": 10
+        },
+        {
+          "stars": 2,
+          "count": 8
+        },
+        {
+          "stars": 1,
+          "count": 59
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 58,
+          "positive": 18,
+          "negative": 38,
+          "neutral": 2
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 18,
+          "positive": 9,
+          "negative": 9,
+          "neutral": 0
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 13,
+          "positive": 0,
+          "negative": 13,
+          "neutral": 0
+        },
+        {
+          "name": "Accessibility",
+          "description": "Accessibility",
+          "total_mentioned": 6,
+          "positive": 0,
+          "negative": 6,
+          "neutral": 0
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 15,
+          "positive": 5,
+          "negative": 10,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 28,
+          "positive": 8,
+          "negative": 19,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Spa",
+        "Restaurant",
+        "Airport shuttle",
+        "Full-service laundry"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Alma Hotel",
+      "description": "Laid-back hotel offering an indoor pool, a sauna & a gym, plus a restaurant & a furnished terrace.",
+      "link": "http://www.hotelalma.kz/",
+      "property_token": "ChkI366vkJuhmZnCARoML2cvMTF4YzY1NHc5EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChkI366vkJuhmZnCARoML2cvMTF4YzY1NHc5EAE&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.243919299999995,
+        "longitude": 76.9612121
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0197",
+        "extracted_lowest": 197,
+        "before_taxes_fees": "SAR\u00a0197",
+        "extracted_before_taxes_fees": 197
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a01,973",
+        "extracted_lowest": 1973,
+        "before_taxes_fees": "SAR\u00a01,973",
+        "extracted_before_taxes_fees": 1973
+      },
+      "nearby_places": [
+        {
+          "name": "Kok Tobe Hill Gondola Cableway",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        },
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "24 min"
+            }
+          ]
+        },
+        {
+          "name": "Tarkhun national cuisine",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMsBFVox2lcHxvgDVtB8LXrzRg5hXeBZzXqa522=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMsBFVox2lcHxvgDVtB8LXrzRg5hXeBZzXqa522=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/7D7uX-_CJHTyzhuc-7BN3Uj2qvFe6n7qMunsSYqkIhw_IJWr0a1vpxX9gUy150UQO05SX7CZNjNN6XWb-HVUZjiOvHOPdDyFjyutU9sAcX76BAQfvayGFDV2-lWR3NYEmHIE4XCuPkDc5dcZT9-hlqZfzfCR1K8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_ro_112.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/DEnp4rkDQ1T7S7AtQDp6gSjva0SBYjsYOkDoemdE4MsC-5iAvREvBt8O0xoPLPe8T1GpXJ9foCia6WGWmbt4jiWyqXO_3BU-tvquSn0kRd4KyWqLmMOwbmWEfhAKwlc02c3SUMKXAeDom0B76eJLwhzz6_72aw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_f_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/zT4udz3n0hkKid4oIwrlgM9ZNwp9O_GCn8iSAy9Zh_6fCaIsPBO3FSRZtH8X7iPewzAej7JHkgN5ekIytP9tfvxngTQ83MI69TknYphtk2CLQVhKuEOl9g_W97J4zxRbMrzebT481dmKkOZXUyXyUm_kAcww0hc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_ro_074.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP3pk1meIt-h7ljzxNmAP8V1TZx7ib9MhCBlnYk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP3pk1meIt-h7ljzxNmAP8V1TZx7ib9MhCBlnYk=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/3u_21XlZh-Ef4V5Ll69zCGgtKLZKxBKRzdm8HcxFZaRQy65RfqSLb8xTVMxz7SEqhwteJfpVwlbEegvWvW0uAk0cG_QknohMrbkShvErUyd6lBZBGzCAM8zgMciB5wMSR-15uvmnyDvZgJPOx66XKWPreoCj7D0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_w_058.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/egCriWFaP6YxGS8wHNajzR3ryD9LPB5UWK0zy1Ij4vMcJ3O-i6WDl5GRYsAqOieQB22J1gb1-ddGKTSSeAn6_wEX_AkRD88d5UrHHyV4CDj48hpsf7UqVIiE0gm_ZAmRVuLIrsvlsjtbUEwexZROJA12WGB4CA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_f_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/UVKl0BbAyLsHNnps_wYdOL5ytl6EnfBrS8TIRoberJehjlBILoiUD-FlDGzdEdoY0rWca8WLopEf09vrgAMc9wif2EANE5kviJYdW-83MS1z0BWhOA7vtOrgrMt3gDtHPndJSs7rfoCJKi_Cf03jckizyjLVOkY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_w_012.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/IO6c6gPCuOnHndkWS2J0IzzMWvm2YsFcZXgTkwcpw5giNSnLTS-fhBkvGSJ53p1n2O1NHXJsb6sixX6o_1vn7KVavGNGxJLJ9l1N7luVzQ08cQFH9SZ-qXZUvC7v3QRYvg6Ppfdw9SkPa7lvSa3KKNe6LxwIO0w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/49/496501/496501a_hb_r_013.jpg"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 451,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 265
+        },
+        {
+          "stars": 4,
+          "count": 99
+        },
+        {
+          "stars": 3,
+          "count": 48
+        },
+        {
+          "stars": 2,
+          "count": 12
+        },
+        {
+          "stars": 1,
+          "count": 27
+        }
+      ],
+      "location_rating": 4.5,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 34,
+          "positive": 23,
+          "negative": 10,
+          "neutral": 1
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 13,
+          "positive": 11,
+          "negative": 0,
+          "neutral": 2
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 29,
+          "positive": 22,
+          "negative": 2,
+          "neutral": 5
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 18,
+          "positive": 4,
+          "negative": 11,
+          "neutral": 3
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 12,
+          "positive": 12,
+          "negative": 0,
+          "neutral": 0
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 41,
+          "positive": 27,
+          "negative": 9,
+          "neutral": 5
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Air conditioning",
+        "Fitness center",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Kid-friendly",
+        "Smoke-free property"
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Salut Hotel Almaty",
+      "description": "Individually decorated rooms & suites in a relaxed hotel offering a spa & a hot tub.",
+      "link": "http://www.saluthotel.kz/",
+      "property_token": "ChoIi_Tlvdj1m_alARoNL2cvMTFkXzFubjB4eBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&property_token=ChoIi_Tlvdj1m_alARoNL2cvMTFkXzFubjB4eBAB&q=Hotels+in+Almaty",
+      "gps_coordinates": {
+        "latitude": 43.2402606,
+        "longitude": 76.8199424
+      },
+      "check_in_time": "2:00\u202fPM",
+      "check_out_time": "12:00\u202fPM",
+      "rate_per_night": {
+        "lowest": "SAR\u00a0215",
+        "extracted_lowest": 215,
+        "before_taxes_fees": "SAR\u00a0215",
+        "extracted_before_taxes_fees": 215
+      },
+      "total_rate": {
+        "lowest": "SAR\u00a02,152",
+        "extracted_lowest": 2152,
+        "before_taxes_fees": "SAR\u00a02,152",
+        "extracted_before_taxes_fees": 2152
+      },
+      "nearby_places": [
+        {
+          "name": "Almaty International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "37 min"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant \"Inzhu\"",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/dv14A-JBS4LseeUJByYUimKYA1l_lGRl_GDUTfphVDKzXN1CJc1LSy3DwjxwHtS3KGaAUHTD6wZZUvDpOZNmHLqjVXA04gUiCT_yY5gEozqfBKa9Dc7Wvcn4pgzMAA9smXV7Do_KZa9PLbOEXEMEJD8RXau80xs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/66/668677/668677a_hb_a_003.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxmD8Fyl8R5psdlGtG2_NEquxXWQ0rLOHwFx7PJLNNnyEgxzpP0M8k1EDgvw4oZWK4iSxc_T0Mz-TdmTvYMY4BL2HoTDB88j_iKCeaBTvRgB_T3MVdfNzxa9xdXGie2gr0Sb7aQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDpq83c2wE=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxctXbfSs_Nnv1dRqr9SIO3kgO2226n5rFoEH62kg9luYUlV8dqkhHOSfNQiHeM-zfFdhJJLAi5eAqKKQ3Hg02ND3y9O0ZiUrsHlc7UMa5kNtXlzodPpQAAZyWcrMESR2XiSWsC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDhg6PtYA=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/6uGfIZyzCqbsO6Dp4OcMm-W_LVts4C2Lg_gIkXfMr7Iy92BEi5MJcglZKbwegO4_QuHI7FlPI1r9OdchoIt03l6vDj4E7N5KbQrAb93FPyi6Ps3_WBqUdyK-FWx79lFOsCaIGjbsHtf0GwS4XDcUi5htRR269g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/66/668677/668677a_hb_ro_003_20250326_122907.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/n8OP80y6oTVAPzt7u9LMokcns3_9cfStustPFt_tzIpEYYPbCL_QvIbIDkIuiKiarl8KqecCcelg0Ynd6zZiYoyBAXBz_1KrX-L3hpftHvcJhl3a7Cb4XYIpP9-zZV2BOnM-rymmZDrVo9UB5wrIr2C7orGAVw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/66/668677/668677a_hb_ro_010_20250326_122924.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/LmOa_8gXO2AK52ALktdSZ6l94_F55elwVfWklXa11NLQk-T07LNbNxmR9gtBLin0DiQ6CUk-t3VVnpx_yCKVtY2d65LHr6pb0hcGxCmMEYAStxQsLZ9XfBJwbL7dUovJfLFODGtjKh-WXMy32ltZpmVz6iVO5w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/66/668677/668677a_hb_w_004.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/ViUHSum09UuVl8qnKnPPVZLdp75-dOc3vXh3SfyaktJlHMhCqZlsWh89QnyIhpOsIL5J9FPPiim4SJgijLTYG8c3RqVXWHuRVAHKZK-RsQXZ9jsdNuSlvJK6pkjsxVlJPoubzYPo-luDSMNB4KsLajZAda18pQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/66/668677/668677a_hb_a_004.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/bq6sdnbtEnh1-MzKZWJX7Mx_1W9KqKaS4be7hdSK5WAdAJJ4qHY-zH3u8KbsrAfbzJJaRn1bAgXBl66lpXyDKHziKGa-tBcmkRmd-GSmWmP4fB4tcPyQcxEs6Jv5hUhANgA3f2z5uf5kXuT3B3BYMWIvadbE4y0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/a7/ee/a7ee4e00d3ba219d05448cadf919c5cbecf1af82.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/2CzRoowLi3cpuckkLTpPUZiIl8-7EntZiU9NDj6U9ZKIbWjsKHk8gtBBdxqSrX0rjnyQmze_qyMK2TMI2oS6g9WPYEFMe7QugEFs7C8K318Fb2A-xYWfMADf858AjZtEgfBSks-70wwkYdnwxs9t5Gh7QAXq6KY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/extranet/fb/66/fb6695f63c21a68430a6c067d460bd992183c061.jpeg"
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 681,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 442
+        },
+        {
+          "stars": 4,
+          "count": 96
+        },
+        {
+          "stars": 3,
+          "count": 57
+        },
+        {
+          "stars": 2,
+          "count": 20
+        },
+        {
+          "stars": 1,
+          "count": 66
+        }
+      ],
+      "location_rating": 2.7,
+      "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 29,
+          "positive": 18,
+          "negative": 8,
           "neutral": 3
         },
         {
           "name": "Service",
           "description": "Service",
-          "total_mentioned": 781,
-          "positive": 579,
-          "negative": 173,
-          "neutral": 29
+          "total_mentioned": 28,
+          "positive": 15,
+          "negative": 8,
+          "neutral": 5
         },
         {
-          "name": "Breakfast",
-          "description": "Breakfast",
-          "total_mentioned": 114,
-          "positive": 90,
-          "negative": 15,
-          "neutral": 9
-        },
-        {
-          "name": "Room",
-          "description": "Room amenities",
-          "total_mentioned": 282,
-          "positive": 162,
-          "negative": 101,
-          "neutral": 19
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 9,
+          "positive": 1,
+          "negative": 7,
+          "neutral": 1
         },
         {
           "name": "Property",
           "description": "Property",
-          "total_mentioned": 400,
-          "positive": 302,
-          "negative": 77,
-          "neutral": 21
+          "total_mentioned": 29,
+          "positive": 18,
+          "negative": 7,
+          "neutral": 4
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 9,
+          "positive": 0,
+          "negative": 6,
+          "neutral": 3
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 9,
+          "positive": 6,
+          "negative": 2,
+          "neutral": 1
         }
       ],
       "amenities": [
-        "Breakfast ($)",
+        "Free breakfast",
         "Free Wi-Fi",
         "Free parking",
-        "Outdoor pool",
-        "Hot tub",
+        "Pool",
         "Air conditioning",
+        "Pet-friendly",
         "Fitness center",
-        "Beach access",
+        "Spa",
+        "Bar",
         "Restaurant",
         "Room service",
+        "Airport shuttle",
         "Full-service laundry",
-        "Accessible",
-        "Business center",
-        "Smoke-free property"
-      ],
-      "eco_certified": true
+        "Kid-friendly"
+      ]
     }
-  ]
+  ],
+  "serpapi_pagination": {
+    "current_from": 1,
+    "current_to": 20,
+    "next_page_token": "CBI=",
+    "next": "https://serpapi.com/search.json?adults=1&check_in_date=2026-01-10&check_out_date=2026-01-20&children=0&currency=SAR&engine=google_hotels&gl=sa&hl=en&next_page_token=CBI%3D&q=Hotels+in+Almaty"
+  }
 }

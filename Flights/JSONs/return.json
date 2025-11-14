@@ -1,30 +1,27 @@
 {
   "search_metadata": {
-    "id": "691620ad5e34948255a0d8ce",
+    "id": "691775baac176532ef7d2836",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/0a29f1bab972ead0/691620ad5e34948255a0d8ce.json",
-    "created_at": "2025-11-13 18:17:17 UTC",
-    "processed_at": "2025-11-13 18:17:17 UTC",
-    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhpgEgoyMDI2LTAxLTEwIh8KA0RNTRIKMjAyNi0wMS0xMBoDU0hKKgJHOTIDMTY4Ih8KA1NIShIKMjAyNi0wMS0xMBoDQUxBKgJHOTIDMjUzagcIARIDRE1NcgcIARIDQUxBGh4SCjIwMjYtMDEtMjBqBwgBEgNBTEFyBwgBEgNETU1CAgEBSAFwAZgBAQ&tfu=EgIIAg",
-    "raw_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691620ad5e34948255a0d8ce.html",
-    "prettify_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691620ad5e34948255a0d8ce.prettify",
-    "total_time_taken": 0.59
+    "json_endpoint": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.json",
+    "created_at": "2025-11-14 18:32:26 UTC",
+    "processed_at": "2025-11-14 18:32:26 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhphEgoyMDI2LTAxLTEwIiAKA0RNTRIKMjAyNi0wMS0xMBoDRE9IKgJRUjIEMTE1MyIfCgNET0gSCjIwMjYtMDEtMTAaA0FMQSoCUVIyAzM4OWoHCAESA0RNTXIHCAESA0FMQRoeEgoyMDI2LTAxLTIwagcIARIDQUxBcgcIARIDRE1NQgEBSAFwAZgBAQ&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.html",
+    "prettify_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.prettify",
+    "total_time_taken": 2.58
   },
   "search_parameters": {
     "engine": "google_flights",
     "hl": "en",
     "gl": "sa",
-    "type": "1",
     "departure_id": "DMM",
     "arrival_id": "ALA",
     "outbound_date": "2026-01-10",
     "return_date": "2026-01-20",
-    "travel_class": 1,
-    "adults": 2,
+    "adults": 1,
     "children": 0,
-    "departure_token": "WyJDalJJYW5vMVp6ZDVabkowUlZGQlJVWm5iRkZDUnkwdExTMHRMUzB0TFc5NWFHUTBOMEZCUVVGQlIydFhSakZGUmkxelZEQkJFZ3RIT1RFMk5IeEhPVEkxTXhvTENMU25HQkFDR2dOVFFWSTRISERkdlFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dXQ==",
-    "currency": "SAR",
-    "sort_by": "2"
+    "departure_token": "WyJDalJJYWxGdlVuaEhXbXhQUVVGQlJUbFBSMmRDUnkwdExTMHRMUzB0TFMxdmVXVXhORUZCUVVGQlIydFlaR0pOU2s4NFJWbEJFZ3hSVWpFeE5UTjhVVkl6T0RrYUN3ajRsaFVRQWhvRFUwRlNPQnh3N2RJRiIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxMTUzIl0sWyJET0giLCIyMDI2LTAxLTEwIiwiQUxBIixudWxsLCJRUiIsIjM4OSJdXV0=",
+    "currency": "SAR"
   },
   "other_flights": [
     {
@@ -33,212 +30,71 @@
           "departure_airport": {
             "name": "Almaty International Airport",
             "id": "ALA",
-            "time": "2026-01-20 02:55"
+            "time": "2026-01-20 03:00"
           },
           "arrival_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-20 06:40"
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-20 06:15"
           },
-          "duration": 285,
+          "duration": 315,
           "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
           "travel_class": "Economy",
-          "flight_number": "G9 254",
-          "legroom": "30 in",
+          "flight_number": "QR 390",
+          "legroom": "31 in",
           "extensions": [
-            "Average legroom (30 in)",
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
             "Stream media to your device",
-            "Carbon emissions estimate: 480 kg"
-          ],
-          "overnight": true,
-          "often_delayed_by_over_30_min": true
-        },
-        {
-          "departure_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-20 16:15"
-          },
-          "arrival_airport": {
-            "name": "King Fahd International Airport",
-            "id": "DMM",
-            "time": "2026-01-20 16:45"
-          },
-          "duration": 90,
-          "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-          "travel_class": "Economy",
-          "flight_number": "G9 167",
-          "legroom": "30 in",
-          "extensions": [
-            "Average legroom (30 in)",
-            "Stream media to your device",
-            "Carbon emissions estimate: 143 kg"
-          ]
-        }
-      ],
-      "layovers": [
-        {
-          "duration": 575,
-          "name": "Sharjah International Airport",
-          "id": "SHJ"
-        }
-      ],
-      "total_duration": 950,
-      "carbon_emissions": {
-        "this_flight": 624000,
-        "typical_for_this_route": 693000,
-        "difference_percent": -10
-      },
-      "price": 3983,
-      "type": "Round trip",
-      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-      "booking_token": "WyJDalJJV0VKVVNucG1UbGx5UmsxQlJVZFVibEZDUnkwdExTMHRMUzB0ZG5kaVluWXlORUZCUVVGQlIydFhTVXN3UjBaSGFIVkJFZ3RIT1RJMU5IeEhPVEUyTnhvTENMU25HQkFDR2dOVFFWSTRISERjdlFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dLFtbIkFMQSIsIjIwMjYtMDEtMjAiLCJTSEoiLG51bGwsIkc5IiwiMjU0Il0sWyJTSEoiLCIyMDI2LTAxLTIwIiwiRE1NIixudWxsLCJHOSIsIjE2NyJdXV0="
-    },
-    {
-      "flights": [
-        {
-          "departure_airport": {
-            "name": "Almaty International Airport",
-            "id": "ALA",
-            "time": "2026-01-20 15:10"
-          },
-          "arrival_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-20 18:55"
-          },
-          "duration": 285,
-          "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-          "travel_class": "Economy",
-          "flight_number": "G9 252",
-          "legroom": "30 in",
-          "extensions": [
-            "Average legroom (30 in)",
-            "Stream media to your device",
-            "Carbon emissions estimate: 480 kg"
-          ]
-        },
-        {
-          "departure_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-21 03:30"
-          },
-          "arrival_airport": {
-            "name": "King Fahd International Airport",
-            "id": "DMM",
-            "time": "2026-01-21 04:00"
-          },
-          "duration": 90,
-          "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-          "travel_class": "Economy",
-          "flight_number": "G9 160",
-          "legroom": "30 in",
-          "extensions": [
-            "Average legroom (30 in)",
-            "Stream media to your device",
-            "Carbon emissions estimate: 143 kg"
+            "Carbon emissions estimate: 297 kg"
           ],
           "overnight": true
-        }
-      ],
-      "layovers": [
-        {
-          "duration": 515,
-          "name": "Sharjah International Airport",
-          "id": "SHJ",
-          "overnight": true
-        }
-      ],
-      "total_duration": 890,
-      "carbon_emissions": {
-        "this_flight": 624000,
-        "typical_for_this_route": 693000,
-        "difference_percent": -10
-      },
-      "price": 3983,
-      "type": "Round trip",
-      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-      "booking_token": "WyJDalJJV0VKVVNucG1UbGx5UmsxQlJVZFVibEZDUnkwdExTMHRMUzB0ZG5kaVluWXlORUZCUVVGQlIydFhTVXN3UjBaSGFIVkJFZ3RIT1RJMU1ueEhPVEUyTUJvTENMU25HQkFDR2dOVFFWSTRISERjdlFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dLFtbIkFMQSIsIjIwMjYtMDEtMjAiLCJTSEoiLG51bGwsIkc5IiwiMjUyIl0sWyJTSEoiLCIyMDI2LTAxLTIxIiwiRE1NIixudWxsLCJHOSIsIjE2MCJdXV0="
-    },
-    {
-      "flights": [
-        {
-          "departure_airport": {
-            "name": "Almaty International Airport",
-            "id": "ALA",
-            "time": "2026-01-20 02:55"
-          },
-          "arrival_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-20 06:40"
-          },
-          "duration": 285,
-          "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-          "travel_class": "Economy",
-          "flight_number": "G9 254",
-          "legroom": "30 in",
-          "extensions": [
-            "Average legroom (30 in)",
-            "Stream media to your device",
-            "Carbon emissions estimate: 480 kg"
-          ],
-          "overnight": true,
-          "often_delayed_by_over_30_min": true
         },
         {
           "departure_airport": {
-            "name": "Sharjah International Airport",
-            "id": "SHJ",
-            "time": "2026-01-20 08:15"
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-01-20 08:20"
           },
           "arrival_airport": {
             "name": "King Fahd International Airport",
             "id": "DMM",
-            "time": "2026-01-20 08:45"
+            "time": "2026-01-20 09:20"
           },
-          "duration": 90,
+          "duration": 60,
           "airplane": "Airbus A320",
-          "airline": "Air Arabia",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
           "travel_class": "Economy",
-          "flight_number": "G9 163",
-          "legroom": "30 in",
+          "flight_number": "QR 1150",
+          "legroom": "31 in",
           "extensions": [
-            "Average legroom (30 in)",
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
             "Stream media to your device",
-            "Carbon emissions estimate: 143 kg"
+            "Carbon emissions estimate: 50 kg"
           ]
         }
       ],
       "layovers": [
         {
-          "duration": 95,
-          "name": "Sharjah International Airport",
-          "id": "SHJ"
+          "duration": 125,
+          "name": "Hamad International Airport",
+          "id": "DOH"
         }
       ],
-      "total_duration": 470,
+      "total_duration": 500,
       "carbon_emissions": {
-        "this_flight": 624000,
-        "typical_for_this_route": 693000,
-        "difference_percent": -10
+        "this_flight": 348000,
+        "typical_for_this_route": 347000,
+        "difference_percent": 0
       },
-      "price": 4014,
+      "price": 3470,
       "type": "Round trip",
-      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/G9.png",
-      "booking_token": "WyJDalJJV0VKVVNucG1UbGx5UmsxQlJVZFVibEZDUnkwdExTMHRMUzB0ZG5kaVluWXlORUZCUVVGQlIydFhTVXN3UjBaSGFIVkJFZ3RIT1RJMU5IeEhPVEUyTXhvTENLcS9HQkFDR2dOVFFWSTRISENOeEFZPSIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIlNISiIsbnVsbCwiRzkiLCIxNjgiXSxbIlNISiIsIjIwMjYtMDEtMTAiLCJBTEEiLG51bGwsIkc5IiwiMjUzIl1dLFtbIkFMQSIsIjIwMjYtMDEtMjAiLCJTSEoiLG51bGwsIkc5IiwiMjU0Il0sWyJTSEoiLCIyMDI2LTAxLTIwIiwiRE1NIixudWxsLCJHOSIsIjE2MyJdXV0="
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "booking_token": "WyJDalJJZFdaWWFEWnpiSHBWTXpCQlExVlJXbEZDUnkwdExTMHRMUzB0TFhaMGJtWXhPVUZCUVVGQlIydFlaR0ozVERGc1YyZEJFZzVSVWpNNU1IeFJVakV4TlRBak1Sb0xDUGlXRlJBQ0dnTlRRVkk0SEhEdDBnVT0iLFtbIkRNTSIsIjIwMjYtMDEtMTAiLCJET0giLG51bGwsIlFSIiwiMTE1MyJdLFsiRE9IIiwiMjAyNi0wMS0xMCIsIkFMQSIsbnVsbCwiUVIiLCIzODkiXV0sW1siQUxBIiwiMjAyNi0wMS0yMCIsIkRPSCIsbnVsbCwiUVIiLCIzOTAiXSxbIkRPSCIsIjIwMjYtMDEtMjAiLCJETU0iLG51bGwsIlFSIiwiMTE1MCJdXV0="
     }
   ],
   "airports": [
