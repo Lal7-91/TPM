@@ -1,26 +1,26 @@
 {
   "search_metadata": {
-    "id": "691775baac176532ef7d2836",
+    "id": "6929dfa9560433f8718d00f7",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.json",
-    "created_at": "2025-11-14 18:32:26 UTC",
-    "processed_at": "2025-11-14 18:32:26 UTC",
-    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhphEgoyMDI2LTAxLTEwIiAKA0RNTRIKMjAyNi0wMS0xMBoDRE9IKgJRUjIEMTE1MyIfCgNET0gSCjIwMjYtMDEtMTAaA0FMQSoCUVIyAzM4OWoHCAESA0RNTXIHCAESA0FMQRoeEgoyMDI2LTAxLTIwagcIARIDQUxBcgcIARIDRE1NQgEBSAFwAZgBAQ&tfu=EgIIAQ",
-    "raw_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.html",
-    "prettify_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/691775baac176532ef7d2836.prettify",
-    "total_time_taken": 2.58
+    "json_endpoint": "https://serpapi.com/searches/0a29f1bab972ead0/6929dfa9560433f8718d00f7.json",
+    "created_at": "2025-11-28 17:45:13 UTC",
+    "processed_at": "2025-11-28 17:45:13 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=sa&curr=SAR&tfs=CBwQAhpgEgoyMDI1LTEyLTA4Ih8KA0RNTRIKMjAyNS0xMi0wOBoDQVVIKgJFWTIDNTc2Ih8KA0FVSBIKMjAyNS0xMi0wOBoDTUxFKgJFWTIDMzc2agcIARIDRE1NcgcIARIDTUxFGh4SCjIwMjUtMTItMTdqBwgBEgNNTEVyBwgBEgNETU1CAQFIAXABmAEB&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/6929dfa9560433f8718d00f7.html",
+    "prettify_html_file": "https://serpapi.com/searches/0a29f1bab972ead0/6929dfa9560433f8718d00f7.prettify",
+    "total_time_taken": 6.17
   },
   "search_parameters": {
     "engine": "google_flights",
     "hl": "en",
     "gl": "sa",
     "departure_id": "DMM",
-    "arrival_id": "ALA",
-    "outbound_date": "2026-01-10",
-    "return_date": "2026-01-20",
+    "arrival_id": "MLE",
+    "outbound_date": "2025-12-08",
+    "return_date": "2025-12-17",
     "adults": 1,
     "children": 0,
-    "departure_token": "WyJDalJJYWxGdlVuaEhXbXhQUVVGQlJUbFBSMmRDUnkwdExTMHRMUzB0TFMxdmVXVXhORUZCUVVGQlIydFlaR0pOU2s4NFJWbEJFZ3hSVWpFeE5UTjhVVkl6T0RrYUN3ajRsaFVRQWhvRFUwRlNPQnh3N2RJRiIsW1siRE1NIiwiMjAyNi0wMS0xMCIsIkRPSCIsbnVsbCwiUVIiLCIxMTUzIl0sWyJET0giLCIyMDI2LTAxLTEwIiwiQUxBIixudWxsLCJRUiIsIjM4OSJdXV0=",
+    "departure_token": "WyJDalJJVGt0S2NsRm1kbWhLUmtWQlJVMVhiMUZDUnkwdExTMHRMUzB0ZG5kaVkyTXhNRUZCUVVGQlIydHdNelpGVGxaUVRGbEJFZ3RGV1RVM05ueEZXVE0zTmhvTENKVEhEUkFDR2dOVFFWSTRISERBemdNPSIsW1siRE1NIiwiMjAyNS0xMi0wOCIsIkFVSCIsbnVsbCwiRVkiLCI1NzYiXSxbIkFVSCIsIjIwMjUtMTItMDgiLCJNTEUiLG51bGwsIkVZIiwiMzc2Il1dXQ==",
     "currency": "SAR"
   },
   "other_flights": [
@@ -28,73 +28,147 @@
       "flights": [
         {
           "departure_airport": {
-            "name": "Almaty International Airport",
-            "id": "ALA",
-            "time": "2026-01-20 03:00"
+            "name": "Velana International Airport",
+            "id": "MLE",
+            "time": "2025-12-17 09:35"
           },
           "arrival_airport": {
-            "name": "Hamad International Airport",
-            "id": "DOH",
-            "time": "2026-01-20 06:15"
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2025-12-17 12:45"
           },
-          "duration": 315,
-          "airplane": "Airbus A320",
-          "airline": "Qatar Airways",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "duration": 250,
+          "airplane": "Boeing 787-10",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
           "travel_class": "Economy",
-          "flight_number": "QR 390",
+          "flight_number": "EY 379",
           "legroom": "31 in",
           "extensions": [
             "Average legroom (31 in)",
-            "In-seat USB outlet",
-            "Stream media to your device",
-            "Carbon emissions estimate: 297 kg"
-          ],
-          "overnight": true
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 179 kg"
+          ]
         },
         {
           "departure_airport": {
-            "name": "Hamad International Airport",
-            "id": "DOH",
-            "time": "2026-01-20 08:20"
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2025-12-17 14:15"
           },
           "arrival_airport": {
             "name": "King Fahd International Airport",
             "id": "DMM",
-            "time": "2026-01-20 09:20"
+            "time": "2025-12-17 14:45"
           },
-          "duration": 60,
+          "duration": 90,
           "airplane": "Airbus A320",
-          "airline": "Qatar Airways",
-          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
           "travel_class": "Economy",
-          "flight_number": "QR 1150",
-          "legroom": "31 in",
+          "flight_number": "EY 571",
+          "legroom": "30 in",
           "extensions": [
-            "Average legroom (31 in)",
+            "Average legroom (30 in)",
             "In-seat USB outlet",
             "Stream media to your device",
-            "Carbon emissions estimate: 50 kg"
+            "Carbon emissions estimate: 71 kg"
           ]
         }
       ],
       "layovers": [
         {
-          "duration": 125,
-          "name": "Hamad International Airport",
-          "id": "DOH"
+          "duration": 90,
+          "name": "Zayed International Airport",
+          "id": "AUH"
         }
       ],
-      "total_duration": 500,
+      "total_duration": 430,
       "carbon_emissions": {
-        "this_flight": 348000,
-        "typical_for_this_route": 347000,
-        "difference_percent": 0
+        "this_flight": 251000,
+        "typical_for_this_route": 338000,
+        "difference_percent": -26
       },
-      "price": 3470,
+      "price": 2221,
       "type": "Round trip",
-      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
-      "booking_token": "WyJDalJJZFdaWWFEWnpiSHBWTXpCQlExVlJXbEZDUnkwdExTMHRMUzB0TFhaMGJtWXhPVUZCUVVGQlIydFlaR0ozVERGc1YyZEJFZzVSVWpNNU1IeFJVakV4TlRBak1Sb0xDUGlXRlJBQ0dnTlRRVkk0SEhEdDBnVT0iLFtbIkRNTSIsIjIwMjYtMDEtMTAiLCJET0giLG51bGwsIlFSIiwiMTE1MyJdLFsiRE9IIiwiMjAyNi0wMS0xMCIsIkFMQSIsbnVsbCwiUVIiLCIzODkiXV0sW1siQUxBIiwiMjAyNi0wMS0yMCIsIkRPSCIsbnVsbCwiUVIiLCIzOTAiXSxbIkRPSCIsIjIwMjYtMDEtMjAiLCJETU0iLG51bGwsIlFSIiwiMTE1MCJdXV0="
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "booking_token": "WyJDalJJTVVsSFIyOWZWVkJrV1ZGQlJWRklXbWRDUnkwdExTMHRMUzB0TFMxMmQzSjBPRUZCUVVGQlIydHdNelpyU0d0b1pHVkJFZzFGV1RNM09YeEZXVFUzTVNNeEdnc0lsTWNORUFJYUExTkJVamdjY01ET0F3PT0iLFtbIkRNTSIsIjIwMjUtMTItMDgiLCJBVUgiLG51bGwsIkVZIiwiNTc2Il0sWyJBVUgiLCIyMDI1LTEyLTA4IiwiTUxFIixudWxsLCJFWSIsIjM3NiJdXSxbWyJNTEUiLCIyMDI1LTEyLTE3IiwiQVVIIixudWxsLCJFWSIsIjM3OSJdLFsiQVVIIiwiMjAyNS0xMi0xNyIsIkRNTSIsbnVsbCwiRVkiLCI1NzEiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Velana International Airport",
+            "id": "MLE",
+            "time": "2025-12-17 19:15"
+          },
+          "arrival_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2025-12-17 22:25"
+          },
+          "duration": 250,
+          "airplane": "Boeing 787-10",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 377",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 179 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2025-12-18 02:20"
+          },
+          "arrival_airport": {
+            "name": "King Fahd International Airport",
+            "id": "DMM",
+            "time": "2025-12-18 02:50"
+          },
+          "duration": 90,
+          "airplane": "Airbus A320",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 575",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 71 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 235,
+          "name": "Zayed International Airport",
+          "id": "AUH",
+          "overnight": true
+        }
+      ],
+      "total_duration": 575,
+      "carbon_emissions": {
+        "this_flight": 251000,
+        "typical_for_this_route": 338000,
+        "difference_percent": -26
+      },
+      "price": 3294,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "booking_token": "WyJDalJJTVVsSFIyOWZWVkJrV1ZGQlJWRklXbWRDUnkwdExTMHRMUzB0TFMxMmQzSjBPRUZCUVVGQlIydHdNelpyU0d0b1pHVkJFZzFGV1RNM04zeEZXVFUzTlNNeEdnc0l1STBVRUFJYUExTkJVamdjY1BtdEJRPT0iLFtbIkRNTSIsIjIwMjUtMTItMDgiLCJBVUgiLG51bGwsIkVZIiwiNTc2Il0sWyJBVUgiLCIyMDI1LTEyLTA4IiwiTUxFIixudWxsLCJFWSIsIjM3NiJdXSxbWyJNTEUiLCIyMDI1LTEyLTE3IiwiQVVIIixudWxsLCJFWSIsIjM3NyJdLFsiQVVIIiwiMjAyNS0xMi0xOCIsIkRNTSIsbnVsbCwiRVkiLCI1NzUiXV1d"
     }
   ],
   "airports": [
@@ -115,14 +189,14 @@
       "arrival": [
         {
           "airport": {
-            "id": "ALA",
-            "name": "Almaty International Airport"
+            "id": "MLE",
+            "name": "Velana International Airport"
           },
-          "city": "Almaty",
-          "country": "Kazakhstan",
-          "country_code": "KZ",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1X7ChebI6AZH05L-RbqD2Hx-YcI8fkZtF0QFQ20xz-3Nzhtljktl2URqWDN24x_-h5z1ysTw96UgCA",
-          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIZzNr7B6RRSBT6eoF9Cg4zf421yOWNHx44ENJX5bBNHRhOD0Ob7QrLR9RfB_dJTTuED-JH_ke-WegLnHMufohFxY-jxJc4ZttNUDF6Tk"
+          "city": "Mal\u00e9",
+          "country": "Maldives",
+          "country_code": "MV",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sWtr_pI5qE5X1n4UobsDeMxyoWeLmMIIpHqbwPxbpHTbRByUiquOqsbws9OPT9BzJLdJbUjmydrTSA",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgT8bmIcoIw0EDsSNi70uIrmoPktZaEXS21pmOXZ1K2G6W6sc0i73bGPcl3_WCpNKhY0GV4DA2naX-n_gHYdmvXyqWiFd745qiTiLddE"
         }
       ]
     },
@@ -130,14 +204,14 @@
       "departure": [
         {
           "airport": {
-            "id": "ALA",
-            "name": "Almaty International Airport"
+            "id": "MLE",
+            "name": "Velana International Airport"
           },
-          "city": "Almaty",
-          "country": "Kazakhstan",
-          "country_code": "KZ",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1X7ChebI6AZH05L-RbqD2Hx-YcI8fkZtF0QFQ20xz-3Nzhtljktl2URqWDN24x_-h5z1ysTw96UgCA",
-          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIZzNr7B6RRSBT6eoF9Cg4zf421yOWNHx44ENJX5bBNHRhOD0Ob7QrLR9RfB_dJTTuED-JH_ke-WegLnHMufohFxY-jxJc4ZttNUDF6Tk"
+          "city": "Mal\u00e9",
+          "country": "Maldives",
+          "country_code": "MV",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sWtr_pI5qE5X1n4UobsDeMxyoWeLmMIIpHqbwPxbpHTbRByUiquOqsbws9OPT9BzJLdJbUjmydrTSA",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgT8bmIcoIw0EDsSNi70uIrmoPktZaEXS21pmOXZ1K2G6W6sc0i73bGPcl3_WCpNKhY0GV4DA2naX-n_gHYdmvXyqWiFd745qiTiLddE"
         }
       ],
       "arrival": [

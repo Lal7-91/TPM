@@ -1,5 +1,6 @@
 import datetime
 import streamlit as st
+from streamlit_option_menu import option_menu
 from TPM_runner import run_TPM
 
 # -------------------------------
@@ -9,6 +10,8 @@ if "show_results" not in st.session_state:
     st.session_state.show_results = False
 if "last_search_results" not in st.session_state:
     st.session_state.last_search_results = {}
+if "selected_category" not in st.session_state:
+    st.session_state.selected_category = None
 
 # -------------------------------
 # Page UI
@@ -103,10 +106,27 @@ if st.button("Search", type="primary"):
         )
 
 # -------------------------------
-# Display results
+# Display results with horizontal menu
 # -------------------------------
 if st.session_state.show_results and st.session_state.last_search_results:
-    st.subheader("Search Results (JSON)")
-    for key, value in st.session_state.last_search_results.items():
-        st.write(f"### {key.capitalize()}")
-        st.json(value)
+
+    # Build menu options dynamically based on results
+    available_categories = [
+        key.capitalize() for key, val in st.session_state.last_search_results.items() if val
+    ]
+    if available_categories:
+        st.subheader("Search Results")
+        selected = option_menu(
+            menu_title=None,
+            options=available_categories,
+            default_index=0,
+            orientation="horizontal"
+        )
+
+        # Save selected category in session_state
+        st.session_state.selected_category = selected
+
+        # Show JSON for selected category
+        category_key = selected.lower()
+        if category_key in st.session_state.last_search_results:
+            st.json(st.session_state.last_search_results[category_key])

@@ -1,303 +1,232 @@
 [
   {
-    "id": "ChkI_biDhJCkmrxxGg0vZy8xMWI2Y19yX2w4EAE",
-    "name": "Almaty Grand Erbil Hotel",
-    "price": 51,
-    "stars": 4,
-    "rating": 4,
-    "reviews": 823,
-    "location_rating": 3.7,
-    "coordinates": {
-      "latitude": 43.3367042,
-      "longitude": 76.9488525
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Parking",
-      "Pools",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly"
-    ],
-    "link": "http://granderbil.kz/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkI6bPLnr6YpPo4Gg0vZy8xMWJ3MXh0eXZ2EAE",
-    "name": "Ramada by Wyndham Almaty",
-    "price": 338,
-    "stars": 4,
-    "rating": 4.3,
-    "reviews": 2318,
-    "location_rating": 4.0,
-    "coordinates": {
-      "latitude": 43.2560085,
-      "longitude": 76.9240832
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "https://www.wyndhamhotels.com/ramada/almaty-kazakhstan/ramada-almaty/overview?CID=LC:wmcic5n98gs1g0r:46427&iata=00093796",
-    "sponsored": null
-  },
-  {
-    "id": "ChkQ-rDr9OyO9oZ6Gg0vZy8xMXlscnlndmtiEAI",
-    "name": "Double room standard",
-    "price": 43,
+    "id": "ChoQro_G37zh2uWGARoNL2cvMTFta3lycTdqeRAC",
+    "name": "Charming large studio style room with attached bathroom in Malé with WiFi, AC",
+    "price": 123,
     "stars": null,
     "rating": null,
     "reviews": null,
     "location_rating": null,
     "coordinates": {
-      "latitude": 43.27185821533203,
-      "longitude": 76.93824768066406
+      "latitude": 4.177834987640381,
+      "longitude": 73.50926971435547
     },
     "amenities": [
-      "Kitchen",
+      "Air conditioning",
+      "Smoke-free",
       "Washer",
-      "Free parking",
       "Free Wi-Fi"
     ],
-    "link": "https://www.bluepillow.com/search/65de30c053168d605d3eca38?dest=ago&cat=Apartment&lat=43.27186&lng=76.93825&language=en",
-    "sponsored": null
-  },
-  {
-    "id": "ChoI57X4t-3ysYyrARoNL2cvMTFnOTAxYjNsdhAB",
-    "name": "Interhouse Almaty",
-    "price": 35,
-    "stars": 2,
-    "rating": 4.6,
-    "reviews": 242,
-    "location_rating": 3.5,
-    "coordinates": {
-      "latitude": 43.2101269,
-      "longitude": 76.90907109999999
-    },
-    "amenities": [
-      "Free Wi-Fi",
-      "Air conditioning",
-      "Restaurant",
-      "Airport shuttle",
-      "Kid-friendly"
-    ],
     "link": null,
     "sponsored": null
   },
   {
-    "id": "ChkIxI7-hZiuscE_Gg0vZy8xMXkyZDhzdnp4EAE",
-    "name": "Park Dedeman Almaty",
-    "price": 329,
-    "stars": 4,
-    "rating": 4.5,
-    "reviews": 189,
-    "location_rating": 3.9,
+    "id": "ChoQzJqi78CP0YelARoNL2cvMTFta3lyMWNfeBAC",
+    "name": "Wind Stay",
+    "price": 126,
+    "stars": null,
+    "rating": null,
+    "reviews": null,
+    "location_rating": null,
     "coordinates": {
-      "latitude": 43.2263349,
-      "longitude": 76.9098087
+      "latitude": 4.173150062561035,
+      "longitude": 73.51107788085938
     },
     "amenities": [
-      "Free Wi-Fi",
-      "Free parking",
-      "Pool",
       "Air conditioning",
-      "Restaurant",
-      "Full-service laundry"
+      "Ironing board",
+      "Kitchen",
+      "Smoke-free"
     ],
-    "link": "https://www.dedeman.com/en/hotels/park-dedeman-almaty",
+    "link": "https://www.bluepillow.com/search/68115ff7a74f8eb5bd2a6da5?dest=bpex&cat=House&lat=4.17315&lng=73.51108&language=en",
     "sponsored": null
   },
   {
-    "id": "ChkI_6HlqLqmu-vcARoML2cvMTF6czducjRtEAE",
-    "name": "Royal Palace Hotel",
-    "price": 230,
-    "stars": 3,
-    "rating": 4.2,
-    "reviews": 597,
-    "location_rating": 3.8,
+    "id": "ChoQgc2h6tPVo-_bARoNL2cvMTFta3loZDRtNhAC",
+    "name": "RestRelax deluxe Room with balcony",
+    "price": 203,
+    "stars": null,
+    "rating": null,
+    "reviews": null,
+    "location_rating": null,
     "coordinates": {
-      "latitude": 43.2990749,
-      "longitude": 76.930371
+      "latitude": 4.177670001983643,
+      "longitude": 73.50435638427734
     },
     "amenities": [
-      "Breakfast",
-      "Free Wi-Fi",
-      "Free parking",
       "Air conditioning",
+      "Kitchen",
       "Pet-friendly",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Kid-friendly"
+      "Smoke-free",
+      "Washer"
     ],
-    "link": "http://hotelrp.kz/",
+    "link": "https://www.bluepillow.com/search/68115fb6a74f8eb5bd2a5da6?dest=bpex&cat=House&lat=4.17767&lng=73.50436&language=en",
     "sponsored": null
   },
   {
-    "id": "ChoI5pWDjvS3wIWTARoNL2cvMTFoMWRzbWduchAB",
-    "name": "Hostel - Guest House Meyman",
-    "price": 29,
-    "stars": 2,
-    "rating": 3.9,
-    "reviews": 70,
-    "location_rating": 3.7,
+    "id": "ChkQ7IbthP_rjrZfGg0vZy8xMXljbDQ0aGJjEAI",
+    "name": "Stylish  Modern Apartment",
+    "price": 255,
+    "stars": null,
+    "rating": null,
+    "reviews": null,
+    "location_rating": 2.3,
     "coordinates": {
-      "latitude": 43.2392579,
-      "longitude": 76.891057
+      "latitude": 4.174839973449707,
+      "longitude": 73.48461151123047
     },
     "amenities": [
-      "Free Wi-Fi",
-      "Airport shuttle"
+      "Air conditioning",
+      "Ironing board",
+      "Kitchen",
+      "Cable TV",
+      "Free Wi-Fi"
     ],
-    "link": null,
+    "link": "https://www.bluepillow.com/search/67a23efb905c444f2d088643?dest=ago&cat=Vacation+rental+(other)&lat=4.17484&lng=73.48461&language=en",
     "sponsored": null
   },
   {
-    "id": "ChoI9NL9u93uwcvlARoNL2cvMTFqMHMyMDRqZhAB",
-    "name": "Resident City Hotel",
-    "price": 264,
-    "stars": 4,
-    "rating": 4.6,
-    "reviews": 519,
-    "location_rating": 4.4,
+    "id": "ChoIwK3y143w3smrARoNL2cvMTFzOHkyOHgxYhAB",
+    "name": "Summer Beach Maldives",
+    "price": 535,
+    "stars": null,
+    "rating": 4.3,
+    "reviews": 162,
+    "location_rating": 4.0,
     "coordinates": {
-      "latitude": 43.268709,
-      "longitude": 76.9376228
+      "latitude": 4.1745184,
+      "longitude": 73.51783329999999
     },
     "amenities": [
       "Free breakfast",
       "Free Wi-Fi",
-      "Free parking",
       "Air conditioning",
-      "Fitness center",
-      "Bar",
+      "Beach access",
       "Restaurant",
       "Room service",
-      "Airport shuttle",
       "Full-service laundry",
-      "Accessible",
       "Smoke-free property"
     ],
-    "link": "https://resident-hotels.com/",
+    "link": "http://www.summerbeachmaldives.com/",
     "sponsored": null
   },
   {
-    "id": "ChgIwbOj_Mz2szkaDS9nLzExY3NiZGNoeXYQAQ",
-    "name": "DoubleTree by Hilton Almaty",
-    "price": 783,
-    "stars": 5,
-    "rating": 4.5,
-    "reviews": 826,
-    "location_rating": 4.0,
+    "id": "ChkI8YT_rt_s7ucWGg0vZy8xMXlnbjVmX3c3EAE",
+    "name": "Avari Beach",
+    "price": 336,
+    "stars": null,
+    "rating": 5,
+    "reviews": 6,
+    "location_rating": 3.7,
     "coordinates": {
-      "latitude": 43.242591499999996,
-      "longitude": 76.9252073
+      "latitude": 4.2089688,
+      "longitude": 73.5429819
+    },
+    "amenities": [],
+    "link": "http://avari-beach.site/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI24-c7Y_vmr-sARoNL2cvMTFwZF9oMGg2dhAB",
+    "name": "Nap Corner",
+    "price": 93,
+    "stars": 2,
+    "rating": 3.9,
+    "reviews": 145,
+    "location_rating": 3.5,
+    "coordinates": {
+      "latitude": 4.1733525,
+      "longitude": 73.50400069999999
     },
     "amenities": [
-      "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Smoke-free property"
+      "Air conditioning"
     ],
-    "link": "https://www.hilton.com/en/hotels/aladtdi-doubletree-almaty/?SEO_id=GMB-EMEA-DI-ALADTDI",
+    "link": null,
     "sponsored": null
   },
   {
-    "id": "ChoI8NqL39japbzAARoNL2cvMTFoY18yeWJzdhAB",
-    "name": "Mercure Almaty City Center",
-    "price": 676,
-    "stars": 4,
-    "rating": 4.6,
-    "reviews": 1165,
+    "id": "ChkIldHdg-_yrISDARoML2cvMTJobGwzcHdkEAE",
+    "name": "The Park House",
+    "price": 224,
+    "stars": 3,
+    "rating": 3.9,
+    "reviews": 227,
     "location_rating": 4.5,
     "coordinates": {
-      "latitude": 43.2642755,
-      "longitude": 76.93986939999999
+      "latitude": 4.1766058,
+      "longitude": 73.5115794
     },
     "amenities": [
-      "Breakfast ($)",
+      "Free breakfast",
       "Free Wi-Fi",
-      "Free parking",
-      "Hot tub",
+      "Parking",
       "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
-      "Spa",
-      "Bar",
       "Restaurant",
-      "Room service",
       "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
+      "Kid-friendly"
     ],
-    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B0P4&merchantid=seo-maps-KZ-B0P4&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "link": "http://www.theparkhouse.com.mv/",
     "sponsored": null
   },
   {
-    "id": "ChkIz6aJj9LE2PZiGg0vZy8xMWpzazRmdmtfEAE",
-    "name": "AQ Capsule Hotel",
-    "price": 80,
+    "id": "ChkInYLPtpnEtpATGg0vZy8xMXc4a20xbnE4EAE",
+    "name": "Rooftop Rooms",
+    "price": 190,
     "stars": null,
-    "rating": 4.8,
-    "reviews": 75,
+    "rating": 3.1,
+    "reviews": 31,
     "location_rating": 4.4,
     "coordinates": {
-      "latitude": 43.2631387,
-      "longitude": 76.9389395
+      "latitude": 4.1746904,
+      "longitude": 73.5094642
     },
     "amenities": [],
     "link": null,
     "sponsored": null
   },
   {
-    "id": "ChoIpcmc5uqe8_b5ARoNL2cvMTFnMGduMmhjMhAB",
-    "name": "Resident Hotel Almaty",
-    "price": 141,
+    "id": "ChoI9OXGtuyOhteOARoNL2cvMTFjc3A5ZHRubBAB",
+    "name": "Unima Grand",
+    "price": 431,
     "stars": 3,
-    "rating": 4.4,
-    "reviews": 297,
-    "location_rating": 3.1,
+    "rating": 4,
+    "reviews": 524,
+    "location_rating": 4.2,
     "coordinates": {
-      "latitude": 43.2898189,
-      "longitude": 76.9330887
+      "latitude": 4.1757111,
+      "longitude": 73.5177649
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Hot tub",
+      "Air conditioning",
+      "Beach access",
+      "Restaurant",
+      "Room service",
+      "Kitchen",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "http://www.unimagrand.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChcIgICthOT738NoGgsvZy8xdGo3emRmcxAB",
+    "name": "JEN Maldives Malé by Shangri-La",
+    "price": null,
+    "stars": 4,
+    "rating": 4.4,
+    "reviews": 1279,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 4.1779948,
+      "longitude": 73.5136182
     },
     "amenities": [
       "Free breakfast",
@@ -305,34 +234,6 @@
       "Free parking",
       "Pool",
       "Air conditioning",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "https://resident-hotels.com/resident-hotel-almaty",
-    "sponsored": null
-  },
-  {
-    "id": "ChgI9di5raLs5Mc9GgwvZy8xMXhrYjM5ZGgQAQ",
-    "name": "Uyut",
-    "price": 237,
-    "stars": 4,
-    "rating": 4.5,
-    "reviews": 1744,
-    "location_rating": 4.2,
-    "coordinates": {
-      "latitude": 43.2599148,
-      "longitude": 76.9337451
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Air conditioning",
       "Fitness center",
       "Spa",
       "Bar",
@@ -340,210 +241,214 @@
       "Room service",
       "Airport shuttle",
       "Full-service laundry",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
+      "Accessible",
+      "Kid-friendly"
     ],
-    "link": "https://www.hotel-uyut.kz/",
+    "link": "https://www.hoteljen.com/male/maldives/about/",
     "sponsored": null
   },
   {
-    "id": "ChYI86Sbm9Hg44AeGgovbS8wMnFjdl80EAE",
-    "name": "Kazakhstan Hotel",
-    "price": 285,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 6855,
-    "location_rating": 4.7,
+    "id": "ChkIm4P3z72i0d0gGg0vZy8xMXdfcmtueGxuEAE",
+    "name": "Wind Stay",
+    "price": 78,
+    "stars": null,
+    "rating": 3.8,
+    "reviews": 12,
+    "location_rating": 4.2,
     "coordinates": {
-      "latitude": 43.244931699999995,
-      "longitude": 76.95766119999999
+      "latitude": 4.1731489,
+      "longitude": 73.5110818
+    },
+    "amenities": [],
+    "link": "http://wind-stay.site/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkQ--fiy9et8fQRGg0vZy8xMXljZ210dDVuEAI",
+    "name": "Budget stay",
+    "price": 224,
+    "stars": null,
+    "rating": null,
+    "reviews": null,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 4.172289848327637,
+      "longitude": 73.5135726928711
+    },
+    "amenities": [
+      "Air conditioning",
+      "Ironing board",
+      "Pet-friendly",
+      "Washer",
+      "Free parking"
+    ],
+    "link": "https://www.bluepillow.com/search/67a243fc905c444f2d0d89af?dest=ago&cat=Vacation+rental+(other)&lat=4.17229&lng=73.51357&language=en",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIi4uMvs-J29bVARoNL2cvMTFzNXpkMTQzbhAB",
+    "name": "Marukab Plaza",
+    "price": 639,
+    "stars": null,
+    "rating": 4.2,
+    "reviews": 139,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 4.1771535,
+      "longitude": 73.5168372
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Restaurant"
+    ],
+    "link": "http://www.marukabplaza.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoIk-SY26SH7qHyARoNL2cvMTFnYmZnaHluZBAB",
+    "name": "Maagiri Hotel",
+    "price": 924,
+    "stars": 4,
+    "rating": 4.1,
+    "reviews": 373,
+    "location_rating": 4.3,
+    "coordinates": {
+      "latitude": 4.1774137,
+      "longitude": 73.5172834
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "link": "https://maagirihotel.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIjuqw1ZfD4vxHGg0vZy8xMXBmMGI1NDRnEAE",
+    "name": "Manhattan Business Hotel",
+    "price": 771,
+    "stars": null,
+    "rating": 4.2,
+    "reviews": 137,
+    "location_rating": 3.4,
+    "coordinates": {
+      "latitude": 4.1703598,
+      "longitude": 73.5091608
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Restaurant",
+      "Airport shuttle"
+    ],
+    "link": "https://www.manhattanbusinesshotel.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChgI9OfGiaml46RfGgwvZy8xcHR5NGJ0YjIQAQ",
+    "name": "The Somerset Hotel",
+    "price": 711,
+    "stars": 4,
+    "rating": 4.3,
+    "reviews": 414,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 4.1775196,
+      "longitude": 73.5095415
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
       "Air conditioning",
       "Fitness center",
-      "Spa",
-      "Bar",
       "Restaurant",
       "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "http://www.kazakhstanhotel.kz/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoIlNavrtby26TOARoNL2cvMTFiN2YwZnk1bRAB",
-    "name": "Rixos Almaty",
-    "price": 1537,
-    "stars": 5,
-    "rating": 4.6,
-    "reviews": 4826,
-    "location_rating": 4.5,
-    "coordinates": {
-      "latitude": 43.2493267,
-      "longitude": 76.9345975
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
       "Airport shuttle",
       "Full-service laundry",
       "Accessible",
       "Business center",
-      "Kid-friendly"
+      "Kid-friendly",
+      "Smoke-free property"
     ],
-    "link": "https://www.rixos.com/en/hotel-resort/rixos-almaty",
+    "link": "http://thesomerset.com.mv/",
     "sponsored": null
   },
   {
-    "id": "ChkI9vKB2tPqrrpPGg0vZy8xMXRoaDR5NXpoEAE",
-    "name": "Almaty Backpackers",
-    "price": 37,
-    "stars": null,
-    "rating": 4.2,
-    "reviews": 221,
-    "location_rating": 3.9,
-    "coordinates": {
-      "latitude": 43.2321625,
-      "longitude": 76.9280922
-    },
-    "amenities": [
-      "Free Wi-Fi"
-    ],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChgI8pX4i6Ch99xfGgwvZy8xMXhkeThnbF8QAQ",
-    "name": "Dostyk Hotel",
-    "price": 557,
-    "stars": 5,
-    "rating": 4.6,
-    "reviews": 1131,
-    "location_rating": 4.6,
-    "coordinates": {
-      "latitude": 43.244523,
-      "longitude": 76.95109599999999
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://dostyk.kz/",
-    "sponsored": null
-  },
-  {
-    "id": "ChgIp4rP28qp6LCzARoLL2cvMXc4dzhjdnMQAQ",
-    "name": "Astana International Hotel",
-    "price": 159,
-    "stars": 4,
-    "rating": 3.9,
-    "reviews": 1155,
+    "id": "ChkIirezz5mktZVrGg0vZy8xMWZoeXJxa3QzEAE",
+    "name": "Tourist Inn",
+    "price": 334,
+    "stars": 3,
+    "rating": 4.5,
+    "reviews": 154,
     "location_rating": 4.1,
     "coordinates": {
-      "latitude": 43.237615999999996,
-      "longitude": 76.9271078
+      "latitude": 4.1741187,
+      "longitude": 73.50728339999999
     },
     "amenities": [
       "Free breakfast",
       "Free Wi-Fi",
-      "Free parking",
+      "Parking",
       "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
-      "Bar",
       "Restaurant",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Kid-friendly"
+      "Airport shuttle"
     ],
-    "link": "http://astanainterhotel.com/",
+    "link": "http://touristinn.site/",
     "sponsored": null
   },
   {
-    "id": "ChkIioCQgK7tiMmoARoML2cvMTJqbTFtcWJqEAE",
-    "name": "Almaty Hotel",
-    "price": 329,
-    "stars": 3,
-    "rating": 4.4,
-    "reviews": 1836,
-    "location_rating": 4.7,
-    "coordinates": {
-      "latitude": 43.2500697,
-      "longitude": 76.94454619999999
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Hot tub",
-      "Air conditioning",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "http://hotelalmaty.kz/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoQ69C4uc-2tcnwARoNL2cvMTFtZHNwdGIxYhAC",
-    "name": "ЖК Sity Красивая квартира",
-    "price": 123,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
+    "id": "ChkIhZ2-5Mi_xPgLGg0vZy8xMXdocTNmc3RqEAE",
+    "name": "dusitD2 Feydhoo Maldives",
+    "price": 3700,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 131,
     "location_rating": 2.9,
     "coordinates": {
-      "latitude": 43.246681213378906,
-      "longitude": 76.85220336914062
+      "latitude": 4.2104026999999995,
+      "longitude": 73.4850581
     },
     "amenities": [
-      "Air conditioning",
-      "Kitchen",
-      "Cable TV",
-      "Washer"
+      "Free breakfast",
+      "Wi-Fi",
+      "Free parking",
+      "Pool",
+      "Fitness center",
+      "All inclusive available",
+      "Spa",
+      "Beach access",
+      "Restaurant",
+      "Airport shuttle"
     ],
-    "link": "https://www.bluepillow.com/search/67a22eeb5a2dfa15b182463f?dest=bkng&cat=Apartment&lat=43.24668&lng=76.8522&language=en",
+    "link": "https://www.dusit.com/dusitd2-feydhoo/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIrJqo29778rAyGg0vZy8xMWhkbmd2eGpwEAE",
+    "name": "AAA Hotels & Resorts",
+    "price": null,
+    "stars": null,
+    "rating": 2.5,
+    "reviews": 11,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 4.1752196,
+      "longitude": 73.5098489
+    },
+    "amenities": [],
+    "link": "http://www.aaaresorts.com/",
     "sponsored": null
   }
 ]
