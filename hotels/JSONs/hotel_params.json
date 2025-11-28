@@ -1,8 +1,8 @@
 {
   "engine": "google_hotels",
   "q": "Hotels in Almaty",
-  "check_in_date": "2026-01-10",
-  "check_out_date": "2026-01-20",
+  "check_in_date": "2026-01-01",
+  "check_out_date": "2026-01-08",
   "adults": "1",
   "children": "0",
   "currency": "SAR",

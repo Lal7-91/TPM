@@ -6,19 +6,22 @@ An integer N (number of top items to return).
 
 VALIDATION & FILTERING:
 1. Exclude items mentioning: nightclubs, bars, pubs, wine tours, alcohol, non-halal food.
-2. For packages: if any sub-item violates rules, exclude the entire package.
+2. For activities/packages: 
+   - If any sub-item violates rules, exclude the entire package.
 3. Remove redundant items (e.g., if a package includes "Charyn Canyon" and a standalone "Charyn Canyon" exists, keep only the package).
-4. Prioritize packages/trips over individual items when they offer better variety.
-5. If N ≤ 0 or no valid items remain, return [].
+4. Prioritize packages/trips over individual activities when they offer better variety.
+5. Restaurants are only filtered for invalid content (alcohol/non-halal); preferences do not apply.
+6. If N ≤ 0 or no valid items remain, return [].
 
 DEDUPLICATION:
-1. Compare titles and descriptions for overlap.
-2. If an item is a subset of a package, exclude the standalone item.
-3. Keep the more comprehensive option (packages > individual items).
+1. Compare titles and descriptions for overlap for activities/packages.
+2. If an activity is a subset of a package, exclude the standalone activity.
+3. Keep the more comprehensive option (packages > individual activities).
+4. Restaurants are not deduplicated beyond filtering for invalid items.
 
 SORTING:
-Sort by relevance to user preferences (nature, old/historical, modern).
-Tie-breakers: higher rating → higher reviews → lexicographically smaller title → preserve original order.
+1. Activities/packages: sort by relevance to user preferences (nature, old/historical, modern). Tie-breakers: higher rating → higher reviews → lexicographically smaller title → preserve original order.
+2. Restaurants: preserve original order after validation.
 
 OUTPUT REQUIREMENTS:
 Return a JSON list of top N items.
