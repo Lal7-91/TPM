@@ -4,7 +4,7 @@
 The **Travel Plan Mate** is a software engineering project designed to simplify travel planning by integrating live data from multiple APIs.  
 Our system helps users find the best **flights, hotels, and attractions** using:
 - **SerpAPI** for fetching Google Flights, Hotels, and TripAdvisor data  
-- **OpenAI API** for data analysis and intelligent recommendations  
+- **Anthropic API** for data analysis and intelligent recommendations  
 - **Streamlit** for building an interactive and user-friendly interface  
 
 This project serves as an MVP (Minimum Viable Product) demonstrating how AI and API integration can automate and enhance travel decision-making.
@@ -23,9 +23,9 @@ This project serves as an MVP (Minimum Viable Product) demonstrating how AI and 
 ## 🧠 Tech Stack
 | Category | Technology |
 |-----------|-------------|
-| Backend APIs | SerpAPI, OpenAI API |
+| Backend APIs | SerpAPI, Anthropic API |
 | Frontend | Streamlit |
 | Programming Language | Python |
-| Data Handling | JSON, Pandas |
-| (Optional) Database | SQLite / PostgreSQL |
+| Data Handling | JSON |
+
 
