@@ -1,378 +1,515 @@
 [
   {
-    "id": "ChoQro_G37zh2uWGARoNL2cvMTFta3lycTdqeRAC",
-    "name": "Charming large studio style room with attached bathroom in Malé with WiFi, AC",
-    "price": 123,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
-    "location_rating": null,
+    "id": "ChoI9uH74Y6mseCgARoNL2cvMTFqczVmamY3aBAB",
+    "name": "Hilton Bahrain",
+    "price": 608,
+    "stars": 5,
+    "rating": 4.8,
+    "reviews": 6958,
+    "location_rating": 3.3,
     "coordinates": {
-      "latitude": 4.177834987640381,
-      "longitude": 73.50926971435547
-    },
-    "amenities": [
-      "Air conditioning",
-      "Smoke-free",
-      "Washer",
-      "Free Wi-Fi"
-    ],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChoQzJqi78CP0YelARoNL2cvMTFta3lyMWNfeBAC",
-    "name": "Wind Stay",
-    "price": 126,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
-    "location_rating": null,
-    "coordinates": {
-      "latitude": 4.173150062561035,
-      "longitude": 73.51107788085938
-    },
-    "amenities": [
-      "Air conditioning",
-      "Ironing board",
-      "Kitchen",
-      "Smoke-free"
-    ],
-    "link": "https://www.bluepillow.com/search/68115ff7a74f8eb5bd2a6da5?dest=bpex&cat=House&lat=4.17315&lng=73.51108&language=en",
-    "sponsored": null
-  },
-  {
-    "id": "ChoQgc2h6tPVo-_bARoNL2cvMTFta3loZDRtNhAC",
-    "name": "RestRelax deluxe Room with balcony",
-    "price": 203,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
-    "location_rating": null,
-    "coordinates": {
-      "latitude": 4.177670001983643,
-      "longitude": 73.50435638427734
-    },
-    "amenities": [
-      "Air conditioning",
-      "Kitchen",
-      "Pet-friendly",
-      "Smoke-free",
-      "Washer"
-    ],
-    "link": "https://www.bluepillow.com/search/68115fb6a74f8eb5bd2a5da6?dest=bpex&cat=House&lat=4.17767&lng=73.50436&language=en",
-    "sponsored": null
-  },
-  {
-    "id": "ChkQ7IbthP_rjrZfGg0vZy8xMXljbDQ0aGJjEAI",
-    "name": "Stylish  Modern Apartment",
-    "price": 255,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
-    "location_rating": 2.3,
-    "coordinates": {
-      "latitude": 4.174839973449707,
-      "longitude": 73.48461151123047
-    },
-    "amenities": [
-      "Air conditioning",
-      "Ironing board",
-      "Kitchen",
-      "Cable TV",
-      "Free Wi-Fi"
-    ],
-    "link": "https://www.bluepillow.com/search/67a23efb905c444f2d088643?dest=ago&cat=Vacation+rental+(other)&lat=4.17484&lng=73.48461&language=en",
-    "sponsored": null
-  },
-  {
-    "id": "ChoIwK3y143w3smrARoNL2cvMTFzOHkyOHgxYhAB",
-    "name": "Summer Beach Maldives",
-    "price": 535,
-    "stars": null,
-    "rating": 4.3,
-    "reviews": 162,
-    "location_rating": 4.0,
-    "coordinates": {
-      "latitude": 4.1745184,
-      "longitude": 73.51783329999999
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Air conditioning",
-      "Beach access",
-      "Restaurant",
-      "Room service",
-      "Full-service laundry",
-      "Smoke-free property"
-    ],
-    "link": "http://www.summerbeachmaldives.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkI8YT_rt_s7ucWGg0vZy8xMXlnbjVmX3c3EAE",
-    "name": "Avari Beach",
-    "price": 336,
-    "stars": null,
-    "rating": 5,
-    "reviews": 6,
-    "location_rating": 3.7,
-    "coordinates": {
-      "latitude": 4.2089688,
-      "longitude": 73.5429819
-    },
-    "amenities": [],
-    "link": "http://avari-beach.site/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoI24-c7Y_vmr-sARoNL2cvMTFwZF9oMGg2dhAB",
-    "name": "Nap Corner",
-    "price": 93,
-    "stars": 2,
-    "rating": 3.9,
-    "reviews": 145,
-    "location_rating": 3.5,
-    "coordinates": {
-      "latitude": 4.1733525,
-      "longitude": 73.50400069999999
-    },
-    "amenities": [
-      "Free Wi-Fi",
-      "Air conditioning"
-    ],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChkIldHdg-_yrISDARoML2cvMTJobGwzcHdkEAE",
-    "name": "The Park House",
-    "price": 224,
-    "stars": 3,
-    "rating": 3.9,
-    "reviews": 227,
-    "location_rating": 4.5,
-    "coordinates": {
-      "latitude": 4.1766058,
-      "longitude": 73.5115794
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Parking",
-      "Air conditioning",
-      "Restaurant",
-      "Airport shuttle",
-      "Kid-friendly"
-    ],
-    "link": "http://www.theparkhouse.com.mv/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkInYLPtpnEtpATGg0vZy8xMXc4a20xbnE4EAE",
-    "name": "Rooftop Rooms",
-    "price": 190,
-    "stars": null,
-    "rating": 3.1,
-    "reviews": 31,
-    "location_rating": 4.4,
-    "coordinates": {
-      "latitude": 4.1746904,
-      "longitude": 73.5094642
-    },
-    "amenities": [],
-    "link": null,
-    "sponsored": null
-  },
-  {
-    "id": "ChoI9OXGtuyOhteOARoNL2cvMTFjc3A5ZHRubBAB",
-    "name": "Unima Grand",
-    "price": 431,
-    "stars": 3,
-    "rating": 4,
-    "reviews": 524,
-    "location_rating": 4.2,
-    "coordinates": {
-      "latitude": 4.1757111,
-      "longitude": 73.5177649
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Parking",
-      "Hot tub",
-      "Air conditioning",
-      "Beach access",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
-    ],
-    "link": "http://www.unimagrand.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChcIgICthOT738NoGgsvZy8xdGo3emRmcxAB",
-    "name": "JEN Maldives Malé by Shangri-La",
-    "price": null,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 1279,
-    "location_rating": 4.5,
-    "coordinates": {
-      "latitude": 4.1779948,
-      "longitude": 73.5136182
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Kid-friendly"
-    ],
-    "link": "https://www.hoteljen.com/male/maldives/about/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkIm4P3z72i0d0gGg0vZy8xMXdfcmtueGxuEAE",
-    "name": "Wind Stay",
-    "price": 78,
-    "stars": null,
-    "rating": 3.8,
-    "reviews": 12,
-    "location_rating": 4.2,
-    "coordinates": {
-      "latitude": 4.1731489,
-      "longitude": 73.5110818
-    },
-    "amenities": [],
-    "link": "http://wind-stay.site/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkQ--fiy9et8fQRGg0vZy8xMXljZ210dDVuEAI",
-    "name": "Budget stay",
-    "price": 224,
-    "stars": null,
-    "rating": null,
-    "reviews": null,
-    "location_rating": 4.2,
-    "coordinates": {
-      "latitude": 4.172289848327637,
-      "longitude": 73.5135726928711
-    },
-    "amenities": [
-      "Air conditioning",
-      "Ironing board",
-      "Pet-friendly",
-      "Washer",
-      "Free parking"
-    ],
-    "link": "https://www.bluepillow.com/search/67a243fc905c444f2d0d89af?dest=ago&cat=Vacation+rental+(other)&lat=4.17229&lng=73.51357&language=en",
-    "sponsored": null
-  },
-  {
-    "id": "ChoIi4uMvs-J29bVARoNL2cvMTFzNXpkMTQzbhAB",
-    "name": "Marukab Plaza",
-    "price": 639,
-    "stars": null,
-    "rating": 4.2,
-    "reviews": 139,
-    "location_rating": 4.5,
-    "coordinates": {
-      "latitude": 4.1771535,
-      "longitude": 73.5168372
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Parking",
-      "Restaurant"
-    ],
-    "link": "http://www.marukabplaza.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChoIk-SY26SH7qHyARoNL2cvMTFnYmZnaHluZBAB",
-    "name": "Maagiri Hotel",
-    "price": 924,
-    "stars": 4,
-    "rating": 4.1,
-    "reviews": 373,
-    "location_rating": 4.3,
-    "coordinates": {
-      "latitude": 4.1774137,
-      "longitude": 73.5172834
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Air conditioning",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Kid-friendly"
-    ],
-    "link": "https://maagirihotel.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkIjuqw1ZfD4vxHGg0vZy8xMXBmMGI1NDRnEAE",
-    "name": "Manhattan Business Hotel",
-    "price": 771,
-    "stars": null,
-    "rating": 4.2,
-    "reviews": 137,
-    "location_rating": 3.4,
-    "coordinates": {
-      "latitude": 4.1703598,
-      "longitude": 73.5091608
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Air conditioning",
-      "Restaurant",
-      "Airport shuttle"
-    ],
-    "link": "https://www.manhattanbusinesshotel.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChgI9OfGiaml46RfGgwvZy8xcHR5NGJ0YjIQAQ",
-    "name": "The Somerset Hotel",
-    "price": 711,
-    "stars": 4,
-    "rating": 4.3,
-    "reviews": 414,
-    "location_rating": 4.4,
-    "coordinates": {
-      "latitude": 4.1775196,
-      "longitude": 73.5095415
+      "latitude": 26.223807299999997,
+      "longitude": 50.609377200000004
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
+      "Free parking",
+      "Pools",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.hilton.com/en/hotels/bahhhhi-hilton-bahrain/?SEO_id=GMB-EMEA-HI-BAHHHHI",
+    "sponsored": null
+  },
+  {
+    "id": "ChcIl6Xp-t_Ji9EaGgsvZy8xdGRtbmptbRAB",
+    "name": "Gulf Hotel Convention and SPA",
+    "price": 705,
+    "stars": 5,
+    "rating": 4.4,
+    "reviews": 10500,
+    "location_rating": 4.6,
+    "coordinates": {
+      "latitude": 26.2164625,
+      "longitude": 50.5944447
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
       "Air conditioning",
       "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.marriott.com/en-us/hotels/bahmg-gulf-hotel-convention-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI3tjx77rq2pT0ARoNL2cvMTFjbHpoMnl0eRAB",
+    "name": "Downtown Rotana",
+    "price": 544,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 4949,
+    "location_rating": 4.5,
+    "coordinates": {
+      "latitude": 26.235155799999998,
+      "longitude": 50.5767216
+    },
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.rotana.com/downtownrotana",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI8OiSq5qSoP07Gg0vZy8xMWc4ZzJyOW1zEAE",
+    "name": "Solymar Hotel & Beach",
+    "price": 552,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 5030,
+    "location_rating": 3.5,
+    "coordinates": {
+      "latitude": 26.2916205,
+      "longitude": 50.6623059
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "http://www.solymarbahrain.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChcIpdTs3c69krYRGgsvZy8xdGZ3MWh2axAB",
+    "name": "Novotel Bahrain Al Dana Resort",
+    "price": 517,
+    "stars": 4,
+    "rating": 4.3,
+    "reviews": 5048,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 26.24488,
+      "longitude": 50.601500599999994
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=3600&merchantid=seo-maps-BH-3600&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "sponsored": null
+  },
+  {
+    "id": "ChcIydjQ2NSHvPh4GgsvZy8xdGdiNXYxMRAB",
+    "name": "Elite Resort & Spa",
+    "price": 396,
+    "stars": 4,
+    "rating": 4.1,
+    "reviews": 6951,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 26.2461689,
+      "longitude": 50.601784699999996
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://elitegrouphotels.com/room/elite-resort-spa/",
+    "sponsored": null
+  },
+  {
+    "id": "ChcI5ufY-8HF_oBtGgsvZy8xdjNfMTQ5cBAB",
+    "name": "InterContinental Bahrain, an IHG Hotel",
+    "price": 492,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 5211,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 26.2350013,
+      "longitude": 50.5736084
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.ihg.com/intercontinental/hotels/gb/en//manama/bahha/hoteldetail",
+    "sponsored": null
+  },
+  {
+    "id": "ChgItbmCnLmImO23ARoLL2cvMXRjemh5eGgQAQ",
+    "name": "Grand Safir Hotel - Bahrain",
+    "price": 285,
+    "stars": 4,
+    "rating": 3.8,
+    "reviews": 1222,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 26.2184897,
+      "longitude": 50.6051419
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "link": "https://sites.google.com/view/grand-safir-hotel/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIwsH9542ai-Y3Gg0vZy8xMXJiejBnNTdyEAE",
+    "name": "Hilton Garden Inn Bahrain Bay",
+    "price": 623,
+    "stars": 4,
+    "rating": 4.4,
+    "reviews": 2751,
+    "location_rating": 3.9,
+    "coordinates": {
+      "latitude": 26.2490545,
+      "longitude": 50.585736499999996
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.hilton.com/en/hotels/bahtagi-hilton-garden-inn-bahrain-bay/?SEO_id=GMB-EMEA-GI-BAHTAGI",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIiP3dh_L_ut-_ARoML2cvMTJobjk2ZHB0EAE",
+    "name": "The Olive Hotel, Juffair",
+    "price": 212,
+    "stars": 4,
+    "rating": 3.9,
+    "reviews": 2027,
+    "location_rating": 4.3,
+    "coordinates": {
+      "latitude": 26.219540199999997,
+      "longitude": 50.606270599999995
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pool",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "http://theolivehotel.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIzIOYtaqU8Y_-ARoML2cvMTI0eXB3ZjBzEAE",
+    "name": "Four Seasons Hotel Bahrain Bay",
+    "price": 1941,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 9880,
+    "location_rating": 3.8,
+    "coordinates": {
+      "latitude": 26.247162900000003,
+      "longitude": 50.5818924
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking",
+      "Pools",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://www.fourseasons.com/bahrain/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-bah-hre-mid-seo-na&utm_content=na-na&utm_term=na",
+    "sponsored": null
+  },
+  {
+    "id": "ChgIxoKAmLz569UXGgwvZy8xcTYyaHEyeDkQAQ",
+    "name": "Premier Hotel",
+    "price": 234,
+    "stars": 4,
+    "rating": 3.9,
+    "reviews": 1748,
+    "location_rating": 3.3,
+    "coordinates": {
+      "latitude": 26.2201016,
+      "longitude": 50.6102109
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center"
+    ],
+    "link": "https://premierhotelbahrain.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkI1u27_buYtpplGg0vZy8xMWI2eGM4MXZjEAE",
+    "name": "Le Méridien City Centre Bahrain",
+    "price": 686,
+    "stars": 5,
+    "rating": 4.3,
+    "reviews": 3009,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 26.233003999999998,
+      "longitude": 50.552192999999995
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.marriott.com/en-us/hotels/bahmd-le-meridien-city-centre-bahrain/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIxevOtMX_7cQsGg0vZy8xMWxjYzA3bHJfEAE",
+    "name": "Raffles Al Areen Palace Bahrain",
+    "price": 1931,
+    "stars": 5,
+    "rating": 4.8,
+    "reviews": 1055,
+    "location_rating": 2.3,
+    "coordinates": {
+      "latitude": 26.002271699999998,
+      "longitude": 50.5188013
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Golf",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B6D1&merchantid=seo-maps-BH-B6D1&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "sponsored": null
+  },
+  {
+    "id": "ChoQwKCeu7qJgf37ARoNL2cvMTFta3lxMHlqaBAC",
+    "name": "Sea View Sky High Luxury",
+    "price": 264,
+    "stars": null,
+    "rating": 4.85,
+    "reviews": 56,
+    "location_rating": null,
+    "coordinates": {
+      "latitude": 26.237123489379883,
+      "longitude": 50.591522216796875
+    },
+    "amenities": [
+      "Air conditioning",
+      "Kid-friendly",
+      "Elevator",
+      "Fitness center",
+      "Heating",
+      "Ironing board",
+      "Kitchen",
+      "Microwave",
+      "Outdoor pool",
+      "Oven stove",
+      "Pet-friendly",
+      "Cable TV",
+      "Washer",
+      "Free parking",
+      "Free Wi-Fi"
+    ],
+    "link": "https://book.hostfully.com/nikstalis-bahrain-corporation/property-details/df871830-81b8-493a-9d8e-c753c4300c07/sea-view-sky-high-luxury",
+    "sponsored": null
+  },
+  {
+    "id": "ChcI4bjt3LKvo-9KGgsvZy8xdGZwc3JnMBAB",
+    "name": "Al Safir Hotel & Tower",
+    "price": 253,
+    "stars": 4,
+    "rating": 3.9,
+    "reviews": 2631,
+    "location_rating": 4.4,
+    "coordinates": {
+      "latitude": 26.217014199999998,
+      "longitude": 50.604749299999995
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
       "Restaurant",
       "Room service",
       "Airport shuttle",
@@ -382,73 +519,121 @@
       "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "http://thesomerset.com.mv/",
+    "link": "http://www.alsafirhotel.com/",
     "sponsored": null
   },
   {
-    "id": "ChkIirezz5mktZVrGg0vZy8xMWZoeXJxa3QzEAE",
-    "name": "Tourist Inn",
-    "price": 334,
-    "stars": 3,
-    "rating": 4.5,
-    "reviews": 154,
-    "location_rating": 4.1,
+    "id": "ChkI792c8LiWk6UbGg0vZy8xMWZ3anIzZF8xEAE",
+    "name": "Swiss-Belsuites Admiral Juffair",
+    "price": 604,
+    "stars": 4,
+    "rating": 4.7,
+    "reviews": 2167,
+    "location_rating": 4.2,
     "coordinates": {
-      "latitude": 4.1741187,
-      "longitude": 73.50728339999999
+      "latitude": 26.2116841,
+      "longitude": 50.6096041
+    },
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pools",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
+    ],
+    "link": "https://www.swiss-belhotel.com/en-gb/swiss-belsuites-juffair",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIg7n-u5Sh8L0TGg0vZy8xMXF5ZDF4NTJ6EAE",
+    "name": "Bahrain Airport Hotel",
+    "price": 274,
+    "stars": 4,
+    "rating": 4.3,
+    "reviews": 465,
+    "location_rating": 3.2,
+    "coordinates": {
+      "latitude": 26.267837099999998,
+      "longitude": 50.6296125
     },
     "amenities": [
       "Free breakfast",
       "Free Wi-Fi",
-      "Parking",
+      "Free parking",
       "Air conditioning",
       "Restaurant",
-      "Airport shuttle"
+      "Full-service laundry"
     ],
-    "link": "http://touristinn.site/",
+    "link": "https://www.bahrainairporthotel.com.bh/",
     "sponsored": null
   },
   {
-    "id": "ChkIhZ2-5Mi_xPgLGg0vZy8xMXdocTNmc3RqEAE",
-    "name": "dusitD2 Feydhoo Maldives",
-    "price": 3700,
+    "id": "ChgI6p7y9-ufhYzQARoLL2cvMXRxbmsyYmIQAQ",
+    "name": "Sheraton Bahrain Hotel",
+    "price": 872,
     "stars": 5,
-    "rating": 4.7,
-    "reviews": 131,
-    "location_rating": 2.9,
+    "rating": 4.3,
+    "reviews": 1550,
+    "location_rating": 3.6,
     "coordinates": {
-      "latitude": 4.2104026999999995,
-      "longitude": 73.4850581
+      "latitude": 26.239040000000003,
+      "longitude": 50.583208000000006
     },
     "amenities": [
-      "Free breakfast",
-      "Wi-Fi",
+      "Free Wi-Fi",
       "Free parking",
-      "Pool",
+      "Outdoor pool",
+      "Air conditioning",
       "Fitness center",
-      "All inclusive available",
       "Spa",
-      "Beach access",
+      "Bar",
       "Restaurant",
-      "Airport shuttle"
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
     ],
-    "link": "https://www.dusit.com/dusitd2-feydhoo/",
+    "link": "https://www.marriott.com/en-us/hotels/bahsi-sheraton-bahrain-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
     "sponsored": null
   },
   {
-    "id": "ChkIrJqo29778rAyGg0vZy8xMWhkbmd2eGpwEAE",
-    "name": "AAA Hotels & Resorts",
-    "price": null,
+    "id": "ChoQlcWc29ex-trdARoNL2cvMTF3dnpmNG5odhAC",
+    "name": "BW Suites & Spa",
+    "price": 292,
     "stars": null,
-    "rating": 2.5,
-    "reviews": 11,
-    "location_rating": 4.5,
+    "rating": 4.7,
+    "reviews": 9,
+    "location_rating": 3.9,
     "coordinates": {
-      "latitude": 4.1752196,
-      "longitude": 73.5098489
+      "latitude": 26.21904754638672,
+      "longitude": 50.607688903808594
     },
-    "amenities": [],
-    "link": "http://www.aaaresorts.com/",
+    "amenities": [
+      "Air conditioning",
+      "Elevator",
+      "Fitness center",
+      "Indoor pool",
+      "Kitchen",
+      "Washer",
+      "Wheelchair accessible",
+      "Free parking",
+      "Free Wi-Fi"
+    ],
+    "link": null,
     "sponsored": null
   }
 ]

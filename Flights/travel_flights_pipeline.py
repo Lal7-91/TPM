@@ -168,89 +168,92 @@ def clean_flight_data_for_llm(serpapi_response, keep_fields=None):
 
     return cleaned
 
-# --------------------------------------------------
-# 7. MAIN PIPELINE
-# --------------------------------------------------
 def run_flights(user_text):
     start = time.time()
-    print("🔹 Phase 1: Fetch outbound flights")
+    
     # ---- PHASE 1: Outbound Flights ----
-    base_params = get_flight_request(user_text)
-    if not base_params:
-        raise SystemExit("❌ Failed to get flight request parameters")
+    print("🔹 Phase 1: Fetch outbound flights")
+    try:
+        base_params = get_flight_request(user_text)
+        if not base_params:
+            raise ValueError("Failed to get flight request parameters")
+    except Exception as e:
+        print(f"❌ Error in generating flight request: {e}")
+        return None
 
-    outbound_data = fetch_flights(base_params, "outbound")
-    cleaned_outbound = clean_flight_data_for_llm(outbound_data, keep_fields=["departure_token"])
-    top_outbounds_wrapped = top_flights(cleaned_outbound, user_text, top_n=1, return_full_data=False)
-    if not top_outbounds_wrapped:
-        raise SystemExit("❌ No outbound flights selected by LLM")
+    try:
+        outbound_data = fetch_flights(base_params, "outbound")
+        cleaned_outbound = clean_flight_data_for_llm(outbound_data, keep_fields=["departure_token"])
+        top_outbounds_wrapped = top_flights(cleaned_outbound, user_text, top_n=1, return_full_data=False)
+        if not top_outbounds_wrapped:
+            raise ValueError("No outbound flights selected by LLM")
+    except Exception as e:
+        print(f"❌ Error fetching or selecting outbound flights: {e}")
+        return None
 
-    # Unwrap 'final_flights' if needed
-    top_outbounds = top_outbounds_wrapped
-    if isinstance(top_outbounds_wrapped, list) and len(top_outbounds_wrapped) == 1:
-        item = top_outbounds_wrapped[0]
-        if isinstance(item, dict) and "final_flights" in item:
-            top_outbounds = item["final_flights"]
+    # Unwrap 'final_flights' safely
+    try:
+        top_outbounds = top_outbounds_wrapped
+        if isinstance(top_outbounds_wrapped, list) and len(top_outbounds_wrapped) == 1:
+            item = top_outbounds_wrapped[0]
+            if isinstance(item, dict) and "final_flights" in item:
+                top_outbounds = item["final_flights"]
 
-    if not top_outbounds:
-        raise SystemExit("❌ No outbound flights found after unwrapping 'final_flights'")
+        if not top_outbounds:
+            raise ValueError("No outbound flights found after unwrapping 'final_flights'")
 
-    chosen_outbound = top_outbounds[0]
-    dep_token = chosen_outbound.get("departure_token")
-    if not dep_token:
-        raise SystemExit("❌ No departure_token found in outbound flight")
+        chosen_outbound = top_outbounds[0]
+        dep_token = chosen_outbound.get("departure_token")
+        if not dep_token:
+            raise ValueError("No departure_token found in outbound flight")
+    except Exception as e:
+        print(f"❌ Error processing outbound flight data: {e}")
+        return None
 
     # ---- PHASE 2: Return Flights ----
     print("\n🔹 Phase 2: Fetch return flights")
-    return_params = dict(base_params)
-    return_params["departure_token"] = dep_token
+    try:
+        return_params = dict(base_params)
+        return_params["departure_token"] = dep_token
 
-    return_data = fetch_flights(return_params, "return")
-    cleaned_return = clean_flight_data_for_llm(return_data, keep_fields=["booking_token"])
-    top_returns_wrapped = top_flights(cleaned_return, user_text, top_n=1, return_full_data=False)
-    if not top_returns_wrapped:
-        raise SystemExit("❌ No return flights selected by LLM")
+        return_data = fetch_flights(return_params, "return")
+        cleaned_return = clean_flight_data_for_llm(return_data, keep_fields=["booking_token"])
+        top_returns_wrapped = top_flights(cleaned_return, user_text, top_n=1, return_full_data=False)
+        if not top_returns_wrapped:
+            raise ValueError("No return flights selected by LLM")
+    except Exception as e:
+        print(f"❌ Error fetching or selecting return flights: {e}")
+        return None
 
-    # Unwrap 'final_flights'
-    top_returns = top_returns_wrapped
-    if isinstance(top_returns_wrapped, list) and len(top_returns_wrapped) == 1:
-        item = top_returns_wrapped[0]
-        if isinstance(item, dict) and "final_flights" in item:
-            top_returns = item["final_flights"]
+    # Unwrap return flights safely
+    try:
+        top_returns = top_returns_wrapped
+        if isinstance(top_returns_wrapped, list) and len(top_returns_wrapped) == 1:
+            item = top_returns_wrapped[0]
+            if isinstance(item, dict) and "final_flights" in item:
+                top_returns = item["final_flights"]
 
-    if not top_returns:
-        raise SystemExit("❌ No return flights found after unwrapping 'final_flights'")
+        if not top_returns:
+            raise ValueError("No return flights found after unwrapping 'final_flights'")
 
-    chosen_return = top_returns[0]
-    booking_token = chosen_return.get("booking_token")
-    if not booking_token:
-        raise SystemExit("❌ No booking_token found in return flight")
-    
-# ---- PHASE 3: Booking Flights ----
+        chosen_return = top_returns[0]
+        booking_token = chosen_return.get("booking_token")
+        if not booking_token:
+            raise ValueError("No booking_token found in return flight")
+    except Exception as e:
+        print(f"❌ Error processing return flight data: {e}")
+        return None
+
+    # ---- PHASE 3: Booking Flights ----
     print("\n🔹 Phase 3: Fetch booking details")
-    booking_params = dict(base_params)
-    booking_params["booking_token"] = booking_token
-    # booking_params.pop("departure_token", None)
-    # booking_params.pop("return_date", None)
+    try:
+        booking_params = dict(base_params)
+        booking_params["booking_token"] = booking_token
 
-    booking_data = fetch_flights(booking_params, "booking")
-    # top_booking_wrapped = top_flights(booking_data, user_text, top_n=1, return_full_data=True)
-    # if not top_booking_wrapped:
-    #     raise SystemExit("❌ No booking data selected by LLM")
+        booking_data = fetch_flights(booking_params, "booking")
+    except Exception as e:
+        print(f"❌ Error fetching booking data: {e}")
+        return None
 
-    # # Unwrap 'final_flights' if returned
-    # top_booking = top_booking_wrapped
-    # if isinstance(top_booking_wrapped, list) and len(top_booking_wrapped) == 1:
-    #     item = top_booking_wrapped[0]
-    #     if isinstance(item, dict) and "final_flights" in item:
-    #         top_booking = item["final_flights"]
-
-    # if not top_booking:
-    #     raise SystemExit("❌ No booking details found after unwrapping 'final_flights'")
-
-    # print(f"\n✅ Finished full round-trip flow in {time.time() - start:.2f}s")
-    # print("📁 Booking details saved to flights/JSONs/booking.json")
-
+    print(f"\n✅ Finished full round-trip flow in {time.time() - start:.2f}s")
     return booking_data
-
-    
