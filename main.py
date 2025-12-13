@@ -1,8 +1,8 @@
 import datetime
+import time
 import streamlit as st
 from streamlit_option_menu import option_menu
 from TPM_runner import run_TPM
-import json
 
 
 # -------------------------------
@@ -19,7 +19,7 @@ if "selected_category" not in st.session_state:
 # Page UI
 # -------------------------------
 st.set_page_config(page_title="Travel Planner Mate", layout="centered", page_icon="✈️")
-st.title("✈️ Travel Planner — SWE Project UI")
+st.title("✈️ Travel Planner Mate (MVP)")
 
 today = datetime.date.today()
 six_months = today + datetime.timedelta(days=30 * 6)
@@ -35,43 +35,46 @@ with st.container():
     col1, col2 = st.columns(2)
 
     with col1:
-        departure = st.text_input("From (Departure Location)")
+        departure = st.text_input("Departure Location", placeholder="City or Airport code...")
         date_range = st.date_input(
-            "Select your trip dates",
-            (default_start, default_end),
+            "Trip dates",
+            value=(default_start, default_end),
             min_value=today,
             max_value=six_months,
             format="DD.MM.YYYY"
         )
-        if isinstance(date_range, tuple):
+
+        if isinstance(date_range, tuple) and len(date_range) == 2:
             start_date, end_date = date_range
+        elif isinstance(date_range, tuple) and len(date_range) == 1:
+            start_date = end_date = date_range[0]
         else:
             start_date = end_date = date_range
 
         travelers_num = st.number_input("Travelers Number:", min_value=1, value=1)
-        flights_checked = st.checkbox("Include Flights", value=True)
-        hotels_checked = st.checkbox("Include Hotels", value=True)
-        activities_checked = st.checkbox("Include Activities", value=True)
+        flights_checked = st.checkbox("Include Flights", value=False)
+        hotels_checked = st.checkbox("Include Hotels", value=False)
+        activities_checked = st.checkbox("Include Activities & Restaurants", value=False)
 
     with col2:
-        destination = st.text_input("Destination", placeholder="Riyadh, Jeddah, Dammam")
-        budget_min = st.number_input("Stay Budget Min per Night", min_value=0, value=500)
-        budget_max = st.number_input("Stay Budget Max per Night", min_value=0, value=2000)
-        description = st.text_area("Stay Imagination (optional)")
+        destination = st.text_input("Destination", placeholder="Molly, Almaty, Vinna")
+        budget_min = st.number_input("Stay Budget Min per Night (SAR)", min_value=0, value=200)
+        budget_max = st.number_input("Stay Budget Max per Night (SAR)", min_value=0, value=2000)
+        description = st.text_area("Stay Imagination (optional)", placeholder="Describe your stay ideas...\n Beach access, city center, quiet area..")
 
 # -------------------------------
 # Second container: Sliders row
 # -------------------------------
 with st.container():
-    st.subheader("Experience Preferences (Two Sliders)")
+    st.subheader("Experiences Preferences")
     col1, col2 = st.columns(2)
 
     with col1:
-        nature = st.slider("Nature (Human-built = 100 - Nature)", 0, 100, 50)
+        nature = st.slider("Human-built <-----------------------------------------------> Natural ", 0, 100, 50)
         human_built = 100 - nature
 
     with col2:
-        historical = st.slider("Historical (Modern = 100 - Historical)", 0, 100, 50)
+        historical = st.slider("Modern <--------------------------------------------------> Historical ", 0, 100, 50)
         modern = 100 - historical
 
     preferences = {
@@ -85,27 +88,84 @@ with st.container():
 # Search button
 # -------------------------------
 if st.button("Search", type="primary"):
-    st.session_state.show_results = True
 
-    # Run TPM pipelines
+    errors = []
+
+    # ---------------------------
+    # Flights validation
+    # ---------------------------
+    if flights_checked:
+        if not departure:
+            errors.append("✈️ Departure location is required for flights.")
+        if not destination:
+            errors.append("✈️ Destination is required for flights.")
+        if not start_date or not end_date:
+            errors.append("✈️ Trip dates are required for flights.")
+        if travelers_num < 1:
+            errors.append("✈️ Number of travelers is required for flights.")
+
+    # ---------------------------
+    # Hotels validation
+    # ---------------------------
+    if hotels_checked:
+        if not destination:
+            errors.append("🏨 Destination is required for hotels.")
+        if not start_date or not end_date:
+            errors.append("🏨 Trip dates are required for hotels.")
+        if travelers_num < 1:
+            errors.append("🏨 Number of travelers is required for hotels.")
+
+    # ---------------------------
+    # Activities validation
+    # ---------------------------
+    if activities_checked:
+        if not destination:
+            errors.append("🎯 Destination is required for activities.")
+
+    # ---------------------------
+    # No checkbox selected
+    # ---------------------------
+    if not (flights_checked or hotels_checked or activities_checked):
+        errors.append("Please select at least one option: Flights, Hotels, or Activities.")
+
+    # ---------------------------
+    # Show errors OR run search
+    # ---------------------------
+    if errors:
+        for err in errors:
+            st.toast(err, icon="⚠️")   # popup-style alert
+        st.stop()
+
+    # ---------------------------
+    # All good → run TPM
+    # ---------------------------
+    st.session_state.show_results = True
+    
+    start_time = time.time()
     with st.spinner("Running search..."):
         st.session_state.last_search_results = run_TPM(
             from_city=departure,
             to_city=destination,
             travelers=travelers_num,
             dates=f"{start_date} to {end_date}",
-            stay_image=None,
-            activities_percentages={
-                "nature": nature,
-                "old/historical": historical,
-                "modern": modern
-            },
+            activities_percentages=preferences,
             run_hotels_flag=hotels_checked,
             run_flights_flag=flights_checked,
             run_tripadvisor_flag=activities_checked,
-            top_n_hotels=5,
-            top_n_activities=5
         )
+
+    elapsed = time.time() - start_time
+    elapsed_rounded = round(elapsed, 1)
+
+    # -----------------------
+    # Color-coded result
+    # -----------------------
+    if elapsed < 30:
+        st.success(f"⏱ Search completed in {elapsed_rounded} seconds")
+    elif elapsed <= 40:
+        st.warning(f"⏱ Search completed in {elapsed_rounded} seconds")
+    else:
+        st.error(f"⏱ Search completed in {elapsed_rounded} seconds")
 
 # -------------------------------
 # Display results with horizontal menu (cards)
@@ -378,9 +438,4 @@ if st.session_state.show_results and st.session_state.last_search_results:
                                 for stop in layovers:
                                     st.write(f"- {stop.get('name', 'N/A')} ({stop.get('duration', 'N/A')/60:.1f} hours)")
 
-                        # Carbon emissions
-                        carbon = selected.get("carbon_emissions", {})
-                        with st.expander("Carbon Emissions"):
-                            st.write(f"This Flight: {carbon.get('this_flight', 'N/A')} g")
-                            st.write(f"Typical for Route: {carbon.get('typical_for_this_route', 'N/A')} g")
-                            st.write(f"Difference: {carbon.get('difference_percent', 'N/A')}%")
+                       

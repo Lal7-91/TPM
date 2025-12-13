@@ -1,8 +1,8 @@
 {
   "engine": "google_hotels",
-  "q": "Hotels in Bahrain",
-  "check_in_date": "2026-01-04",
-  "check_out_date": "2026-01-08",
+  "q": "Hotels in Moscow",
+  "check_in_date": "2026-01-07",
+  "check_out_date": "2026-01-14",
   "adults": "1",
   "children": "0",
   "currency": "SAR",

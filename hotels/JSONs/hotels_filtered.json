@@ -1,21 +1,146 @@
 [
   {
-    "id": "ChoI9uH74Y6mseCgARoNL2cvMTFqczVmamY3aBAB",
-    "name": "Hilton Bahrain",
-    "price": 608,
-    "stars": 5,
-    "rating": 4.8,
-    "reviews": 6958,
+    "id": "ChcIl_b4wdHP9ZdfGgsvZy8xdGoxcXJtNBAB",
+    "name": "Hotel Budapest",
+    "price": 328,
+    "stars": 4,
+    "rating": 4.2,
+    "reviews": 913,
+    "location_rating": 4.9,
+    "coordinates": {
+      "latitude": 55.763847,
+      "longitude": 37.618545
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Air conditioning",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.hotel-budapest.ru/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIusCXjKzV2bd7Gg0vZy8xMWcxbHMwMjl6EAE",
+    "name": "SoulRus",
+    "price": 31,
+    "stars": null,
+    "rating": 5,
+    "reviews": 122,
     "location_rating": 3.3,
     "coordinates": {
-      "latitude": 26.223807299999997,
-      "longitude": 50.609377200000004
+      "latitude": 55.804829999999995,
+      "longitude": 37.5903936
+    },
+    "amenities": [],
+    "link": "http://soulrus.moscow/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIzfqEldfyi5M5Gg0vZy8xMWNqajk4NWw0EAE",
+    "name": "Hostel Netizen",
+    "price": 48,
+    "stars": 2,
+    "rating": 4.5,
+    "reviews": 648,
+    "location_rating": 4.0,
+    "coordinates": {
+      "latitude": 55.746015,
+      "longitude": 37.682649399999995
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
-      "Pools",
+      "Air conditioning",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://moscow.netizenhostels.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIn4G5jZaS3JrgARoML2cvMWhkX3d6MnMxEAE",
+    "name": "Radisson Blu Belorusskaya Hotel, Moscow",
+    "price": 291,
+    "stars": 4,
+    "rating": 4.5,
+    "reviews": 1954,
+    "location_rating": 4.0,
+    "coordinates": {
+      "latitude": 55.7831889,
+      "longitude": 37.5793684
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
+    ],
+    "link": "https://www.radissonhotels.com/ru-ru/hotels/radisson-blu-moscow-belorusskaya?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:eerut+h:RUMOWBEL",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIuvPi_MPqvJKMARoML2cvMTJobG15cWZxEAE",
+    "name": "Mayakovka House",
+    "price": 141,
+    "stars": 3,
+    "rating": 4.4,
+    "reviews": 400,
+    "location_rating": 4.8,
+    "coordinates": {
+      "latitude": 55.7667566,
+      "longitude": 37.5967706
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "link": "https://hotel.d-mayakovka.com/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIsd7-3dfH5vUDGg0vZy8xMWZ4ZjdrXzQyEAE",
+    "name": "Hyatt Regency Moscow Petrovsky Park",
+    "price": 760,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 2698,
+    "location_rating": 3.4,
+    "coordinates": {
+      "latitude": 55.7875598,
+      "longitude": 37.5668241
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Indoor pool",
       "Hot tub",
       "Air conditioning",
       "Pet-friendly",
@@ -24,230 +149,65 @@
       "Bar",
       "Restaurant",
       "Room service",
-      "Kitchen",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.hilton.com/en/hotels/bahhhhi-hilton-bahrain/?SEO_id=GMB-EMEA-HI-BAHHHHI",
-    "sponsored": null
-  },
-  {
-    "id": "ChcIl6Xp-t_Ji9EaGgsvZy8xdGRtbmptbRAB",
-    "name": "Gulf Hotel Convention and SPA",
-    "price": 705,
-    "stars": 5,
-    "rating": 4.4,
-    "reviews": 10500,
-    "location_rating": 4.6,
-    "coordinates": {
-      "latitude": 26.2164625,
-      "longitude": 50.5944447
-    },
-    "amenities": [
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
       "Kitchen in some rooms",
+      "Airport shuttle",
       "Full-service laundry",
       "Accessible",
       "Business center",
       "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "https://www.marriott.com/en-us/hotels/bahmg-gulf-hotel-convention-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "link": "https://hyattpetrovskypark.ru/",
     "sponsored": null
   },
   {
-    "id": "ChoI3tjx77rq2pT0ARoNL2cvMTFjbHpoMnl0eRAB",
-    "name": "Downtown Rotana",
-    "price": 544,
+    "id": "ChoIisWu36Sm3bHYARoNL2cvMTFmOWYwZ2d4ehAB",
+    "name": "Radisson Blu Olympiyskiy Hotel, Moscow",
+    "price": 440,
     "stars": 5,
     "rating": 4.7,
-    "reviews": 4949,
-    "location_rating": 4.5,
+    "reviews": 1399,
+    "location_rating": 3.7,
     "coordinates": {
-      "latitude": 26.235155799999998,
-      "longitude": 50.5767216
-    },
-    "amenities": [
-      "Breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.rotana.com/downtownrotana",
-    "sponsored": null
-  },
-  {
-    "id": "ChkI8OiSq5qSoP07Gg0vZy8xMWc4ZzJyOW1zEAE",
-    "name": "Solymar Hotel & Beach",
-    "price": 552,
-    "stars": 5,
-    "rating": 4.6,
-    "reviews": 5030,
-    "location_rating": 3.5,
-    "coordinates": {
-      "latitude": 26.2916205,
-      "longitude": 50.6623059
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen in some rooms",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "http://www.solymarbahrain.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChcIpdTs3c69krYRGgsvZy8xdGZ3MWh2axAB",
-    "name": "Novotel Bahrain Al Dana Resort",
-    "price": 517,
-    "stars": 4,
-    "rating": 4.3,
-    "reviews": 5048,
-    "location_rating": 3.1,
-    "coordinates": {
-      "latitude": 26.24488,
-      "longitude": 50.601500599999994
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen in some rooms",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=3600&merchantid=seo-maps-BH-3600&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
-    "sponsored": null
-  },
-  {
-    "id": "ChcIydjQ2NSHvPh4GgsvZy8xdGdiNXYxMRAB",
-    "name": "Elite Resort & Spa",
-    "price": 396,
-    "stars": 4,
-    "rating": 4.1,
-    "reviews": 6951,
-    "location_rating": 3.1,
-    "coordinates": {
-      "latitude": 26.2461689,
-      "longitude": 50.601784699999996
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen in some rooms",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://elitegrouphotels.com/room/elite-resort-spa/",
-    "sponsored": null
-  },
-  {
-    "id": "ChcI5ufY-8HF_oBtGgsvZy8xdjNfMTQ5cBAB",
-    "name": "InterContinental Bahrain, an IHG Hotel",
-    "price": 492,
-    "stars": 5,
-    "rating": 4.7,
-    "reviews": 5211,
-    "location_rating": 4.4,
-    "coordinates": {
-      "latitude": 26.2350013,
-      "longitude": 50.5736084
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.ihg.com/intercontinental/hotels/gb/en//manama/bahha/hoteldetail",
-    "sponsored": null
-  },
-  {
-    "id": "ChgItbmCnLmImO23ARoLL2cvMXRjemh5eGgQAQ",
-    "name": "Grand Safir Hotel - Bahrain",
-    "price": 285,
-    "stars": 4,
-    "rating": 3.8,
-    "reviews": 1222,
-    "location_rating": 4.4,
-    "coordinates": {
-      "latitude": 26.2184897,
-      "longitude": 50.6051419
+      "latitude": 55.784897699999995,
+      "longitude": 37.626188899999995
     },
     "amenities": [
       "Free breakfast",
       "Free Wi-Fi",
       "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.radissonhotels.com/ru-ru/hotels/radisson-blu-moscow-olympiyskiy?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:eerut+h:RUMOWOLY",
+    "sponsored": null
+  },
+  {
+    "id": "ChcItODYiYTK-9zXARoKL20vMHd5eW0ycRAB",
+    "name": "National Hotel",
+    "price": 680,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 2747,
+    "location_rating": 4.9,
+    "coordinates": {
+      "latitude": 55.756869699999996,
+      "longitude": 37.6144527
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
       "Indoor pool",
       "Hot tub",
       "Air conditioning",
@@ -256,65 +216,215 @@
       "Bar",
       "Restaurant",
       "Room service",
-      "Airport shuttle",
       "Full-service laundry",
-      "Kid-friendly"
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
     ],
-    "link": "https://sites.google.com/view/grand-safir-hotel/",
+    "link": "https://national.ru/",
     "sponsored": null
   },
   {
-    "id": "ChkIwsH9542ai-Y3Gg0vZy8xMXJiejBnNTdyEAE",
-    "name": "Hilton Garden Inn Bahrain Bay",
-    "price": 623,
-    "stars": 4,
-    "rating": 4.4,
-    "reviews": 2751,
+    "id": "ChUItp-iv8WO9JlwGgkvbS8wYm45MGoQAQ",
+    "name": "Hilton Moscow Leningradskaya",
+    "price": 457,
+    "stars": 5,
+    "rating": 4.5,
+    "reviews": 3844,
     "location_rating": 3.9,
     "coordinates": {
-      "latitude": 26.2490545,
-      "longitude": 50.585736499999996
+      "latitude": 55.7741044,
+      "longitude": 37.651761
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
+      "Indoor pool",
       "Hot tub",
       "Air conditioning",
+      "Pet-friendly",
       "Fitness center",
+      "Spa",
+      "Bar",
       "Restaurant",
       "Room service",
+      "Full-service laundry",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://www.hilton.com/en/hotels/svohfhi-hilton-moscow-leningradskaya/?SEO_id=GMB-EMEA-HI-SVOHFHI",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI7IiZkJ_0xoGtARoNL2cvMTFmNTd0ZzlsehAB",
+    "name": "Axel Hostel",
+    "price": 52,
+    "stars": 2,
+    "rating": 4.3,
+    "reviews": 173,
+    "location_rating": 4.8,
+    "coordinates": {
+      "latitude": 55.7571465,
+      "longitude": 37.646664900000005
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Full-service laundry"
+    ],
+    "link": "http://www.axel-hotel.ru/",
+    "sponsored": null
+  },
+  {
+    "id": "ChYIha6uhNWlifOiARoJL20vMGI4bXBzEAE",
+    "name": "Four Seasons Hotel Moscow",
+    "price": 3017,
+    "stars": 5,
+    "rating": 4.7,
+    "reviews": 3148,
+    "location_rating": 4.9,
+    "coordinates": {
+      "latitude": 55.75700510000001,
+      "longitude": 37.616460599999996
+    },
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
       "Full-service laundry",
       "Accessible",
       "Business center",
       "Kid-friendly"
     ],
-    "link": "https://www.hilton.com/en/hotels/bahtagi-hilton-garden-inn-bahrain-bay/?SEO_id=GMB-EMEA-GI-BAHTAGI",
+    "link": "https://thelegendofmoscow.com/",
     "sponsored": null
   },
   {
-    "id": "ChkIiP3dh_L_ut-_ARoML2cvMTJobjk2ZHB0EAE",
-    "name": "The Olive Hotel, Juffair",
-    "price": 212,
-    "stars": 4,
-    "rating": 3.9,
-    "reviews": 2027,
-    "location_rating": 4.3,
+    "id": "ChYI1auOoY3vvdsxGgovbS8wMnE4Mnk0EAE",
+    "name": "Hotel Metropol Moscow",
+    "price": 1587,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 4615,
+    "location_rating": 4.9,
     "coordinates": {
-      "latitude": 26.219540199999997,
-      "longitude": 50.606270599999995
+      "latitude": 55.758323,
+      "longitude": 37.621583
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Indoor pool",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "http://www.metropol-moscow.ru/",
+    "sponsored": null
+  },
+  {
+    "id": "ChoI1pWMz6uKuvbJARoNL2cvMTFkeWJiYzdqNxAB",
+    "name": "ibis Москва Октябрьское Поле",
+    "price": 160,
+    "stars": 3,
+    "rating": 4.5,
+    "reviews": 1408,
+    "location_rating": 3.6,
+    "coordinates": {
+      "latitude": 55.7985871,
+      "longitude": 37.495970299999996
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Bar",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "link": "https://accor.ru/moscow/ibis-moscow-oktyabrskoye-pole/?utm_source=google_maps&utm_medium=organic&utm_campaign=ibis-moscow-oktyabrskoye-pole",
+    "sponsored": null
+  },
+  {
+    "id": "ChcIw-LtwqOg0PKJARoKL20vMDQzbjkweBAB",
+    "name": "Savoy",
+    "price": 681,
+    "stars": 5,
+    "rating": 4.6,
+    "reviews": 808,
+    "location_rating": 4.8,
+    "coordinates": {
+      "latitude": 55.760411000000005,
+      "longitude": 37.623379299999996
     },
     "amenities": [
       "Free breakfast",
+      "Free Wi-Fi",
+      "Indoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "link": "https://savoy.ru/",
+    "sponsored": null
+  },
+  {
+    "id": "ChkIoPmFpOmXgdehARoML2cvMTF4ZzBqNGc4EAE",
+    "name": "Radisson Slavyanskaya Hotel & Business Center, Moscow",
+    "price": 285,
+    "stars": 4,
+    "rating": 4.5,
+    "reviews": 5410,
+    "location_rating": 4.2,
+    "coordinates": {
+      "latitude": 55.7416838,
+      "longitude": 37.5667739
+    },
+    "amenities": [
+      "Breakfast ($)",
       "Free Wi-Fi",
       "Free parking",
       "Pool",
       "Hot tub",
       "Air conditioning",
-      "Pet-friendly",
       "Fitness center",
-      "Spa",
       "Bar",
       "Restaurant",
       "Room service",
@@ -322,191 +432,62 @@
       "Full-service laundry",
       "Accessible",
       "Business center",
-      "Kid-friendly"
+      "Kid-friendly",
+      "Smoke-free property"
     ],
-    "link": "http://theolivehotel.com/",
+    "link": "https://www.radissonhotels.com/ru-ru/hotels/radisson-moscow-slavyanskaya?cid=a:se+b:gmb+c:emea+i:local+e:rad+d:eerut+h:RUMOWSLA",
     "sponsored": null
   },
   {
-    "id": "ChkIzIOYtaqU8Y_-ARoML2cvMTI0eXB3ZjBzEAE",
-    "name": "Four Seasons Hotel Bahrain Bay",
-    "price": 1941,
+    "id": "ChgIirnEg5rsloXaARoLL2cvMXRkMjQzNzYQAQ",
+    "name": "Hotel Continental",
+    "price": 774,
     "stars": 5,
-    "rating": 4.7,
-    "reviews": 9880,
-    "location_rating": 3.8,
+    "rating": 4.5,
+    "reviews": 1338,
+    "location_rating": 4.8,
     "coordinates": {
-      "latitude": 26.247162900000003,
-      "longitude": 50.5818924
+      "latitude": 55.767702299999996,
+      "longitude": 37.6010713
     },
     "amenities": [
       "Breakfast ($)",
       "Free Wi-Fi",
       "Parking",
-      "Pools",
-      "Hot tub",
-      "Air conditioning",
-      "Pet-friendly",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://www.fourseasons.com/bahrain/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-bah-hre-mid-seo-na&utm_content=na-na&utm_term=na",
-    "sponsored": null
-  },
-  {
-    "id": "ChgIxoKAmLz569UXGgwvZy8xcTYyaHEyeDkQAQ",
-    "name": "Premier Hotel",
-    "price": 234,
-    "stars": 4,
-    "rating": 3.9,
-    "reviews": 1748,
-    "location_rating": 3.3,
-    "coordinates": {
-      "latitude": 26.2201016,
-      "longitude": 50.6102109
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
       "Air conditioning",
       "Fitness center",
       "Spa",
       "Bar",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center"
-    ],
-    "link": "https://premierhotelbahrain.com/",
-    "sponsored": null
-  },
-  {
-    "id": "ChkI1u27_buYtpplGg0vZy8xMWI2eGM4MXZjEAE",
-    "name": "Le Méridien City Centre Bahrain",
-    "price": 686,
-    "stars": 5,
-    "rating": 4.3,
-    "reviews": 3009,
-    "location_rating": 4.4,
-    "coordinates": {
-      "latitude": 26.233003999999998,
-      "longitude": 50.552192999999995
-    },
-    "amenities": [
-      "Breakfast ($)",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
       "Restaurant",
       "Room service",
       "Kitchen in some rooms",
+      "Full-service laundry",
+      "Accessible",
       "Business center",
       "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "https://www.marriott.com/en-us/hotels/bahmd-le-meridien-city-centre-bahrain/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "link": "https://continental-hotel.ru/",
     "sponsored": null
   },
   {
-    "id": "ChkIxevOtMX_7cQsGg0vZy8xMWxjYzA3bHJfEAE",
-    "name": "Raffles Al Areen Palace Bahrain",
-    "price": 1931,
-    "stars": 5,
-    "rating": 4.8,
-    "reviews": 1055,
-    "location_rating": 2.3,
-    "coordinates": {
-      "latitude": 26.002271699999998,
-      "longitude": 50.5188013
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Hot tub",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Restaurant",
-      "Room service",
-      "Airport shuttle",
-      "Golf",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly"
-    ],
-    "link": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B6D1&merchantid=seo-maps-BH-B6D1&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
-    "sponsored": null
-  },
-  {
-    "id": "ChoQwKCeu7qJgf37ARoNL2cvMTFta3lxMHlqaBAC",
-    "name": "Sea View Sky High Luxury",
-    "price": 264,
-    "stars": null,
-    "rating": 4.85,
-    "reviews": 56,
-    "location_rating": null,
-    "coordinates": {
-      "latitude": 26.237123489379883,
-      "longitude": 50.591522216796875
-    },
-    "amenities": [
-      "Air conditioning",
-      "Kid-friendly",
-      "Elevator",
-      "Fitness center",
-      "Heating",
-      "Ironing board",
-      "Kitchen",
-      "Microwave",
-      "Outdoor pool",
-      "Oven stove",
-      "Pet-friendly",
-      "Cable TV",
-      "Washer",
-      "Free parking",
-      "Free Wi-Fi"
-    ],
-    "link": "https://book.hostfully.com/nikstalis-bahrain-corporation/property-details/df871830-81b8-493a-9d8e-c753c4300c07/sea-view-sky-high-luxury",
-    "sponsored": null
-  },
-  {
-    "id": "ChcI4bjt3LKvo-9KGgsvZy8xdGZwc3JnMBAB",
-    "name": "Al Safir Hotel & Tower",
-    "price": 253,
+    "id": "ChgI4cry9r2Ui_xfGgwvZy8xMXpxM3lyOHMQAQ",
+    "name": "Novotel Москва Сити",
+    "price": null,
     "stars": 4,
-    "rating": 3.9,
-    "reviews": 2631,
+    "rating": 4.6,
+    "reviews": 3325,
     "location_rating": 4.4,
     "coordinates": {
-      "latitude": 26.217014199999998,
-      "longitude": 50.604749299999995
+      "latitude": 55.748360399999996,
+      "longitude": 37.5371063
     },
     "amenities": [
-      "Free breakfast",
+      "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
-      "Indoor pool",
-      "Hot tub",
+      "Parking",
       "Air conditioning",
+      "Pet-friendly",
       "Fitness center",
       "Spa",
       "Bar",
@@ -519,121 +500,71 @@
       "Kid-friendly",
       "Smoke-free property"
     ],
-    "link": "http://www.alsafirhotel.com/",
+    "link": "https://accor.ru/moscow/novotel-moscow-city/?utm_source=google_maps&utm_medium=organic&utm_campaign=novotel-moscow-city",
     "sponsored": null
   },
   {
-    "id": "ChkI792c8LiWk6UbGg0vZy8xMWZ3anIzZF8xEAE",
-    "name": "Swiss-Belsuites Admiral Juffair",
-    "price": 604,
+    "id": "ChoI_veIgbTc9-K5ARoNL2cvMTFnOW1mcjl4NhAB",
+    "name": "Hartwell Hotel",
+    "price": 432,
     "stars": 4,
-    "rating": 4.7,
-    "reviews": 2167,
-    "location_rating": 4.2,
+    "rating": 4.5,
+    "reviews": 146,
+    "location_rating": 4.5,
     "coordinates": {
-      "latitude": 26.2116841,
-      "longitude": 50.6096041
+      "latitude": 55.7653019,
+      "longitude": 37.5891938
     },
     "amenities": [
-      "Breakfast",
+      "Breakfast ($)",
       "Free Wi-Fi",
-      "Free parking",
-      "Pools",
-      "Hot tub",
       "Air conditioning",
-      "Fitness center",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Room service",
-      "Kitchen",
-      "Airport shuttle",
-      "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Smoke-free property"
-    ],
-    "link": "https://www.swiss-belhotel.com/en-gb/swiss-belsuites-juffair",
-    "sponsored": null
-  },
-  {
-    "id": "ChkIg7n-u5Sh8L0TGg0vZy8xMXF5ZDF4NTJ6EAE",
-    "name": "Bahrain Airport Hotel",
-    "price": 274,
-    "stars": 4,
-    "rating": 4.3,
-    "reviews": 465,
-    "location_rating": 3.2,
-    "coordinates": {
-      "latitude": 26.267837099999998,
-      "longitude": 50.6296125
-    },
-    "amenities": [
-      "Free breakfast",
-      "Free Wi-Fi",
-      "Free parking",
-      "Air conditioning",
-      "Restaurant",
-      "Full-service laundry"
-    ],
-    "link": "https://www.bahrainairporthotel.com.bh/",
-    "sponsored": null
-  },
-  {
-    "id": "ChgI6p7y9-ufhYzQARoLL2cvMXRxbmsyYmIQAQ",
-    "name": "Sheraton Bahrain Hotel",
-    "price": 872,
-    "stars": 5,
-    "rating": 4.3,
-    "reviews": 1550,
-    "location_rating": 3.6,
-    "coordinates": {
-      "latitude": 26.239040000000003,
-      "longitude": 50.583208000000006
-    },
-    "amenities": [
-      "Free Wi-Fi",
-      "Free parking",
-      "Outdoor pool",
-      "Air conditioning",
-      "Fitness center",
-      "Spa",
       "Bar",
       "Restaurant",
       "Room service",
       "Full-service laundry",
-      "Accessible",
-      "Business center",
-      "Kid-friendly",
-      "Smoke-free property"
+      "Kid-friendly"
     ],
-    "link": "https://www.marriott.com/en-us/hotels/bahsi-sheraton-bahrain-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "link": "https://hartwellhotel.ru/",
     "sponsored": null
   },
   {
-    "id": "ChoQlcWc29ex-trdARoNL2cvMTF3dnpmNG5odhAC",
-    "name": "BW Suites & Spa",
-    "price": 292,
+    "id": "ChkQ1_urhtT44fRzGg0vZy8xMXluMjlsMXZ5EAI",
+    "name": "Апарт-отель Озеро",
+    "price": 320,
     "stars": null,
-    "rating": 4.7,
-    "reviews": 9,
-    "location_rating": 3.9,
+    "rating": 5,
+    "reviews": 4,
+    "location_rating": 2.6,
     "coordinates": {
-      "latitude": 26.21904754638672,
-      "longitude": 50.607688903808594
+      "latitude": 55.66135025024414,
+      "longitude": 37.9871826171875
     },
     "amenities": [
-      "Air conditioning",
+      "Fireplace",
+      "Microwave"
+    ],
+    "link": "https://101hotels.com/main/cities/kraskovo/apart-otel_ozero.html?selected_room_id=2270147&utm_source=google&utm_medium=free_booking_links&utm_campaign=vacation_rentals",
+    "sponsored": null
+  },
+  {
+    "id": "ChkQj6GA6L26-PwJGg0vZy8xMXhreF93cTExEAI",
+    "name": "Апартаменты SunKiss",
+    "price": 366,
+    "stars": null,
+    "rating": 1.9,
+    "reviews": 1,
+    "location_rating": 3.1,
+    "coordinates": {
+      "latitude": 55.847713470458984,
+      "longitude": 37.6366081237793
+    },
+    "amenities": [
       "Elevator",
-      "Fitness center",
-      "Indoor pool",
-      "Kitchen",
-      "Washer",
-      "Wheelchair accessible",
-      "Free parking",
+      "Pet-friendly",
       "Free Wi-Fi"
     ],
-    "link": null,
+    "link": "https://www.zenhotels.com/go/rooms/10622611/?partner_slug=google.affiliate.d21a&utm_medium=cpc-metasearch&utm_source=google_vr",
     "sponsored": null
   }
 ]

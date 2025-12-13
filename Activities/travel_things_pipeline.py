@@ -33,26 +33,21 @@ def safe_parse(text):
 
     s = text.strip()
 
-    # Remove code fences like ```json ... ```
     s = re.sub(r"```(?:json)?", "", s).replace("```", "").strip()
 
-    # Direct JSON parse
     try:
         return json.loads(s)
     except Exception:
         pass
 
-    # Try to extract the **largest JSON array**
     arrays = re.findall(r'\[[\s\S]*?]', s, flags=re.MULTILINE)
     if arrays:
-        # Pick the longest (usually the real one)
         best = max(arrays, key=len)
         try:
             return json.loads(best)
         except Exception:
             pass
 
-    # Try to extract JSON objects
     objs = re.findall(r'\{[\s\S]*?}', s, flags=re.MULTILINE)
     if objs:
         best = max(objs, key=len)
@@ -61,7 +56,6 @@ def safe_parse(text):
         except Exception:
             pass
 
-    # Last chance: fix trailing commas
     s2 = re.sub(r",(\s*[\]}])", r"\1", s)
     try:
         return json.loads(s2)

@@ -1,15 +1,13 @@
-# TPM_runner.py
-
-import json, time
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from Hotels.travel_hotels_pipeline import run_hotels
 from Flights.travel_flights_pipeline import run_flights
 from Activities.travel_things_pipeline import run_tripadvisor
 
-def run_TPM(from_city, to_city, travelers, dates, stay_image, activities_percentages,
+def run_TPM(from_city, to_city, travelers, dates, activities_percentages,
             run_hotels_flag=True, run_flights_flag=True, run_tripadvisor_flag=True,
-            top_n_hotels=5, top_n_activities=5):
+            ):
     
     start = time.perf_counter()
 
@@ -55,9 +53,9 @@ def run_TPM(from_city, to_city, travelers, dates, stay_image, activities_percent
     print(f"\nTotal time taken to run TPM pipelines: {time_taken:.2f} seconds")
 
     # Print counters summary
-    print("\nPipeline Summary:")
-    for k, v in pipeline_counters.items():
-        print(f"{k.upper()} → ✅ Success: {v['success']} | ❌ Failed: {v['failed']}")
+    # print("\nPipeline Summary:")
+    # for k, v in pipeline_counters.items():
+    #     print(f"{k.upper()} → ✅ Success: {v['success']} | ❌ Failed: {v['failed']}")
         
         
         
